@@ -1,0 +1,17 @@
+./metrics/ghidra/
+./metrics/reactor-core/
+./metrics/Recaf/
+./metrics/Mindustry/
+./metrics/zipkin/
+./metrics/jdk/
+./metrics/dragonwell8/
+./metrics/openhab1-addons/
+./metrics/lombok/
+./metrics/Grasscutter/
+./metrics/openj9/
+./metrics/platform_frameworks_base/
+./metrics/buck/
+./metrics/checkstyle/
+./metrics/trino/
+./metrics/j2objc/
+./metrics/ghidra/

@@ -1,0 +1,7 @@
+/mnt/c/pucminas/lab/atv2/metrics/Grasscutter
+/mnt/c/pucminas/lab/atv2/metrics/Mindustry
+/mnt/c/pucminas/lab/atv2/metrics/ghidra
+/mnt/c/pucminas/lab/atv2/metrics/j2objc
+/mnt/c/pucminas/lab/atv2/metrics/jdk
+/mnt/c/pucminas/lab/atv2/metrics/lombok
+/mnt/c/pucminas/lab/atv2/metrics/react-native-camera

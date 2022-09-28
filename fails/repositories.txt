@@ -1,0 +1,17 @@
+https://github.com/NationalSecurityAgency/ghidra
+https://github.com/reactor/reactor-core
+https://github.com/Col-E/Recaf
+https://github.com/Anuken/Mindustry
+https://github.com/openzipkin/zipkin
+https://github.com/openjdk/jdk
+https://github.com/alibaba/dragonwell8
+https://github.com/openhab/openhab1-addons
+https://github.com/projectlombok/lombok
+https://github.com/Grasscutters/Grasscutter
+https://github.com/eclipse-openj9/openj9
+https://github.com/aosp-mirror/platform_frameworks_base
+https://github.com/facebook/buck
+https://github.com/checkstyle/checkstyle
+https://github.com/trinodb/trino
+https://github.com/google/j2objc
+https://github.com/NationalSecurityAgency/ghidra

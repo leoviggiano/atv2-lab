@@ -1,0 +1,1021 @@
+Name,CreatedAt,UpdatedAt,PrimaryLanguage,Releases,PullRequests,Open Issues,Closed Issues,LastRelease,Stars,Url
+JavaGuide,2018-05-07 13:27:00 +0000 UTC,2022-09-13 18:57:19 +0000 UTC,Java,0,715,66,756,No Releases,127237,https://github.com/Snailclimb/JavaGuide
+java-design-patterns,2014-08-09 16:45:18 +0000 UTC,2022-09-13 18:59:56 +0000 UTC,Java,0,853,218,481,No Releases,76718,https://github.com/iluwatar/java-design-patterns
+LeetCodeAnimation,2018-12-06 08:01:22 +0000 UTC,2022-09-13 18:43:27 +0000 UTC,Java,0,63,15,42,No Releases,71417,https://github.com/MisterBooo/LeetCodeAnimation
+advanced-java,2018-10-06 11:38:30 +0000 UTC,2022-09-13 15:57:25 +0000 UTC,Java,1,74,1,133,2021-10-21T09:28:54Z,65389,https://github.com/doocs/advanced-java
+spring-boot,2012-10-19 15:02:57 +0000 UTC,2022-09-13 17:51:57 +0000 UTC,Java,145,41,540,26116,2022-08-18T05:22:18Z,63149,https://github.com/spring-projects/spring-boot
+elasticsearch,2010-02-08 13:20:56 +0000 UTC,2022-09-13 19:10:40 +0000 UTC,Java,96,50955,3430,27246,2022-08-30T15:30:35Z,61103,https://github.com/elastic/elasticsearch
+mall,2018-04-04 01:11:44 +0000 UTC,2022-09-13 18:57:21 +0000 UTC,Java,2,0,25,414,2022-06-07T09:28:50Z,60980,https://github.com/macrozheng/mall
+interviews,2017-02-14 18:19:25 +0000 UTC,2022-09-13 18:55:51 +0000 UTC,Java,0,42,30,19,No Releases,58176,https://github.com/kdn251/interviews
+spring-framework,2010-12-08 04:04:45 +0000 UTC,2022-09-13 18:41:14 +0000 UTC,Java,234,720,1229,21239,2022-07-14T08:39:33Z,49104,https://github.com/spring-projects/spring-framework
+GitHub-Chinese-Top-Charts,2019-09-05 03:01:56 +0000 UTC,2022-09-13 17:36:48 +0000 UTC,Java,0,0,88,147,No Releases,48051,https://github.com/GrowingGit/GitHub-Chinese-Top-Charts
+Java,2016-07-16 10:21:02 +0000 UTC,2022-09-13 18:55:35 +0000 UTC,Java,0,836,9,675,No Releases,47692,https://github.com/TheAlgorithms/Java
+RxJava,2013-01-08 20:11:48 +0000 UTC,2022-09-13 17:51:57 +0000 UTC,Java,229,3103,12,3085,2022-05-30T06:49:23Z,46429,https://github.com/ReactiveX/RxJava
+guava,2014-05-29 16:23:17 +0000 UTC,2022-09-13 17:39:01 +0000 UTC,Java,35,363,656,2726,2022-02-28T21:06:35Z,45680,https://github.com/google/guava
+retrofit,2010-09-06 21:39:43 +0000 UTC,2022-09-13 16:22:29 +0000 UTC,Java,0,764,140,2457,No Releases,40520,https://github.com/square/retrofit
+dubbo,2012-06-19 07:56:02 +0000 UTC,2022-09-13 15:03:59 +0000 UTC,Java,54,3433,432,5012,2022-08-17T13:51:59Z,37841,https://github.com/apache/dubbo
+MPAndroidChart,2014-04-25 14:29:47 +0000 UTC,2022-09-13 16:23:50 +0000 UTC,Java,44,190,1969,2861,2019-03-16T10:53:42Z,35556,https://github.com/PhilJay/MPAndroidChart
+ghidra,2019-03-01 03:27:48 +0000 UTC,2022-09-13 14:05:19 +0000 UTC,Java,22,305,1190,2149,2022-07-26T19:12:21Z,34190,https://github.com/NationalSecurityAgency/ghidra
+lottie-android,2016-10-06 22:42:42 +0000 UTC,2022-09-13 17:30:37 +0000 UTC,Java,43,552,33,1437,2022-05-31T00:33:21Z,33184,https://github.com/airbnb/lottie-android
+glide,2013-07-08 22:52:33 +0000 UTC,2022-09-13 16:22:26 +0000 UTC,Java,39,407,365,3786,2022-05-04T20:39:28Z,32964,https://github.com/bumptech/glide
+tutorials,2013-04-29 18:26:36 +0000 UTC,2022-09-13 17:53:52 +0000 UTC,Java,0,8733,25,594,No Releases,31919,https://github.com/eugenp/tutorials
+jadx,2013-03-18 17:08:21 +0000 UTC,2022-09-13 17:58:24 +0000 UTC,Java,25,354,248,1001,2022-08-19T21:15:04Z,31562,https://github.com/skylot/jadx
+hello-algorithm,2020-05-29 05:47:09 +0000 UTC,2022-09-13 15:03:05 +0000 UTC,Java,0,25,6,32,No Releases,31348,https://github.com/geekxh/hello-algorithm
+AndroidUtilCode,2016-07-30 18:18:32 +0000 UTC,2022-09-13 10:29:57 +0000 UTC,Java,116,85,214,1259,2020-10-24T18:33:15Z,31343,https://github.com/Blankj/AndroidUtilCode
+jeecg-boot,2018-11-26 10:40:00 +0000 UTC,2022-09-13 15:03:45 +0000 UTC,Java,21,12,32,3326,2022-08-08T07:47:09Z,30767,https://github.com/jeecgboot/jeecg-boot
+arthas,2018-08-29 17:15:57 +0000 UTC,2022-09-13 14:39:11 +0000 UTC,Java,46,403,196,1391,2022-09-04T07:10:20Z,30458,https://github.com/alibaba/arthas
+zxing,2011-10-12 14:07:27 +0000 UTC,2022-09-13 12:22:23 +0000 UTC,Java,28,207,6,1161,2022-05-01T16:16:16Z,30081,https://github.com/zxing/zxing
+netty,2010-11-09 09:22:21 +0000 UTC,2022-09-13 14:24:15 +0000 UTC,Java,0,2805,522,5384,No Releases,29907,https://github.com/netty/netty
+dbeaver,2015-10-21 08:26:28 +0000 UTC,2022-09-13 19:09:38 +0000 UTC,Java,159,2787,1545,11692,2022-09-02T12:30:09Z,28260,https://github.com/dbeaver/dbeaver
+spring-boot-examples,2016-11-05 05:32:33 +0000 UTC,2022-09-13 12:01:48 +0000 UTC,Java,0,7,8,97,No Releases,27977,https://github.com/ityouknow/spring-boot-examples
+apollo,2016-03-04 10:24:23 +0000 UTC,2022-09-13 11:19:16 +0000 UTC,Java,37,1237,128,2746,2022-06-04T06:05:37Z,27271,https://github.com/apolloconfig/apollo
+JCSprout,2017-12-17 09:06:50 +0000 UTC,2022-09-13 10:50:00 +0000 UTC,Java,0,69,30,59,No Releases,26810,https://github.com/crossoverJie/JCSprout
+spring-boot-demo,2017-11-10 06:27:29 +0000 UTC,2022-09-13 14:21:46 +0000 UTC,Java,0,15,74,71,No Releases,26575,https://github.com/xkcoding/spring-boot-demo
+druid,2011-11-03 05:12:51 +0000 UTC,2022-09-13 12:35:52 +0000 UTC,Java,45,981,2300,1359,2022-09-10T12:40:32Z,26008,https://github.com/alibaba/druid
+butterknife,2013-03-05 08:18:59 +0000 UTC,2022-09-13 16:18:19 +0000 UTC,Java,0,346,97,1078,No Releases,25681,https://github.com/JakeWharton/butterknife
+miaosha,2018-09-14 04:36:24 +0000 UTC,2022-09-13 13:17:12 +0000 UTC,Java,0,17,38,38,No Releases,25284,https://github.com/qiurunze123/miaosha
+proxyee-down,2017-10-25 10:07:27 +0000 UTC,2022-09-13 10:52:24 +0000 UTC,Java,49,16,0,0,2018-11-09T05:36:52Z,25163,https://github.com/proxyee-down-org/proxyee-down
+easyexcel,2018-02-06 03:14:08 +0000 UTC,2022-09-13 14:13:18 +0000 UTC,Java,1,111,159,2240,2018-11-29T02:30:50Z,25022,https://github.com/alibaba/easyexcel
+fastjson,2011-11-03 06:58:52 +0000 UTC,2022-09-13 01:24:03 +0000 UTC,Java,84,418,1789,1627,2022-05-23T00:55:52Z,24955,https://github.com/alibaba/fastjson
+vhr,2018-01-04 08:57:51 +0000 UTC,2022-09-13 13:17:26 +0000 UTC,Java,0,1,154,93,No Releases,24825,https://github.com/lenve/vhr
+selenium,2013-01-14 21:40:56 +0000 UTC,2022-09-13 14:43:33 +0000 UTC,Java,76,1062,80,8263,2022-08-09T10:22:08Z,24556,https://github.com/SeleniumHQ/selenium
+SpringAll,2018-05-02 02:48:44 +0000 UTC,2022-09-13 15:18:59 +0000 UTC,Java,0,1,13,27,No Releases,24237,https://github.com/wuyouzhuguli/SpringAll
+EventBus,2012-07-16 16:55:40 +0000 UTC,2022-09-13 09:28:16 +0000 UTC,Java,7,31,104,465,2021-12-08T10:51:14Z,24093,https://github.com/greenrobot/EventBus
+canal,2013-01-13 10:59:52 +0000 UTC,2022-09-13 14:12:40 +0000 UTC,Java,25,396,778,3014,2022-09-13T14:28:49Z,24039,https://github.com/alibaba/canal
+nacos,2018-06-15 06:49:27 +0000 UTC,2022-09-13 16:37:02 +0000 UTC,Java,47,2033,443,5708,2022-08-08T10:12:15Z,23891,https://github.com/alibaba/nacos
+hutool,2014-04-13 07:23:51 +0000 UTC,2022-09-13 13:19:42 +0000 UTC,Java,120,309,7,1951,2022-09-05T10:07:31Z,23881,https://github.com/dromara/hutool
+toBeTopJavaer,2018-10-25 09:54:54 +0000 UTC,2022-09-13 14:08:44 +0000 UTC,Java,0,52,52,63,No Releases,23840,https://github.com/hollischuang/toBeTopJavaer
+SmartRefreshLayout,2017-06-02 09:52:50 +0000 UTC,2022-09-13 16:22:31 +0000 UTC,Java,10,6,248,1197,2021-12-03T03:29:02Z,23801,https://github.com/scwang90/SmartRefreshLayout
+spring-cloud-alibaba,2017-12-01 20:49:15 +0000 UTC,2022-09-13 16:20:38 +0000 UTC,Java,28,627,371,1463,2022-06-24T03:59:53Z,23592,https://github.com/alibaba/spring-cloud-alibaba
+halo,2018-03-21 12:56:52 +0000 UTC,2022-09-13 16:20:31 +0000 UTC,Java,87,660,172,1330,2022-07-07T03:44:11Z,23519,https://github.com/halo-dev/halo
+BaseRecyclerViewAdapterHelper,2016-04-10 07:40:11 +0000 UTC,2022-09-13 07:42:05 +0000 UTC,Java,193,191,500,2902,2022-08-23T04:07:47Z,23100,https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+kafka,2011-08-15 18:06:16 +0000 UTC,2022-09-13 18:22:01 +0000 UTC,Java,0,5773,0,0,No Releases,23051,https://github.com/apache/kafka
+Hystrix,2012-11-19 20:14:46 +0000 UTC,2022-09-13 18:10:36 +0000 UTC,Java,79,672,340,681,2018-11-16T22:47:39Z,22912,https://github.com/Netflix/Hystrix
+seata,2018-12-28 08:37:22 +0000 UTC,2022-09-13 11:08:24 +0000 UTC,Java,33,1534,632,2179,2022-07-12T16:00:39Z,22790,https://github.com/seata/seata
+Signal-Android,2011-12-15 20:01:12 +0000 UTC,2022-09-13 18:41:48 +0000 UTC,Java,0,238,242,9525,No Releases,22782,https://github.com/signalapp/Signal-Android
+xxl-job,2015-11-28 12:59:34 +0000 UTC,2022-09-13 15:04:48 +0000 UTC,Java,31,96,884,1701,2022-05-21T08:13:31Z,22478,https://github.com/xuxueli/xxl-job
+gson,2015-03-19 18:21:20 +0000 UTC,2022-09-13 18:02:38 +0000 UTC,Java,4,371,305,1179,2022-07-31T21:25:33Z,21365,https://github.com/google/gson
+NewPipe,2015-09-03 23:39:26 +0000 UTC,2022-09-13 18:37:13 +0000 UTC,Java,121,1284,1122,5919,2022-08-25T08:44:29Z,20864,https://github.com/TeamNewPipe/NewPipe
+Telegram,2013-10-25 14:08:10 +0000 UTC,2022-09-13 14:47:43 +0000 UTC,Java,75,20,0,0,2022-06-21T02:51:00Z,20698,https://github.com/DrKLO/Telegram
+libgdx,2012-08-10 19:34:38 +0000 UTC,2022-09-13 17:32:04 +0000 UTC,Java,9,2444,182,3343,2022-05-11T19:09:11Z,20439,https://github.com/libgdx/libgdx
+skywalking,2015-11-07 03:30:36 +0000 UTC,2022-09-13 09:26:54 +0000 UTC,Java,53,3749,72,4319,2022-08-30T08:24:17Z,20200,https://github.com/apache/skywalking
+Sentinel,2018-04-04 06:37:33 +0000 UTC,2022-09-13 17:11:14 +0000 UTC,Java,21,435,454,1454,2022-08-08T13:51:54Z,19830,https://github.com/alibaba/Sentinel
+ExoPlayer,2014-06-13 21:19:18 +0000 UTC,2022-09-13 13:53:59 +0000 UTC,Java,20,533,630,8796,2022-07-22T09:32:58Z,19797,https://github.com/google/ExoPlayer
+redisson,2014-01-11 14:06:25 +0000 UTC,2022-09-13 15:55:17 +0000 UTC,Java,112,302,309,3721,2022-08-24T07:59:13Z,19776,https://github.com/redisson/redisson
+flink,2014-06-07 07:00:10 +0000 UTC,2022-09-13 18:18:54 +0000 UTC,Java,0,6614,0,0,No Releases,19735,https://github.com/apache/flink
+RxAndroid,2014-08-19 03:46:38 +0000 UTC,2022-09-13 05:15:22 +0000 UTC,Java,18,171,2,341,2020-02-14T15:27:12Z,19695,https://github.com/ReactiveX/RxAndroid
+jenkins,2010-11-22 21:21:23 +0000 UTC,2022-09-13 19:10:50 +0000 UTC,Java,205,5296,0,0,2022-09-13T13:07:55Z,19460,https://github.com/jenkinsci/jenkins
+bazel,2014-06-12 16:00:38 +0000 UTC,2022-09-13 16:43:09 +0000 UTC,Java,170,259,2418,7772,2022-09-01T16:33:11Z,19376,https://github.com/bazelbuild/bazel
+DoKit,2018-08-14 10:32:07 +0000 UTC,2022-09-13 13:26:54 +0000 UTC,Java,10,339,165,473,2022-07-28T09:16:23Z,19029,https://github.com/didi/DoKit
+eladmin,2018-12-14 08:54:24 +0000 UTC,2022-09-13 13:15:45 +0000 UTC,Java,0,71,21,590,No Releases,18692,https://github.com/elunez/eladmin
+PhotoView,2012-07-17 16:39:00 +0000 UTC,2022-09-13 01:38:10 +0000 UTC,Java,5,54,184,476,2017-03-18T20:35:06Z,18328,https://github.com/Baseflow/PhotoView
+rocketmq,2016-11-30 08:00:08 +0000 UTC,2022-09-13 17:48:06 +0000 UTC,Java,7,1267,468,2061,2022-06-20T08:17:08Z,18056,https://github.com/apache/rocketmq
+FizzBuzzEnterpriseEdition,2012-11-24 00:14:41 +0000 UTC,2022-09-13 13:35:37 +0000 UTC,Java,0,56,397,82,No Releases,17934,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+GSYVideoPlayer,2016-11-13 12:34:31 +0000 UTC,2022-09-13 14:40:15 +0000 UTC,Java,40,39,16,3423,2022-08-30T07:01:54Z,17797,https://github.com/CarGuo/GSYVideoPlayer
+mybatis-3,2013-02-14 19:03:32 +0000 UTC,2022-09-13 11:43:03 +0000 UTC,Java,37,985,152,1049,2022-05-23T20:03:39Z,17679,https://github.com/mybatis/mybatis-3
+graal,2016-01-14 17:11:35 +0000 UTC,2022-09-13 17:56:24 +0000 UTC,Java,32,1023,837,2321,2020-01-14T01:32:21Z,17451,https://github.com/oracle/graal
+litemall,2018-03-22 16:42:30 +0000 UTC,2022-09-13 03:00:15 +0000 UTC,Java,8,98,23,324,2021-01-10T10:05:31Z,17362,https://github.com/linlinjava/litemall
+shardingsphere,2016-01-18 12:49:26 +0000 UTC,2022-09-13 15:17:38 +0000 UTC,Java,49,11913,487,7377,2022-09-05T07:51:16Z,17305,https://github.com/apache/shardingsphere
+leetcode,2018-09-16 14:03:03 +0000 UTC,2022-09-13 19:00:50 +0000 UTC,Java,19,735,0,22,2022-01-28T01:33:27Z,17255,https://github.com/doocs/leetcode
+HikariCP,2013-10-08 05:43:03 +0000 UTC,2022-09-13 12:46:55 +0000 UTC,Java,0,204,361,1233,No Releases,17239,https://github.com/brettwooldridge/HikariCP
+cat,2012-12-05 02:31:48 +0000 UTC,2022-09-13 08:59:24 +0000 UTC,Java,3,895,113,1067,2022-06-25T13:56:44Z,17151,https://github.com/dianping/cat
+SpringCloudLearning,2017-04-08 10:06:56 +0000 UTC,2022-09-12 01:33:25 +0000 UTC,Java,0,0,36,12,No Releases,16867,https://github.com/forezp/SpringCloudLearning
+fresco,2015-03-02 09:58:04 +0000 UTC,2022-09-13 07:41:46 +0000 UTC,Java,45,83,186,2060,2021-10-11T12:54:15Z,16853,https://github.com/facebook/fresco
+Android-Universal-Image-Loader,2011-11-27 18:48:23 +0000 UTC,2022-09-13 16:18:36 +0000 UTC,Java,0,51,443,773,No Releases,16794,https://github.com/nostra13/Android-Universal-Image-Loader
+tinker,2016-09-06 06:57:52 +0000 UTC,2022-09-13 10:02:18 +0000 UTC,Java,50,71,459,1069,2022-08-08T06:17:00Z,16530,https://github.com/Tencent/tinker
+zheng,2016-10-04 10:07:06 +0000 UTC,2022-09-13 08:21:57 +0000 UTC,Java,0,10,35,62,No Releases,16346,https://github.com/shuzheng/zheng
+Mindustry,2017-04-30 01:24:29 +0000 UTC,2022-09-13 19:02:10 +0000 UTC,Java,140,2564,0,3265,2022-08-29T17:40:15Z,15961,https://github.com/Anuken/Mindustry
+java8-tutorial,2014-03-16 17:25:43 +0000 UTC,2022-09-13 15:29:45 +0000 UTC,Java,0,10,0,0,No Releases,15933,https://github.com/winterbe/java8-tutorial
+zipkin,2012-06-06 18:26:16 +0000 UTC,2022-09-13 17:51:57 +0000 UTC,Java,67,1673,180,1086,2022-01-27T21:32:34Z,15645,https://github.com/openzipkin/zipkin
+termux-app,2015-10-23 09:42:46 +0000 UTC,2022-09-13 19:09:35 +0000 UTC,Java,89,126,262,1862,2022-01-07T22:32:35Z,15626,https://github.com/termux/termux-app
+Android-CleanArchitecture,2014-08-19 14:09:26 +0000 UTC,2022-09-13 18:11:22 +0000 UTC,Java,0,14,126,124,No Releases,15200,https://github.com/android10/Android-CleanArchitecture
+disruptor,2012-09-21 13:42:24 +0000 UTC,2022-09-13 07:04:28 +0000 UTC,Java,13,104,7,274,2021-12-31T11:10:10Z,15173,https://github.com/LMAX-Exchange/disruptor
+springboot-learning-example,2017-02-06 07:02:25 +0000 UTC,2022-09-13 15:01:39 +0000 UTC,Java,0,6,12,63,No Releases,15056,https://github.com/JeffLi1993/springboot-learning-example
+SpringBoot-Labs,2018-09-12 14:51:46 +0000 UTC,2022-09-13 14:32:20 +0000 UTC,Java,0,3,26,16,No Releases,15036,https://github.com/YunaiV/SpringBoot-Labs
+Apktool,2012-03-19 17:46:53 +0000 UTC,2022-09-13 19:13:51 +0000 UTC,Java,15,248,91,2396,2022-02-26T17:21:05Z,14800,https://github.com/iBotPeaches/Apktool
+SpringBoot-Learning,2016-08-21 03:39:06 +0000 UTC,2022-09-13 09:17:14 +0000 UTC,Java,0,1,34,14,No Releases,14698,https://github.com/dyc87112/SpringBoot-Learning
+CircleImageView,2014-01-17 16:44:46 +0000 UTC,2022-09-13 18:03:16 +0000 UTC,Java,0,14,15,351,No Releases,14284,https://github.com/hdodenhof/CircleImageView
+elasticsearch-analysis-ik,2011-12-16 09:01:45 +0000 UTC,2022-09-13 08:57:01 +0000 UTC,Java,176,51,330,537,2022-09-02T10:44:03Z,14276,https://github.com/medcl/elasticsearch-analysis-ik
+jdk,2018-09-17 12:29:20 +0000 UTC,2022-09-13 16:57:52 +0000 UTC,Java,0,3,0,0,No Releases,14082,https://github.com/openjdk/jdk
+material-components-android,2016-12-05 16:11:29 +0000 UTC,2022-09-13 14:31:17 +0000 UTC,Java,59,13,366,2077,2022-09-01T17:44:05Z,13939,https://github.com/material-components/material-components-android
+ARouter,2016-12-14 01:27:49 +0000 UTC,2022-09-13 02:47:07 +0000 UTC,Java,16,79,86,779,2020-10-20T08:30:56Z,13934,https://github.com/alibaba/ARouter
+presto,2012-08-09 01:03:37 +0000 UTC,2022-09-13 18:04:58 +0000 UTC,Java,0,8694,808,4245,No Releases,13886,https://github.com/prestodb/presto
+QMUI_Android,2017-04-21 10:03:18 +0000 UTC,2022-09-13 18:00:06 +0000 UTC,Java,35,21,407,702,2021-08-18T05:52:35Z,13776,https://github.com/Tencent/QMUI_Android
+APIJSON,2016-11-21 12:03:29 +0000 UTC,2022-09-13 07:03:42 +0000 UTC,Java,89,82,140,205,2022-08-08T04:50:24Z,13750,https://github.com/Tencent/APIJSON
+JustAuth,2019-01-31 09:42:20 +0000 UTC,2022-09-13 09:55:50 +0000 UTC,Java,45,56,28,54,2021-10-18T02:03:14Z,13742,https://github.com/justauth/JustAuth
+VirtualXposed,2017-12-01 09:00:58 +0000 UTC,2022-09-13 16:20:19 +0000 UTC,Java,50,40,105,935,2022-06-07T03:10:37Z,13653,https://github.com/android-hacker/VirtualXposed
+Material-Animations,2015-03-08 20:54:00 +0000 UTC,2022-09-06 03:05:00 +0000 UTC,Java,0,12,13,28,No Releases,13559,https://github.com/lgvalle/Material-Animations
+keycloak,2013-07-02 13:38:51 +0000 UTC,2022-09-13 16:28:52 +0000 UTC,Java,24,8406,1166,1567,2022-09-12T11:34:28Z,13499,https://github.com/keycloak/keycloak
+mybatis-plus,2016-08-18 10:06:53 +0000 UTC,2022-09-13 13:21:41 +0000 UTC,Java,22,341,122,3917,2022-02-14T01:48:42Z,13492,https://github.com/baomidou/mybatis-plus
+Algorithms,2017-03-18 02:50:46 +0000 UTC,2022-09-13 19:02:42 +0000 UTC,Java,0,60,59,104,No Releases,13454,https://github.com/williamfiset/Algorithms
+openapi-generator,2018-05-12 09:57:56 +0000 UTC,2022-09-13 18:15:44 +0000 UTC,Java,49,6226,3140,2613,2022-09-11T09:16:07Z,13424,https://github.com/OpenAPITools/openapi-generator
+logger,2015-03-20 22:30:12 +0000 UTC,2022-09-13 01:19:02 +0000 UTC,Java,16,29,67,135,2018-03-24T05:04:56Z,13396,https://github.com/orhanobut/logger
+mockito,2012-10-13 20:27:12 +0000 UTC,2022-09-13 08:09:00 +0000 UTC,Java,191,1079,326,1059,2022-09-07T16:01:14Z,13283,https://github.com/mockito/mockito
+bytecode-viewer,2014-10-14 10:26:46 +0000 UTC,2022-09-13 10:39:21 +0000 UTC,Java,58,100,76,244,2022-04-11T21:02:23Z,13244,https://github.com/Konloch/bytecode-viewer
+Android-PickerView,2014-12-28 01:46:38 +0000 UTC,2022-09-12 01:49:08 +0000 UTC,Java,0,32,411,533,No Releases,13177,https://github.com/Bigkoo/Android-PickerView
+Arduino,2010-09-17 19:10:36 +0000 UTC,2022-09-13 18:10:58 +0000 UTC,Java,37,713,718,9078,2021-12-20T15:56:41Z,13152,https://github.com/arduino/Arduino
+vert.x,2011-06-17 14:54:55 +0000 UTC,2022-09-13 11:45:32 +0000 UTC,Java,0,1259,178,2260,No Releases,13143,https://github.com/eclipse-vertx/vert.x
+Luban,2016-07-24 07:43:21 +0000 UTC,2022-09-13 10:27:56 +0000 UTC,Java,6,11,139,227,2018-07-23T03:30:36Z,13048,https://github.com/Curzibn/Luban
+antlr4,2010-02-04 01:36:28 +0000 UTC,2022-09-13 16:12:49 +0000 UTC,Java,27,1346,652,1326,2022-09-04T21:27:35Z,12938,https://github.com/antlr/antlr4
+hadoop,2014-08-28 07:00:08 +0000 UTC,2022-09-12 08:41:39 +0000 UTC,Java,0,2519,0,0,No Releases,12915,https://github.com/apache/hadoop
+flink-learning,2019-01-01 07:38:28 +0000 UTC,2022-09-13 15:26:58 +0000 UTC,Java,0,15,0,0,No Releases,12696,https://github.com/zhisheng17/flink-learning
+AndroidAutoSize,2018-08-17 09:04:19 +0000 UTC,2022-09-13 08:30:04 +0000 UTC,Java,14,4,91,322,2020-03-13T08:00:31Z,12613,https://github.com/JessYanCoding/AndroidAutoSize
+deeplearning4j,2013-11-27 02:03:28 +0000 UTC,2022-09-13 14:23:27 +0000 UTC,Java,0,3741,759,4867,No Releases,12609,https://github.com/deeplearning4j/deeplearning4j
+stetho,2015-01-22 22:34:10 +0000 UTC,2022-09-13 01:19:06 +0000 UTC,Java,13,267,62,314,2021-03-20T17:50:03Z,12577,https://github.com/facebook/stetho
+greenDAO,2011-10-22 16:15:14 +0000 UTC,2022-09-13 03:50:35 +0000 UTC,Java,8,37,191,777,2020-04-29T21:34:29Z,12544,https://github.com/greenrobot/greenDAO
+BigData-Notes,2019-03-10 01:40:01 +0000 UTC,2022-09-13 13:06:40 +0000 UTC,Java,0,5,18,23,No Releases,12375,https://github.com/heibaiying/BigData-Notes
+pinpoint,2014-10-20 09:27:22 +0000 UTC,2022-09-13 11:28:17 +0000 UTC,Java,50,5043,302,3304,2022-08-04T06:06:52Z,12373,https://github.com/pinpoint-apm/pinpoint
+thingsboard,2016-12-01 09:33:30 +0000 UTC,2022-09-13 18:57:08 +0000 UTC,Java,50,2298,1168,3099,2022-08-18T11:12:26Z,12335,https://github.com/thingsboard/thingsboard
+Matisse,2017-04-13 01:31:05 +0000 UTC,2022-09-13 06:02:30 +0000 UTC,Java,15,67,399,308,2019-10-18T12:51:05Z,12326,https://github.com/zhihu/Matisse
+AndroidSwipeLayout,2014-08-25 04:09:33 +0000 UTC,2022-09-13 16:24:31 +0000 UTC,Java,18,22,354,146,2015-04-20T03:13:36Z,12256,https://github.com/daimajia/AndroidSwipeLayout
+caffeine,2014-12-13 08:45:11 +0000 UTC,2022-09-13 14:37:39 +0000 UTC,Java,61,89,3,557,2022-05-26T16:50:56Z,12197,https://github.com/ben-manes/caffeine
+AndroidViewAnimations,2014-06-23 03:53:13 +0000 UTC,2022-09-13 04:38:17 +0000 UTC,Java,9,22,53,81,2017-02-16T12:23:58Z,12180,https://github.com/daimajia/AndroidViewAnimations
+zuul,2013-03-13 18:53:57 +0000 UTC,2022-09-13 13:31:22 +0000 UTC,Java,5,570,234,300,2021-04-29T16:46:39Z,12168,https://github.com/Netflix/zuul
+jib,2018-01-22 18:30:43 +0000 UTC,2022-09-13 13:43:59 +0000 UTC,Java,141,2126,99,1337,2022-08-31T17:03:54Z,12131,https://github.com/GoogleContainerTools/jib
+banner,2016-04-22 05:50:25 +0000 UTC,2022-09-13 16:22:23 +0000 UTC,Java,0,15,225,904,No Releases,12126,https://github.com/youth5201314/banner
+druid,2012-10-23 19:08:07 +0000 UTC,2022-09-13 19:19:27 +0000 UTC,Java,49,7349,1353,3107,2022-06-15T09:29:33Z,12037,https://github.com/apache/druid
+ip2region,2015-11-02 00:43:13 +0000 UTC,2022-09-13 19:18:48 +0000 UTC,Java,0,60,36,140,No Releases,11998,https://github.com/lionsoul2014/ip2region
+spring-analysis,2016-09-09 07:46:32 +0000 UTC,2022-09-13 14:45:33 +0000 UTC,Java,0,6,10,3,No Releases,11963,https://github.com/seaswalker/spring-analysis
+DataX,2018-01-18 10:09:47 +0000 UTC,2022-09-13 12:18:03 +0000 UTC,Java,1,84,814,269,2022-06-10T13:30:32Z,11941,https://github.com/alibaba/DataX
+Auto.js,2017-01-27 01:01:16 +0000 UTC,2022-09-13 18:02:43 +0000 UTC,Java,0,37,77,609,No Releases,11889,https://github.com/hyb1996/Auto.js
+PictureSelector,2017-01-04 07:47:39 +0000 UTC,2022-09-13 15:48:23 +0000 UTC,Java,111,7,257,2175,2022-08-14T12:29:26Z,11883,https://github.com/LuckSiege/PictureSelector
+piggymetrics,2015-03-29 17:56:31 +0000 UTC,2022-09-13 11:53:14 +0000 UTC,Java,2,22,0,0,2018-07-22T15:50:59Z,11869,https://github.com/sqshq/piggymetrics
+jd-gui,2015-03-25 05:28:41 +0000 UTC,2022-09-13 14:14:02 +0000 UTC,Java,18,9,173,172,2019-12-25T14:42:26Z,11615,https://github.com/java-decompiler/jd-gui
+VasSonic,2017-08-01 08:35:13 +0000 UTC,2022-09-13 13:42:59 +0000 UTC,Java,10,70,41,203,2019-04-15T08:26:32Z,11585,https://github.com/Tencent/VasSonic
+pulsar,2016-06-28 07:00:03 +0000 UTC,2022-09-13 16:32:08 +0000 UTC,Java,59,10330,1890,3617,2022-09-01T11:17:45Z,11562,https://github.com/apache/pulsar
+eureka,2012-07-26 22:23:07 +0000 UTC,2022-09-13 18:20:16 +0000 UTC,Java,142,737,44,557,2021-09-27T22:48:41Z,11466,https://github.com/Netflix/eureka
+lombok,2009-06-08 19:46:41 +0000 UTC,2022-09-13 03:39:16 +0000 UTC,Java,3,279,737,2088,2020-10-15T21:24:04Z,11457,https://github.com/projectlombok/lombok
+guice,2014-05-28 23:18:53 +0000 UTC,2022-09-13 08:19:58 +0000 UTC,Java,15,293,325,820,2022-01-24T21:42:39Z,11439,https://github.com/google/guice
+mall-learning,2019-04-12 13:20:31 +0000 UTC,2022-09-13 15:18:24 +0000 UTC,Java,0,0,14,71,No Releases,11342,https://github.com/macrozheng/mall-learning
+Mybatis-PageHelper,2014-06-09 15:32:30 +0000 UTC,2022-09-13 12:59:01 +0000 UTC,Java,10,27,78,567,2022-06-14T15:01:41Z,11337,https://github.com/pagehelper/Mybatis-PageHelper
+uCrop,2016-01-05 13:41:06 +0000 UTC,2022-09-12 19:33:56 +0000 UTC,Java,15,104,215,438,2022-01-31T09:57:46Z,11319,https://github.com/Yalantis/uCrop
+realm-java,2012-04-20 09:18:42 +0000 UTC,2022-09-13 18:24:43 +0000 UTC,Java,0,2672,361,4118,No Releases,11317,https://github.com/realm/realm-java
+spring-boot-admin,2014-07-25 11:39:13 +0000 UTC,2022-09-13 07:55:51 +0000 UTC,Java,84,403,34,1438,2022-08-19T11:03:15Z,11167,https://github.com/codecentric/spring-boot-admin
+androidannotations,2012-01-06 08:48:03 +0000 UTC,2022-09-09 10:58:21 +0000 UTC,Java,0,551,50,1610,No Releases,11156,https://github.com/androidannotations/androidannotations
+SlidingMenu,2012-06-30 05:14:23 +0000 UTC,2022-09-12 09:36:43 +0000 UTC,Java,0,35,263,382,No Releases,11154,https://github.com/jfeinstein10/SlidingMenu
+PermissionsDispatcher,2015-08-15 21:41:05 +0000 UTC,2022-09-13 11:38:01 +0000 UTC,Java,40,260,21,452,2020-08-30T14:51:28Z,11038,https://github.com/permissions-dispatcher/PermissionsDispatcher
+source-code-hunter,2019-10-28 01:35:10 +0000 UTC,2022-09-13 12:41:34 +0000 UTC,Java,0,105,4,15,No Releases,10867,https://github.com/doocs/source-code-hunter
+vlayout,2017-02-27 08:11:47 +0000 UTC,2022-09-10 04:45:40 +0000 UTC,Java,34,13,190,313,2019-12-16T08:29:23Z,10831,https://github.com/alibaba/vlayout
+zookeeper,2009-03-27 15:41:56 +0000 UTC,2022-09-13 18:04:16 +0000 UTC,Java,0,7,0,0,No Releases,10800,https://github.com/apache/zookeeper
+fullstack-tutorial,2018-04-13 01:50:10 +0000 UTC,2022-09-13 12:47:15 +0000 UTC,Java,0,26,18,18,No Releases,10743,https://github.com/frank-lam/fullstack-tutorial
+FlycoTabLayout,2015-11-09 01:53:19 +0000 UTC,2022-09-13 16:09:36 +0000 UTC,Java,4,0,346,179,2016-04-23T05:11:37Z,10707,https://github.com/H07000223/FlycoTabLayout
+quarkus,2018-07-06 00:44:20 +0000 UTC,2022-09-13 19:11:29 +0000 UTC,Java,189,13901,1927,9651,2022-09-13T08:39:34Z,10666,https://github.com/quarkusio/quarkus
+jedis,2010-06-11 13:04:43 +0000 UTC,2022-09-13 13:41:42 +0000 UTC,Java,69,932,145,1470,2022-08-07T15:43:50Z,10660,https://github.com/redis/jedis
+android-async-http,2011-02-20 03:25:07 +0000 UTC,2022-09-09 11:58:11 +0000 UTC,Java,3,165,111,975,2020-06-29T07:32:51Z,10645,https://github.com/android-async-http/android-async-http
+Grasscutter,2022-04-17 12:43:46 +0000 UTC,2022-09-13 17:54:58 +0000 UTC,Java,1,686,45,715,2022-09-03T03:36:52Z,10643,https://github.com/Grasscutters/Grasscutter
+FileDownloader,2015-12-22 11:17:16 +0000 UTC,2022-09-13 03:28:44 +0000 UTC,Java,65,36,142,1180,2018-08-03T08:09:52Z,10621,https://github.com/lingochamp/FileDownloader
+webmagic,2013-04-23 12:57:36 +0000 UTC,2022-09-13 13:06:24 +0000 UTC,Java,21,97,297,585,2021-07-22T05:02:44Z,10520,https://github.com/code4craft/webmagic
+interview,2014-07-20 21:27:31 +0000 UTC,2022-09-13 08:23:24 +0000 UTC,Java,0,72,60,25,No Releases,10511,https://github.com/mission-peace/interview
+mit-deep-learning-book-pdf,2017-04-07 10:46:50 +0000 UTC,2022-09-13 11:56:18 +0000 UTC,Java,3,6,10,6,2019-04-19T21:16:25Z,10504,https://github.com/janishar/mit-deep-learning-book-pdf
+ImmersionBar,2017-04-19 05:10:09 +0000 UTC,2022-09-13 16:51:18 +0000 UTC,Java,0,1,115,435,No Releases,10497,https://github.com/gyf-dev/ImmersionBar
+okhttp-OkGo,2016-01-15 10:35:24 +0000 UTC,2022-09-13 13:32:34 +0000 UTC,Java,14,5,454,515,2017-07-17T04:54:06Z,10445,https://github.com/jeasonlzy/okhttp-OkGo
+JiaoZiVideoPlayer,2016-02-06 11:04:24 +0000 UTC,2022-09-10 06:50:16 +0000 UTC,Java,78,41,268,2394,2019-07-14T13:12:19Z,10421,https://github.com/lipangit/JiaoZiVideoPlayer
+neo4j,2012-11-12 08:46:15 +0000 UTC,2022-09-13 09:44:57 +0000 UTC,Java,72,7936,270,2870,2017-09-14T11:34:36Z,10392,https://github.com/neo4j/neo4j
+RxPermissions,2015-09-29 13:55:09 +0000 UTC,2022-09-13 05:57:38 +0000 UTC,Java,11,37,86,194,2020-07-12T12:37:35Z,10366,https://github.com/tbruyelle/RxPermissions
+Java,2015-11-25 07:30:08 +0000 UTC,2022-09-13 13:08:53 +0000 UTC,Java,0,0,41,11,No Releases,10270,https://github.com/DuGuQiuBai/Java
+Sa-Token,2020-02-03 10:34:29 +0000 UTC,2022-09-13 14:13:29 +0000 UTC,Java,25,27,0,264,2022-09-08T07:07:36Z,10248,https://github.com/dromara/Sa-Token
+CtCI-6th-Edition,2015-07-02 06:28:46 +0000 UTC,2022-09-13 08:46:47 +0000 UTC,Java,0,42,46,21,No Releases,10207,https://github.com/careercup/CtCI-6th-Edition
+ViewPagerIndicator,2011-08-04 17:13:44 +0000 UTC,2022-09-09 11:57:17 +0000 UTC,Java,0,21,135,146,No Releases,10200,https://github.com/JakeWharton/ViewPagerIndicator
+SmarterStreaming,2016-03-26 14:46:02 +0000 UTC,2022-09-11 07:51:31 +0000 UTC,Java,0,0,4,114,No Releases,10194,https://github.com/daniulive/SmarterStreaming
+MVPArms,2016-08-06 08:49:56 +0000 UTC,2022-09-08 03:44:44 +0000 UTC,Java,25,33,43,280,2019-07-14T09:13:12Z,10189,https://github.com/JessYanCoding/MVPArms
+dex2jar,2015-03-16 09:13:07 +0000 UTC,2022-09-13 07:45:16 +0000 UTC,Java,6,11,371,150,2021-10-30T19:32:55Z,10151,https://github.com/pxb1988/dex2jar
+platform_frameworks_base,2008-10-21 18:20:37 +0000 UTC,2022-09-13 12:20:03 +0000 UTC,Java,0,1,0,0,No Releases,10114,https://github.com/aosp-mirror/platform_frameworks_base
+grpc-java,2014-12-08 19:00:00 +0000 UTC,2022-09-13 14:50:45 +0000 UTC,Java,115,5618,460,2498,2022-08-23T21:59:41Z,10026,https://github.com/grpc/grpc-java
+auto,2013-05-22 21:41:56 +0000 UTC,2022-09-13 13:48:19 +0000 UTC,Java,55,493,65,384,2021-12-15T00:23:36Z,9851,https://github.com/google/auto
+zaproxy,2015-06-03 16:55:01 +0000 UTC,2022-09-13 15:10:42 +0000 UTC,Java,282,2815,708,3744,2022-09-13T08:30:23Z,9823,https://github.com/zaproxy/zaproxy
+javapoet,2013-02-01 16:56:30 +0000 UTC,2022-09-13 04:18:49 +0000 UTC,Java,0,335,86,312,No Releases,9797,https://github.com/square/javapoet
+Fragmentation,2016-02-23 08:54:55 +0000 UTC,2022-09-09 02:33:08 +0000 UTC,Java,30,31,190,1033,2019-06-07T13:48:45Z,9730,https://github.com/YoKeyword/Fragmentation
+glide-transformations,2015-01-09 10:33:29 +0000 UTC,2022-09-13 08:45:48 +0000 UTC,Java,0,34,50,105,No Releases,9700,https://github.com/wasabeef/glide-transformations
+jsoup,2009-12-19 01:29:58 +0000 UTC,2022-09-13 02:46:26 +0000 UTC,Java,8,197,71,1231,2022-08-24T00:10:45Z,9698,https://github.com/jhy/jsoup
+cas,2011-09-09 01:36:42 +0000 UTC,2022-09-13 14:59:52 +0000 UTC,Java,230,3443,0,0,2022-09-04T09:15:57Z,9694,https://github.com/apereo/cas
+clojure,2010-06-29 20:03:33 +0000 UTC,2022-09-13 18:31:17 +0000 UTC,Java,0,1,0,0,No Releases,9654,https://github.com/clojure/clojure
+AVLoadingIndicatorView,2015-10-24 20:18:33 +0000 UTC,2022-09-12 22:11:20 +0000 UTC,Java,1,8,65,37,2015-11-20T08:02:07Z,9653,https://github.com/HarlonWang/AVLoadingIndicatorView
+android-Ultra-Pull-To-Refresh,2014-11-13 03:13:10 +0000 UTC,2022-09-09 14:07:29 +0000 UTC,Java,8,19,150,146,2015-09-19T09:11:41Z,9643,https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
+Android-ObservableScrollView,2014-11-08 14:45:20 +0000 UTC,2022-09-06 14:03:00 +0000 UTC,Java,0,18,175,88,No Releases,9616,https://github.com/ksoichiro/Android-ObservableScrollView
+onedev,2018-11-06 02:57:01 +0000 UTC,2022-09-13 07:31:22 +0000 UTC,Java,184,4,0,0,2022-09-12T13:39:44Z,9613,https://github.com/theonedev/onedev
+react-native-camera,2015-04-01 00:54:40 +0000 UTC,2022-09-13 11:35:46 +0000 UTC,Java,144,772,56,2307,2021-09-21T19:39:52Z,9572,https://github.com/react-native-camera/react-native-camera
+easypermissions,2015-12-22 18:05:53 +0000 UTC,2022-09-12 17:07:33 +0000 UTC,Java,12,90,25,202,2019-01-23T21:55:28Z,9550,https://github.com/googlesamples/easypermissions
+paascloud-master,2018-03-17 05:40:43 +0000 UTC,2022-09-13 03:43:05 +0000 UTC,Java,0,3,81,42,No Releases,9442,https://github.com/paascloud/paascloud-master
+AndroidSlidingUpPanel,2013-05-31 18:33:53 +0000 UTC,2022-09-13 04:38:29 +0000 UTC,Java,8,81,264,558,2016-03-07T05:52:22Z,9428,https://github.com/umano/AndroidSlidingUpPanel
+PocketHub,2011-09-08 16:52:50 +0000 UTC,2022-09-11 08:57:24 +0000 UTC,Java,1,379,124,536,2017-08-18T14:15:51Z,9422,https://github.com/pockethub/PocketHub
+spark,2011-05-05 11:52:05 +0000 UTC,2022-09-13 07:34:04 +0000 UTC,Java,0,270,190,547,No Releases,9358,https://github.com/perwendel/spark
+spark,2011-05-05 11:52:05 +0000 UTC,2022-09-13 07:34:04 +0000 UTC,Java,0,270,190,547,No Releases,9358,https://github.com/perwendel/spark
+DanmakuFlameMaster,2013-08-11 12:18:50 +0000 UTC,2022-09-13 15:13:21 +0000 UTC,Java,5,41,251,154,2016-04-18T06:41:58Z,9337,https://github.com/bilibili/DanmakuFlameMaster
+mall-swarm,2019-11-25 06:55:31 +0000 UTC,2022-09-13 15:58:17 +0000 UTC,Java,2,0,26,77,2022-04-23T06:57:13Z,9335,https://github.com/macrozheng/mall-swarm
+Mycat-Server,2014-12-04 02:46:54 +0000 UTC,2022-09-12 09:12:58 +0000 UTC,Java,7,991,914,787,2020-11-02T08:35:50Z,9315,https://github.com/MyCATApache/Mycat-Server
+Java-WebSocket,2010-01-20 23:33:04 +0000 UTC,2022-09-13 17:02:17 +0000 UTC,Java,14,277,29,884,2022-04-09T18:04:57Z,9299,https://github.com/TooTallNate/Java-WebSocket
+newbee-mall,2019-09-21 03:56:04 +0000 UTC,2022-09-13 14:56:54 +0000 UTC,Java,0,3,2,52,No Releases,9251,https://github.com/newbee-ltd/newbee-mall
+MagicIndicator,2016-06-26 08:20:43 +0000 UTC,2022-09-11 06:56:14 +0000 UTC,Java,12,5,179,98,2020-09-29T06:26:10Z,9244,https://github.com/hackware1993/MagicIndicator
+android-interview-questions,2017-07-09 18:47:24 +0000 UTC,2022-09-13 19:16:51 +0000 UTC,Java,0,71,13,16,No Releases,9212,https://github.com/MindorksOpenSource/android-interview-questions
+android-gif-drawable,2013-01-30 01:37:46 +0000 UTC,2022-09-13 09:04:31 +0000 UTC,Java,57,111,36,623,2022-08-18T00:24:35Z,9181,https://github.com/koral--/android-gif-drawable
+spring-boot-api-project-seed,2017-06-23 10:06:30 +0000 UTC,2022-09-13 02:05:32 +0000 UTC,Java,4,1,92,104,2017-07-24T09:49:50Z,9163,https://github.com/lihengming/spring-boot-api-project-seed
+questdb,2014-04-28 23:29:15 +0000 UTC,2022-09-13 19:19:22 +0000 UTC,Java,54,1329,280,666,2022-09-05T14:16:58Z,9154,https://github.com/questdb/questdb
+MaterialDesignLibrary,2014-09-30 07:37:17 +0000 UTC,2022-09-12 15:11:21 +0000 UTC,Java,3,20,215,119,2015-01-14T20:53:36Z,9075,https://github.com/navasmdc/MaterialDesignLibrary
+JsBridge,2015-02-26 12:10:58 +0000 UTC,2022-09-13 11:00:10 +0000 UTC,Java,0,27,137,87,No Releases,9075,https://github.com/lzyzsd/JsBridge
+OpenRefine,2012-10-15 02:22:48 +0000 UTC,2022-09-13 15:09:09 +0000 UTC,Java,37,2075,648,2008,2022-08-22T19:18:45Z,8984,https://github.com/OpenRefine/OpenRefine
+Activiti,2012-09-13 11:34:43 +0000 UTC,2022-09-13 12:13:07 +0000 UTC,Java,34,1404,412,1653,2022-09-08T13:55:43Z,8940,https://github.com/Activiti/Activiti
+jvm,2018-06-23 01:12:59 +0000 UTC,2022-09-13 09:24:52 +0000 UTC,Java,0,13,11,4,No Releases,8898,https://github.com/doocs/jvm
+VirtualApp,2016-07-06 13:25:23 +0000 UTC,2022-09-13 14:19:04 +0000 UTC,Java,0,141,0,0,No Releases,8896,https://github.com/asLody/VirtualApp
+storm,2011-09-17 07:55:13 +0000 UTC,2022-09-09 13:06:42 +0000 UTC,Java,0,144,0,0,No Releases,8895,https://github.com/nathanmarz/storm
+DSA-Bootcamp-Java,2021-07-30 12:23:25 +0000 UTC,2022-09-13 19:11:24 +0000 UTC,Java,0,230,11,94,No Releases,8821,https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+StatusBarUtil,2016-02-15 03:06:06 +0000 UTC,2022-09-13 02:12:51 +0000 UTC,Java,0,6,106,179,No Releases,8781,https://github.com/laobie/StatusBarUtil
+Android-PullToRefresh,2011-11-29 09:59:56 +0000 UTC,2022-09-09 14:06:48 +0000 UTC,Java,0,30,0,0,No Releases,8757,https://github.com/chrisbanes/Android-PullToRefresh
+VirtualAPK,2017-06-29 07:25:05 +0000 UTC,2022-09-13 08:36:10 +0000 UTC,Java,4,9,109,249,2018-09-06T12:03:03Z,8739,https://github.com/didi/VirtualAPK
+AndroidNote,2016-01-04 23:51:36 +0000 UTC,2022-09-13 11:59:20 +0000 UTC,Java,0,11,49,52,No Releases,8710,https://github.com/GcsSloop/AndroidNote
+dolphinscheduler,2019-03-01 16:39:25 +0000 UTC,2022-09-13 18:00:15 +0000 UTC,Java,29,4966,901,4525,2022-08-05T10:16:57Z,8674,https://github.com/apache/dolphinscheduler
+AgentWeb,2017-05-12 07:45:56 +0000 UTC,2022-09-13 07:46:33 +0000 UTC,Java,19,10,75,918,2022-09-03T12:27:59Z,8642,https://github.com/Justson/AgentWeb
+CoreNLP,2013-06-27 21:13:49 +0000 UTC,2022-09-13 13:55:31 +0000 UTC,Java,10,95,161,864,2022-08-30T03:58:39Z,8625,https://github.com/stanfordnlp/CoreNLP
+testing-samples,2014-10-11 03:51:27 +0000 UTC,2022-09-13 06:34:57 +0000 UTC,Java,0,156,76,121,No Releases,8614,https://github.com/android/testing-samples
+Calligraphy,2013-12-20 02:35:45 +0000 UTC,2022-09-13 04:38:22 +0000 UTC,Java,4,67,82,307,2016-04-29T22:14:38Z,8613,https://github.com/chrisjenx/Calligraphy
+jjwt,2014-09-13 01:06:24 +0000 UTC,2022-09-13 14:44:40 +0000 UTC,Java,0,174,52,439,No Releases,8555,https://github.com/jwtk/jjwt
+Android_Data,2015-04-04 01:37:44 +0000 UTC,2022-09-10 15:39:18 +0000 UTC,Java,0,5,2,5,No Releases,8542,https://github.com/Freelander/Android_Data
+cim,2018-05-20 15:55:56 +0000 UTC,2022-09-13 18:50:08 +0000 UTC,Java,7,22,34,54,2019-08-31T15:01:04Z,8524,https://github.com/crossoverJie/cim
+android-gpuimage,2012-10-04 08:11:58 +0000 UTC,2022-09-13 03:48:35 +0000 UTC,Java,0,70,323,85,No Releases,8491,https://github.com/cats-oss/android-gpuimage
+awesome-java-leetcode,2017-04-17 15:51:41 +0000 UTC,2022-09-11 09:54:48 +0000 UTC,Java,0,1,5,21,No Releases,8439,https://github.com/Blankj/awesome-java-leetcode
+BottomBar,2016-03-16 01:31:05 +0000 UTC,2022-09-08 03:04:39 +0000 UTC,Java,4,67,262,480,2017-04-13T20:49:12Z,8437,https://github.com/roughike/BottomBar
+CalendarView,2017-03-11 07:16:09 +0000 UTC,2022-09-13 14:57:24 +0000 UTC,Java,0,8,424,370,No Releases,8415,https://github.com/huanghaibin-dev/CalendarView
+buck,2013-04-17 18:12:18 +0000 UTC,2022-09-13 13:50:41 +0000 UTC,Java,57,107,199,1277,2022-05-05T20:03:16Z,8380,https://github.com/facebook/buck
+COLA,2018-02-06 13:46:27 +0000 UTC,2022-09-13 17:47:52 +0000 UTC,Java,9,60,13,212,2022-08-02T08:39:00Z,8362,https://github.com/alibaba/COLA
+junit4,2009-01-13 03:41:26 +0000 UTC,2022-09-13 03:58:13 +0000 UTC,Java,13,459,109,710,2021-02-13T16:30:53Z,8357,https://github.com/junit-team/junit4
+feign,2013-06-26 23:28:16 +0000 UTC,2022-09-13 12:59:06 +0000 UTC,Java,24,673,146,710,2022-07-21T21:08:06Z,8310,https://github.com/OpenFeign/feign
+Android-SpinKit,2016-03-20 08:40:51 +0000 UTC,2022-09-13 02:54:06 +0000 UTC,Java,0,12,54,19,No Releases,8285,https://github.com/ybq/Android-SpinKit
+dropwizard,2011-01-19 19:52:29 +0000 UTC,2022-09-13 18:20:33 +0000 UTC,Java,129,3411,15,1453,2022-09-12T10:08:39Z,8279,https://github.com/dropwizard/dropwizard
+metersphere,2020-02-03 02:06:12 +0000 UTC,2022-09-13 09:39:08 +0000 UTC,Java,160,10212,330,5778,2022-09-09T06:10:24Z,8267,https://github.com/metersphere/metersphere
+resilience4j,2015-06-03 09:21:01 +0000 UTC,2022-09-13 02:49:15 +0000 UTC,Java,29,584,121,865,2021-06-25T11:30:16Z,8266,https://github.com/resilience4j/resilience4j
+quickstart-android,2016-04-26 17:13:27 +0000 UTC,2022-09-13 09:56:02 +0000 UTC,Java,0,503,26,718,No Releases,8212,https://github.com/firebase/quickstart-android
+MaterialViewPager,2015-04-24 17:53:15 +0000 UTC,2022-09-06 16:56:22 +0000 UTC,Java,11,27,180,147,2016-05-27T12:02:39Z,8204,https://github.com/florent37/MaterialViewPager
+cryptomator,2014-02-02 00:43:47 +0000 UTC,2022-09-13 13:49:06 +0000 UTC,Java,133,210,263,1548,2022-08-31T14:00:04Z,8189,https://github.com/cryptomator/cryptomator
+tech-interview-for-developer,2019-06-09 04:42:57 +0000 UTC,2022-09-13 13:31:16 +0000 UTC,Java,0,110,2,34,No Releases,8180,https://github.com/gyoogle/tech-interview-for-developer
+AndResGuard,2015-10-11 11:48:06 +0000 UTC,2022-09-13 09:02:20 +0000 UTC,Java,4,37,147,312,2020-09-15T04:50:01Z,8086,https://github.com/shwenzhang/AndResGuard
+atlas,2017-02-28 06:31:43 +0000 UTC,2022-09-13 02:47:04 +0000 UTC,Java,7,32,83,249,2019-04-08T07:09:17Z,8075,https://github.com/alibaba/atlas
+Android-Debug-Database,2016-11-16 14:20:24 +0000 UTC,2022-09-11 22:39:30 +0000 UTC,Java,12,36,68,93,2019-03-07T09:58:09Z,8045,https://github.com/amitshekhariitbhu/Android-Debug-Database
+epoxy,2016-08-08 23:05:11 +0000 UTC,2022-09-12 00:45:42 +0000 UTC,Java,70,431,266,570,2021-11-10T00:14:03Z,7999,https://github.com/airbnb/epoxy
+airbyte,2020-07-27 23:55:54 +0000 UTC,2022-09-13 09:10:18 +0000 UTC,Java,262,7085,2634,5281,2022-09-13T18:56:33Z,7947,https://github.com/airbytehq/airbyte
+hsweb-framework,2016-01-18 03:51:39 +0000 UTC,2022-09-13 07:21:20 +0000 UTC,Java,25,52,4,127,2022-06-20T05:49:46Z,7907,https://github.com/hs-web/hsweb-framework
+material-theme-jetbrains,2015-09-23 07:15:04 +0000 UTC,2022-09-11 18:41:45 +0000 UTC,Java,17,69,1,1773,2018-04-25T19:01:18Z,7898,https://github.com/ChrisRM/material-theme-jetbrains
+SimianArmy,2012-07-06 22:00:05 +0000 UTC,2022-09-12 03:22:02 +0000 UTC,Java,4,191,39,67,2016-12-14T00:59:31Z,7894,https://github.com/Netflix/SimianArmy
+HomeMirror,2015-08-23 03:20:08 +0000 UTC,2022-09-13 17:49:10 +0000 UTC,Java,0,11,32,21,No Releases,7891,https://github.com/HannahMitt/HomeMirror
+LitePal,2013-02-20 03:20:07 +0000 UTC,2022-09-13 04:38:35 +0000 UTC,Java,0,1,71,725,No Releases,7881,https://github.com/guolindev/LitePal
+Jetpack-MVVM-Best-Practice,2019-10-31 05:21:01 +0000 UTC,2022-09-13 13:29:07 +0000 UTC,Java,0,66,2,48,No Releases,7861,https://github.com/KunMinX/Jetpack-MVVM-Best-Practice
+hugo,2013-11-25 09:16:40 +0000 UTC,2022-09-11 09:21:33 +0000 UTC,Java,0,24,53,66,No Releases,7841,https://github.com/JakeWharton/hugo
+Signal-Server,2013-12-09 07:10:36 +0000 UTC,2022-09-13 18:47:27 +0000 UTC,Java,0,20,0,0,No Releases,7814,https://github.com/signalapp/Signal-Server
+react-native-image-picker,2015-06-08 20:25:31 +0000 UTC,2022-09-13 12:23:21 +0000 UTC,Java,108,248,131,1341,2022-08-25T10:26:45Z,7723,https://github.com/react-native-image-picker/react-native-image-picker
+RxLifecycle,2015-07-20 13:32:23 +0000 UTC,2022-09-13 11:57:48 +0000 UTC,Java,22,131,1,177,2020-11-05T20:58:19Z,7710,https://github.com/trello/RxLifecycle
+shardingsphere-elasticjob,2015-09-11 11:28:52 +0000 UTC,2022-09-13 10:54:39 +0000 UTC,Java,27,784,119,1048,2021-10-04T02:20:15Z,7680,https://github.com/apache/shardingsphere-elasticjob
+SpringCloud,2017-07-23 14:28:08 +0000 UTC,2022-09-13 18:01:19 +0000 UTC,Java,0,81,40,81,No Releases,7658,https://github.com/zhoutaoo/SpringCloud
+tsunami-security-scanner,2020-06-03 16:20:00 +0000 UTC,2022-09-13 19:11:41 +0000 UTC,Java,14,6,30,39,2022-08-01T22:40:23Z,7655,https://github.com/google/tsunami-security-scanner
+metrics,2010-02-26 19:44:42 +0000 UTC,2022-09-13 12:12:36 +0000 UTC,Java,92,1557,9,630,2022-09-04T21:23:09Z,7621,https://github.com/dropwizard/metrics
+QtScrcpy,2019-06-23 04:12:17 +0000 UTC,2022-09-13 16:13:09 +0000 UTC,Java,26,82,265,278,2022-07-10T06:53:56Z,7576,https://github.com/barry-ran/QtScrcpy
+UltimateAndroidReference,2017-04-10 07:28:27 +0000 UTC,2022-09-13 15:57:34 +0000 UTC,Java,0,60,0,12,No Releases,7560,https://github.com/aritraroy/UltimateAndroidReference
+RxJava-Android-Samples,2014-07-23 05:13:52 +0000 UTC,2022-09-05 12:55:41 +0000 UTC,Java,0,42,5,49,No Releases,7541,https://github.com/kaushikgopal/RxJava-Android-Samples
+languagetool,2013-08-08 16:37:22 +0000 UTC,2022-09-13 19:19:58 +0000 UTC,Java,0,1890,1611,3024,No Releases,7526,https://github.com/languagetool-org/languagetool
+cassandra,2009-05-21 02:10:09 +0000 UTC,2022-09-13 10:59:18 +0000 UTC,Java,0,24,0,0,No Releases,7519,https://github.com/apache/cassandra
+kkFileView,2017-12-12 11:41:08 +0000 UTC,2022-09-13 13:32:05 +0000 UTC,Java,10,138,151,50,2021-07-06T03:43:11Z,7442,https://github.com/kekingcn/kkFileView
+litho,2017-01-27 03:59:11 +0000 UTC,2022-09-13 06:20:58 +0000 UTC,Java,49,51,78,302,2022-05-03T17:08:00Z,7426,https://github.com/facebook/litho
+debezium,2016-01-22 20:17:05 +0000 UTC,2022-09-13 18:15:18 +0000 UTC,Java,0,3098,0,0,No Releases,7421,https://github.com/debezium/debezium
+jna,2011-04-29 13:30:29 +0000 UTC,2022-09-13 11:52:49 +0000 UTC,Java,0,552,70,641,No Releases,7388,https://github.com/java-native-access/jna
+subsampling-scale-image-view,2013-08-26 16:45:25 +0000 UTC,2022-09-13 13:32:03 +0000 UTC,Java,21,30,31,477,2018-03-15T06:49:29Z,7374,https://github.com/davemorrissey/subsampling-scale-image-view
+otter,2013-08-09 09:31:22 +0000 UTC,2022-09-13 09:36:43 +0000 UTC,Java,10,43,294,716,2019-09-02T07:14:43Z,7349,https://github.com/alibaba/otter
+hellocharts-android,2014-10-12 09:12:37 +0000 UTC,2022-09-11 13:46:24 +0000 UTC,Java,14,22,281,226,2015-09-27T15:30:08Z,7346,https://github.com/lecho/hellocharts-android
+AndroidPdfViewer,2016-06-02 20:21:21 +0000 UTC,2022-09-13 02:55:37 +0000 UTC,Java,0,23,601,432,No Releases,7338,https://github.com/barteksc/AndroidPdfViewer
+vjtools,2018-05-29 09:07:08 +0000 UTC,2022-09-13 10:15:40 +0000 UTC,Java,9,32,33,108,2018-12-18T09:28:10Z,7318,https://github.com/vipshop/vjtools
+JsonPath,2011-01-24 13:19:19 +0000 UTC,2022-09-13 13:59:24 +0000 UTC,Java,8,211,242,282,2022-01-30T14:32:07Z,7304,https://github.com/json-path/JsonPath
+MyBookshelf,2018-06-12 03:48:07 +0000 UTC,2022-09-13 16:33:55 +0000 UTC,Java,165,156,230,172,2022-04-01T02:54:28Z,7299,https://github.com/gedoor/MyBookshelf
+dagger,2012-08-02 23:25:32 +0000 UTC,2022-09-09 13:06:43 +0000 UTC,Java,0,245,59,208,No Releases,7297,https://github.com/square/dagger
+dataease,2021-02-02 04:10:21 +0000 UTC,2022-09-13 16:43:32 +0000 UTC,Java,35,1960,102,956,2022-09-01T00:06:36Z,7292,https://github.com/dataease/dataease
+AndroidAsync,2012-08-24 07:27:04 +0000 UTC,2022-09-13 10:14:55 +0000 UTC,Java,0,91,331,235,No Releases,7288,https://github.com/koush/AndroidAsync
+checkstyle,2013-08-31 02:05:05 +0000 UTC,2022-09-13 07:45:09 +0000 UTC,Java,119,4913,680,3832,2022-08-28T13:56:18Z,7269,https://github.com/checkstyle/checkstyle
+agera,2015-12-17 13:22:58 +0000 UTC,2022-09-09 11:58:32 +0000 UTC,Java,16,94,4,46,2018-02-27T18:35:01Z,7265,https://github.com/google/agera
+Android-Bootstrap,2013-11-01 15:36:17 +0000 UTC,2022-09-13 04:38:30 +0000 UTC,Java,5,48,25,132,2016-12-10T17:09:43Z,7263,https://github.com/Bearded-Hen/Android-Bootstrap
+EhViewer,2014-05-14 12:03:52 +0000 UTC,2022-09-13 15:21:21 +0000 UTC,Java,97,57,197,400,2019-07-26T17:35:04Z,7259,https://github.com/seven332/EhViewer
+sweet-alert-dialog,2014-10-19 09:24:09 +0000 UTC,2022-09-12 13:39:01 +0000 UTC,Java,2,2,144,48,2014-10-30T05:22:27Z,7255,https://github.com/pedant/sweet-alert-dialog
+UltimateRecyclerView,2015-01-28 02:27:45 +0000 UTC,2022-09-09 13:44:33 +0000 UTC,Java,9,82,183,207,2016-08-05T08:12:30Z,7237,https://github.com/cymcsg/UltimateRecyclerView
+ShortcutBadger,2013-11-15 12:51:52 +0000 UTC,2022-09-12 16:18:33 +0000 UTC,Java,0,47,172,131,No Releases,7216,https://github.com/leolin310148/ShortcutBadger
+TakePhoto,2015-08-04 02:05:32 +0000 UTC,2022-09-08 02:25:18 +0000 UTC,Java,15,8,421,140,2018-04-02T12:14:31Z,7202,https://github.com/crazycodeboy/TakePhoto
+spider-flow,2020-03-27 11:07:15 +0000 UTC,2022-09-13 08:44:53 +0000 UTC,Java,2,6,1,26,2020-04-13T00:41:59Z,7180,https://github.com/ssssssss-team/spider-flow
+WeChatLuckyMoney,2015-09-30 16:11:20 +0000 UTC,2022-09-13 02:18:37 +0000 UTC,Java,20,39,0,0,2018-04-14T03:28:17Z,7154,https://github.com/geeeeeeeeek/WeChatLuckyMoney
+android-classyshark,2015-10-12 13:40:48 +0000 UTC,2022-09-12 12:02:12 +0000 UTC,Java,17,97,38,65,2018-07-25T08:58:41Z,7150,https://github.com/google/android-classyshark
+sonarqube,2011-01-05 11:05:17 +0000 UTC,2022-09-13 11:50:11 +0000 UTC,Java,31,2187,0,0,2022-08-29T12:01:12Z,7145,https://github.com/SonarSource/sonarqube
+ActionBarSherlock,2011-03-07 17:28:54 +0000 UTC,2022-09-11 08:57:24 +0000 UTC,Java,32,84,85,797,2013-07-29T16:09:08Z,7141,https://github.com/JakeWharton/ActionBarSherlock
+supertokens-core,2020-01-05 13:30:52 +0000 UTC,2022-09-13 17:15:47 +0000 UTC,Java,14,138,74,261,2022-08-18T06:43:37Z,7115,https://github.com/supertokens/supertokens-core
+spring-security,2012-01-10 21:50:57 +0000 UTC,2022-09-13 18:00:52 +0000 UTC,Java,113,952,752,9026,2022-08-15T15:25:05Z,7089,https://github.com/spring-projects/spring-security
+MVVMHabit,2017-07-21 10:38:40 +0000 UTC,2022-09-13 07:49:39 +0000 UTC,Java,3,0,5,89,2021-07-16T06:59:05Z,7080,https://github.com/goldze/MVVMHabit
+shenyu,2018-07-11 08:17:45 +0000 UTC,2022-09-13 15:08:28 +0000 UTC,Java,7,1999,142,1441,2022-08-20T13:09:22Z,7075,https://github.com/apache/shenyu
+algs4,2015-08-31 09:28:49 +0000 UTC,2022-09-13 18:44:20 +0000 UTC,Java,0,7,12,48,No Releases,7064,https://github.com/kevin-wayne/algs4
+swagger-core,2011-07-05 23:44:11 +0000 UTC,2022-09-13 12:35:45 +0000 UTC,Java,76,1124,648,2056,2022-07-20T10:16:01Z,7047,https://github.com/swagger-api/swagger-core
+RePlugin,2017-06-08 09:39:09 +0000 UTC,2022-09-13 01:06:21 +0000 UTC,Java,17,142,327,527,2020-08-18T06:58:35Z,7021,https://github.com/Qihoo360/RePlugin
+SpringCloud-Learning,2016-08-21 03:39:52 +0000 UTC,2022-09-11 15:26:14 +0000 UTC,Java,0,2,15,11,No Releases,7008,https://github.com/dyc87112/SpringCloud-Learning
+SmartTabLayout,2015-02-14 11:25:51 +0000 UTC,2022-09-13 13:17:21 +0000 UTC,Java,0,15,120,164,No Releases,6999,https://github.com/ogaclejapan/SmartTabLayout
+Mapper,2014-11-21 11:02:10 +0000 UTC,2022-09-12 08:42:45 +0000 UTC,Java,2,29,352,426,2017-07-18T13:15:42Z,6946,https://github.com/abel533/Mapper
+cachecloud,2016-01-26 05:46:01 +0000 UTC,2022-09-13 15:53:21 +0000 UTC,Java,6,9,8,234,2021-12-13T08:52:10Z,6937,https://github.com/sohutv/cachecloud
+SmartTubeNext,2020-07-28 12:53:52 +0000 UTC,2022-09-13 18:24:06 +0000 UTC,Java,77,519,980,259,2022-09-07T20:29:35Z,6910,https://github.com/yuliskov/SmartTubeNext
+LeetCode,2020-01-11 01:02:02 +0000 UTC,2022-09-13 13:36:26 +0000 UTC,Java,0,1,0,5,No Releases,6881,https://github.com/yuanguangxin/LeetCode
+okhttputils,2015-08-17 14:53:29 +0000 UTC,2022-09-11 21:07:50 +0000 UTC,Java,0,9,0,0,No Releases,6866,https://github.com/hongyangAndroid/okhttputils
+ruoyi-vue-pro,2021-01-24 03:18:25 +0000 UTC,2022-09-13 18:38:17 +0000 UTC,Java,12,16,8,134,2022-08-23T00:41:20Z,6815,https://github.com/YunaiV/ruoyi-vue-pro
+im-server,2019-01-23 15:21:28 +0000 UTC,2022-09-13 10:08:22 +0000 UTC,Java,72,7,9,480,2022-08-31T12:30:03Z,6802,https://github.com/wildfirechat/im-server
+elasticsearch-sql,2014-08-24 14:26:31 +0000 UTC,2022-09-13 17:07:07 +0000 UTC,Java,193,93,287,649,2022-08-14T07:44:59Z,6754,https://github.com/NLPchina/elasticsearch-sql
+Timber,2015-06-12 16:43:55 +0000 UTC,2022-09-13 04:38:10 +0000 UTC,Java,5,89,189,134,2020-10-05T18:48:53Z,6747,https://github.com/naman14/Timber
+DroidPlugin,2015-08-27 11:14:57 +0000 UTC,2022-09-13 08:50:45 +0000 UTC,Java,2,28,222,188,2015-11-09T01:54:16Z,6743,https://github.com/DroidPluginTeam/DroidPlugin
+xmall,2017-07-28 01:49:49 +0000 UTC,2022-09-13 07:40:01 +0000 UTC,Java,0,0,11,28,No Releases,6731,https://github.com/Exrick/xmall
+flyway,2012-12-14 18:43:22 +0000 UTC,2022-09-13 13:11:10 +0000 UTC,Java,156,184,67,2950,2022-09-08T15:16:47Z,6713,https://github.com/flyway/flyway
+AndroidAutoLayout,2015-11-19 02:09:11 +0000 UTC,2022-09-06 08:36:21 +0000 UTC,Java,0,2,0,0,No Releases,6690,https://github.com/hongyangAndroid/AndroidAutoLayout
+VBlog,2017-12-26 11:01:55 +0000 UTC,2022-09-13 03:18:16 +0000 UTC,Java,0,1,50,20,No Releases,6682,https://github.com/lenve/VBlog
+Paper,2016-01-22 05:40:19 +0000 UTC,2022-09-13 18:50:44 +0000 UTC,Java,1,1917,243,4857,2018-10-29T13:02:56Z,6676,https://github.com/PaperMC/Paper
+plantuml,2010-11-04 15:55:50 +0000 UTC,2022-09-13 16:14:37 +0000 UTC,Java,14,257,510,223,2022-09-12T20:08:34Z,6673,https://github.com/plantuml/plantuml
+XPopup,2018-12-07 06:16:48 +0000 UTC,2022-09-11 14:54:08 +0000 UTC,Java,199,2,15,992,2022-09-06T01:04:26Z,6658,https://github.com/li-xiaojun/XPopup
+yudao-cloud,2019-05-02 16:06:49 +0000 UTC,2022-09-13 14:47:55 +0000 UTC,Java,0,7,1,38,No Releases,6610,https://github.com/YunaiV/yudao-cloud
+closure-compiler,2014-04-16 15:30:36 +0000 UTC,2022-09-12 09:22:36 +0000 UTC,Java,0,395,855,1972,No Releases,6597,https://github.com/google/closure-compiler
+angel,2017-04-25 05:57:43 +0000 UTC,2022-09-13 08:37:31 +0000 UTC,Java,19,489,117,484,2021-08-06T08:26:25Z,6590,https://github.com/Angel-ML/angel
+gocd,2013-12-13 05:26:16 +0000 UTC,2022-09-13 15:56:33 +0000 UTC,Java,72,5969,43,3272,2022-08-12T16:26:46Z,6580,https://github.com/gocd/gocd
+Shadow,2019-06-13 10:50:27 +0000 UTC,2022-09-13 06:37:08 +0000 UTC,Java,5,243,215,535,2022-05-07T02:47:40Z,6577,https://github.com/Tencent/Shadow
+AndPermission,2016-09-11 05:17:34 +0000 UTC,2022-09-09 01:40:05 +0000 UTC,Java,0,9,167,490,No Releases,6567,https://github.com/yanzhenjie/AndPermission
+FrameworkBenchmarks,2013-03-22 17:33:54 +0000 UTC,2022-09-12 08:48:07 +0000 UTC,Java,15,5327,96,1101,2021-02-08T18:10:22Z,6562,https://github.com/TechEmpower/FrameworkBenchmarks
+LSPosed,2020-12-12 08:39:37 +0000 UTC,2022-09-13 17:10:45 +0000 UTC,Java,33,1284,6,435,2022-05-07T08:31:32Z,6513,https://github.com/LSPosed/LSPosed
+walle,2017-01-10 03:39:25 +0000 UTC,2022-09-13 13:07:54 +0000 UTC,Java,1,34,101,240,2019-02-25T06:00:16Z,6481,https://github.com/Meituan-Dianping/walle
+react-native-push-notification,2015-12-14 19:53:36 +0000 UTC,2022-09-13 18:20:58 +0000 UTC,Java,35,178,229,1722,2021-10-01T14:08:22Z,6459,https://github.com/zo0r/react-native-push-notification
+jmeter,2010-05-26 23:38:07 +0000 UTC,2022-09-13 16:46:33 +0000 UTC,Java,0,136,0,0,No Releases,6433,https://github.com/apache/jmeter
+AndroidPerformanceMonitor,2016-01-17 05:23:22 +0000 UTC,2022-09-13 08:51:15 +0000 UTC,Java,0,24,48,65,No Releases,6431,https://github.com/markzhai/AndroidPerformanceMonitor
+nanohttpd,2012-08-10 21:52:42 +0000 UTC,2022-09-13 09:11:57 +0000 UTC,Java,3,115,149,267,2016-08-12T18:14:08Z,6401,https://github.com/NanoHttpd/nanohttpd
+Toasty,2017-01-18 18:52:41 +0000 UTC,2022-09-13 07:36:49 +0000 UTC,Java,19,26,45,108,2021-09-05T21:52:15Z,6390,https://github.com/GrenderG/Toasty
+storm,2013-11-05 08:00:14 +0000 UTC,2022-09-13 07:31:38 +0000 UTC,Java,0,2659,0,0,No Releases,6386,https://github.com/apache/storm
+android-floating-action-button,2014-09-19 06:49:21 +0000 UTC,2022-08-30 12:31:31 +0000 UTC,Java,0,25,132,176,No Releases,6380,https://github.com/zendesk/android-floating-action-button
+RoundedImageView,2013-02-22 01:17:37 +0000 UTC,2022-09-12 17:01:50 +0000 UTC,Java,19,28,31,192,2016-12-04T23:30:42Z,6345,https://github.com/vinc3m1/RoundedImageView
+datahub,2015-11-18 05:47:40 +0000 UTC,2022-09-13 14:06:26 +0000 UTC,Java,62,4189,128,1135,2022-09-01T03:48:32Z,6327,https://github.com/datahub-project/datahub
+testcontainers-java,2015-04-12 12:44:59 +0000 UTC,2022-09-13 17:39:30 +0000 UTC,Java,58,2711,418,1374,2022-06-28T22:27:00Z,6317,https://github.com/testcontainers/testcontainers-java
+mybatis-generator-gui,2016-05-08 22:39:39 +0000 UTC,2022-09-13 00:23:54 +0000 UTC,Java,16,33,102,168,2017-08-07T21:09:50Z,6302,https://github.com/zouzg/mybatis-generator-gui
+ion,2013-05-22 07:41:23 +0000 UTC,2022-09-12 23:45:19 +0000 UTC,Java,0,52,328,553,No Releases,6302,https://github.com/koush/ion
+karate,2017-02-07 15:59:17 +0000 UTC,2022-09-13 16:06:12 +0000 UTC,Java,46,283,35,1677,2022-05-27T05:57:48Z,6300,https://github.com/karatelabs/karate
+react-native-video,2015-03-31 05:08:38 +0000 UTC,2022-09-13 17:57:41 +0000 UTC,Java,7,364,77,2150,2022-09-13T07:00:47Z,6295,https://github.com/react-native-video/react-native-video
+react-native-svg,2016-01-17 14:29:21 +0000 UTC,2022-09-12 10:42:10 +0000 UTC,Java,83,301,296,1104,2022-08-29T15:39:49Z,6290,https://github.com/react-native-svg/react-native-svg
+tomcat,2011-10-01 07:00:19 +0000 UTC,2022-09-12 06:38:12 +0000 UTC,Java,0,117,0,0,No Releases,6259,https://github.com/apache/tomcat
+processing,2013-01-24 21:17:22 +0000 UTC,2022-09-13 11:11:42 +0000 UTC,Java,48,731,485,4648,2020-01-17T17:08:12Z,6248,https://github.com/processing/processing
+graylog2-server,2010-05-17 21:27:02 +0000 UTC,2022-09-13 15:03:33 +0000 UTC,Java,0,5931,1340,4656,No Releases,6240,https://github.com/Graylog2/graylog2-server
+haven,2017-03-01 03:20:03 +0000 UTC,2022-09-11 14:26:04 +0000 UTC,Java,37,129,135,155,2021-07-20T20:03:37Z,6237,https://github.com/guardianproject/haven
+SDE-Interview-Questions,2017-10-25 11:08:52 +0000 UTC,2022-09-13 13:25:53 +0000 UTC,Java,1,90,0,15,2018-09-30T05:38:07Z,6214,https://github.com/twowaits/SDE-Interview-Questions
+zfile,2019-08-19 13:57:56 +0000 UTC,2022-09-13 15:00:25 +0000 UTC,Java,57,5,45,368,2022-08-29T06:56:39Z,6200,https://github.com/zfile-dev/zfile
+ansj_seg,2012-09-05 05:56:24 +0000 UTC,2022-09-13 04:33:53 +0000 UTC,Java,3,61,39,661,2016-05-13T07:27:03Z,6190,https://github.com/NLPchina/ansj_seg
+lawnchair,2017-03-03 13:12:58 +0000 UTC,2022-09-13 16:24:07 +0000 UTC,Java,25,318,169,2267,2022-08-08T09:20:31Z,6171,https://github.com/LawnchairLauncher/lawnchair
+BookReader,2016-08-03 05:17:27 +0000 UTC,2022-09-12 07:09:38 +0000 UTC,Java,0,3,36,199,No Releases,6160,https://github.com/smuyyh/BookReader
+Android-Image-Cropper,2015-01-15 10:49:37 +0000 UTC,2022-09-13 04:17:18 +0000 UTC,Java,32,49,342,436,2018-10-27T11:42:42Z,6154,https://github.com/ArthurHub/Android-Image-Cropper
+javacv,2014-04-21 13:50:26 +0000 UTC,2022-09-13 13:31:54 +0000 UTC,Java,8,108,271,1463,2022-02-09T06:10:40Z,6150,https://github.com/bytedeco/javacv
+SwipeBackLayout,2013-08-25 03:36:12 +0000 UTC,2022-09-04 05:48:58 +0000 UTC,Java,0,11,107,64,No Releases,6143,https://github.com/ikew0ng/SwipeBackLayout
+aeron,2014-02-07 17:16:58 +0000 UTC,2022-09-13 08:57:40 +0000 UTC,Java,83,580,19,624,2022-07-14T11:46:55Z,6141,https://github.com/real-logic/aeron
+MaterialEditText,2014-10-30 10:07:23 +0000 UTC,2022-09-12 08:27:34 +0000 UTC,Java,19,28,181,157,2015-06-04T03:04:04Z,6118,https://github.com/rengwuxian/MaterialEditText
+trino,2019-01-19 06:38:14 +0000 UTC,2022-09-13 14:18:53 +0000 UTC,Java,0,7357,1691,2501,No Releases,6112,https://github.com/trinodb/trino
+error-prone,2014-08-21 23:26:50 +0000 UTC,2022-09-13 13:29:47 +0000 UTC,Java,23,1397,303,1081,2022-08-03T22:25:19Z,6079,https://github.com/google/error-prone
+material,2014-12-09 12:07:32 +0000 UTC,2022-09-12 10:57:54 +0000 UTC,Java,10,24,209,218,2019-06-12T07:27:25Z,6040,https://github.com/rey5137/material
+EffectiveAndroidUI,2014-07-04 08:42:20 +0000 UTC,2022-09-06 03:10:04 +0000 UTC,Java,0,9,4,14,No Releases,6038,https://github.com/pedrovgs/EffectiveAndroidUI
+pentaho-kettle,2013-10-08 18:27:11 +0000 UTC,2022-09-13 16:36:26 +0000 UTC,Java,1,7589,0,0,2015-01-05T19:15:15Z,6032,https://github.com/pentaho/pentaho-kettle
+remusic,2016-03-24 06:20:39 +0000 UTC,2022-09-13 02:43:54 +0000 UTC,Java,0,1,86,27,No Releases,6030,https://github.com/aa112901/remusic
+physical-web,2014-09-30 18:32:14 +0000 UTC,2022-09-13 11:12:34 +0000 UTC,Java,17,481,90,303,2016-09-01T21:58:59Z,6028,https://github.com/google/physical-web
+NumberProgressBar,2014-05-01 08:54:25 +0000 UTC,2022-09-09 14:07:32 +0000 UTC,Java,3,11,22,33,2014-08-27T00:33:54Z,6014,https://github.com/daimajia/NumberProgressBar
+rest-assured,2010-10-21 08:35:43 +0000 UTC,2022-09-13 05:46:58 +0000 UTC,Java,0,191,457,876,No Releases,6007,https://github.com/rest-assured/rest-assured
+aws-doc-sdk-examples,2016-08-18 19:06:57 +0000 UTC,2022-09-13 17:27:45 +0000 UTC,Java,0,2266,224,760,No Releases,6002,https://github.com/awsdocs/aws-doc-sdk-examples
+async-http-client,2011-03-07 13:41:46 +0000 UTC,2022-09-11 03:44:41 +0000 UTC,Java,0,392,90,1197,No Releases,6000,https://github.com/AsyncHttpClient/async-http-client
+rabbitmq-tutorials,2010-09-21 11:41:26 +0000 UTC,2022-09-13 14:32:06 +0000 UTC,Java,0,173,6,88,No Releases,5994,https://github.com/rabbitmq/rabbitmq-tutorials
+JFoenix,2015-09-08 14:04:24 +0000 UTC,2022-09-13 17:34:31 +0000 UTC,Java,0,121,113,971,No Releases,5981,https://github.com/sshahine/JFoenix
+dynamic-load-apk,2014-03-30 11:51:00 +0000 UTC,2022-09-12 00:43:32 +0000 UTC,Java,0,35,83,29,No Releases,5970,https://github.com/singwhatiwanna/dynamic-load-apk
+androidmvp,2014-04-02 05:42:20 +0000 UTC,2022-09-08 12:46:26 +0000 UTC,Java,0,11,1,17,No Releases,5967,https://github.com/antoniolg/androidmvp
+spring-cloud-examples,2017-04-28 08:48:53 +0000 UTC,2022-09-12 20:34:45 +0000 UTC,Java,0,0,1,35,No Releases,5966,https://github.com/ityouknow/spring-cloud-examples
+xUtils3,2015-10-28 10:56:04 +0000 UTC,2022-09-09 14:33:15 +0000 UTC,Java,9,7,32,674,2020-07-28T08:06:31Z,5941,https://github.com/wyouflf/xUtils3
+Android-skin-support,2017-01-12 15:03:54 +0000 UTC,2022-09-13 06:09:47 +0000 UTC,Java,0,19,88,360,No Releases,5906,https://github.com/ximsfei/Android-skin-support
+netty-socketio,2012-01-12 11:43:49 +0000 UTC,2022-09-13 02:29:16 +0000 UTC,Java,4,76,355,376,2022-09-06T05:05:27Z,5902,https://github.com/mrniko/netty-socketio
+richeditor-android,2015-03-30 16:19:20 +0000 UTC,2022-09-12 10:36:49 +0000 UTC,Java,0,29,203,42,No Releases,5900,https://github.com/wasabeef/richeditor-android
+j2objc,2014-01-30 20:19:56 +0000 UTC,2022-09-10 01:10:31 +0000 UTC,Java,39,684,57,1012,2021-04-06T18:36:54Z,5893,https://github.com/google/j2objc
+doris,2017-08-10 12:13:30 +0000 UTC,2022-09-13 15:44:26 +0000 UTC,Java,13,6705,947,3308,2022-09-09T04:03:07Z,5868,https://github.com/apache/doris
+Spring-Cloud-Platform,2017-05-25 10:35:26 +0000 UTC,2022-09-13 05:00:12 +0000 UTC,Java,3,5,0,34,2020-12-09T11:56:21Z,5854,https://github.com/wxiaoqi/Spring-Cloud-Platform
+alluxio,2012-12-21 17:43:46 +0000 UTC,2022-09-13 17:06:00 +0000 UTC,Java,56,12138,665,1089,2022-08-05T19:54:45Z,5850,https://github.com/Alluxio/alluxio
+beam,2016-02-02 08:00:06 +0000 UTC,2022-09-13 14:59:32 +0000 UTC,Java,24,12951,3926,516,2022-08-23T19:01:13Z,5847,https://github.com/apache/beam
+jsonschema2pojo,2013-06-22 22:28:53 +0000 UTC,2022-09-13 18:53:22 +0000 UTC,Java,59,220,142,920,2022-05-03T20:21:33Z,5835,https://github.com/joelittlejohn/jsonschema2pojo
+zeppelin,2015-03-25 07:00:06 +0000 UTC,2022-09-13 06:18:43 +0000 UTC,Java,0,133,0,0,No Releases,5811,https://github.com/apache/zeppelin
+material-calendarview,2015-02-09 22:31:56 +0000 UTC,2022-09-13 01:30:05 +0000 UTC,Java,22,136,211,691,2019-01-23T15:06:52Z,5806,https://github.com/prolificinteractive/material-calendarview
+motan,2016-04-20 10:56:17 +0000 UTC,2022-09-13 05:03:00 +0000 UTC,Java,19,162,339,423,2022-08-11T04:34:11Z,5798,https://github.com/weibocom/motan
+BoomMenu,2016-03-19 12:04:12 +0000 UTC,2022-09-12 08:03:52 +0000 UTC,Java,0,3,114,133,No Releases,5765,https://github.com/Nightonke/BoomMenu
+springside4,2012-02-23 08:39:03 +0000 UTC,2022-09-11 17:47:36 +0000 UTC,Java,3,33,40,426,2017-01-24T05:15:15Z,5764,https://github.com/springside/springside4
+FEBS-Shiro,2018-03-20 02:17:48 +0000 UTC,2022-09-11 06:44:58 +0000 UTC,Java,0,44,6,167,No Releases,5760,https://github.com/febsteam/FEBS-Shiro
+MinecraftForge,2012-01-30 01:35:01 +0000 UTC,2022-09-13 11:59:05 +0000 UTC,Java,0,2371,95,3888,No Releases,5744,https://github.com/MinecraftForge/MinecraftForge
+from-java-to-kotlin,2017-05-21 11:56:27 +0000 UTC,2022-09-11 13:27:07 +0000 UTC,Java,0,48,5,6,No Releases,5739,https://github.com/MindorksOpenSource/from-java-to-kotlin
+config,2011-12-06 08:02:29 +0000 UTC,2022-09-13 14:20:27 +0000 UTC,Java,0,192,214,291,No Releases,5739,https://github.com/lightbend/config
+InfiniteCycleViewPager,2016-08-22 08:04:39 +0000 UTC,2022-09-09 13:50:17 +0000 UTC,Java,2,3,55,23,2016-08-31T08:06:43Z,5720,https://github.com/Devlight/InfiniteCycleViewPager
+u2020,2013-11-14 11:58:23 +0000 UTC,2022-08-27 06:31:38 +0000 UTC,Java,0,209,12,70,No Releases,5711,https://github.com/JakeWharton/u2020
+springBoot,2016-11-07 02:13:31 +0000 UTC,2022-09-13 13:43:22 +0000 UTC,Java,0,0,32,6,No Releases,5704,https://github.com/527515025/springBoot
+DiskLruCache,2012-01-05 00:36:34 +0000 UTC,2022-09-05 17:35:37 +0000 UTC,Java,0,26,19,37,No Releases,5702,https://github.com/JakeWharton/DiskLruCache
+Java-Tutorial,2018-05-01 15:57:21 +0000 UTC,2022-09-13 14:06:19 +0000 UTC,Java,0,7,25,8,No Releases,5694,https://github.com/h2pl/Java-Tutorial
+blade,2015-06-10 03:35:49 +0000 UTC,2022-09-13 06:10:34 +0000 UTC,Java,9,154,6,247,2022-05-09T14:40:40Z,5691,https://github.com/lets-blade/blade
+springfox,2012-05-06 06:38:57 +0000 UTC,2022-09-13 07:39:21 +0000 UTC,Java,12,279,257,3226,2020-07-14T03:17:57Z,5688,https://github.com/springfox/springfox
+transmittable-thread-local,2013-10-13 08:48:33 +0000 UTC,2022-09-13 09:38:11 +0000 UTC,Java,53,109,23,213,2022-08-15T08:53:24Z,5685,https://github.com/alibaba/transmittable-thread-local
+OpenSearch,2021-01-29 22:10:00 +0000 UTC,2022-09-13 18:29:12 +0000 UTC,Java,21,2370,631,870,2022-08-23T18:18:37Z,5677,https://github.com/opensearch-project/OpenSearch
+ysoserial,2015-01-28 07:13:55 +0000 UTC,2022-09-13 18:20:04 +0000 UTC,Java,1,60,20,64,2022-06-29T01:44:09Z,5669,https://github.com/frohoff/ysoserial
+AndroidPicker,2015-10-21 14:21:16 +0000 UTC,2022-09-08 09:07:45 +0000 UTC,Java,52,18,156,143,2022-08-31T11:39:13Z,5665,https://github.com/gzu-liyujiang/AndroidPicker
+grafika,2013-12-19 18:36:53 +0000 UTC,2022-09-12 18:31:56 +0000 UTC,Java,1,5,48,53,2014-05-22T18:30:51Z,5661,https://github.com/google/grafika
+ssm,2016-06-18 17:58:56 +0000 UTC,2022-09-13 12:22:29 +0000 UTC,Java,0,6,25,20,No Releases,5661,https://github.com/liyifeng1994/ssm
+AndroidImageSlider,2014-06-02 06:04:17 +0000 UTC,2022-09-12 12:11:09 +0000 UTC,Java,5,16,291,97,2014-07-11T05:43:41Z,5650,https://github.com/daimajia/AndroidImageSlider
+flowable-engine,2016-10-13 07:21:43 +0000 UTC,2022-09-13 16:36:02 +0000 UTC,Java,20,1887,260,830,2021-12-28T14:03:10Z,5635,https://github.com/flowable/flowable-engine
+DiscreteScrollView,2017-03-03 23:38:54 +0000 UTC,2022-09-12 06:17:26 +0000 UTC,Java,2,5,40,150,2020-08-01T14:49:57Z,5621,https://github.com/yarolegovich/DiscreteScrollView
+FastHub,2017-02-18 17:53:16 +0000 UTC,2022-09-13 08:56:41 +0000 UTC,Java,63,299,334,2201,2019-12-29T11:40:05Z,5618,https://github.com/k0shk0sh/FastHub
+ListViewAnimations,2013-03-19 11:59:23 +0000 UTC,2022-09-08 12:55:13 +0000 UTC,Java,14,39,0,0,2014-08-21T20:00:54Z,5615,https://github.com/nhaarman/ListViewAnimations
+circular-progress-button,2014-06-07 12:58:48 +0000 UTC,2022-09-10 12:27:26 +0000 UTC,Java,1,38,0,0,2021-10-05T10:57:18Z,5607,https://github.com/dmytrodanylyk/circular-progress-button
+graphql-java,2015-07-06 06:52:20 +0000 UTC,2022-09-13 03:43:54 +0000 UTC,Java,47,1240,53,1070,2022-09-07T04:09:25Z,5604,https://github.com/graphql-java/graphql-java
+ShowcaseView,2012-08-14 19:07:36 +0000 UTC,2022-09-11 18:50:33 +0000 UTC,Java,13,71,83,242,2016-04-06T20:27:51Z,5594,https://github.com/amlcurran/ShowcaseView
+smile,2014-11-20 16:28:12 +0000 UTC,2022-09-13 15:46:39 +0000 UTC,Java,22,108,9,541,2020-12-05T17:00:23Z,5582,https://github.com/haifengl/smile
+aurora-imui,2016-12-13 05:24:01 +0000 UTC,2022-09-09 11:56:21 +0000 UTC,Java,42,125,117,440,2019-01-10T02:37:59Z,5579,https://github.com/jpush/aurora-imui
+Leaf,2018-12-11 07:41:35 +0000 UTC,2022-09-13 06:19:39 +0000 UTC,Java,0,8,50,88,No Releases,5570,https://github.com/Meituan-Dianping/Leaf
+mapstruct,2012-05-28 12:42:42 +0000 UTC,2022-09-13 18:06:29 +0000 UTC,Java,25,690,358,1610,2022-06-18T17:01:17Z,5568,https://github.com/mapstruct/mapstruct
+smali,2012-09-23 19:51:16 +0000 UTC,2022-09-13 17:22:05 +0000 UTC,Java,0,54,116,619,No Releases,5566,https://github.com/JesusFreke/smali
+FlowLayout,2015-08-28 09:32:31 +0000 UTC,2022-09-09 08:44:49 +0000 UTC,Java,0,7,0,0,No Releases,5563,https://github.com/hongyangAndroid/FlowLayout
+disconf,2014-05-30 09:39:27 +0000 UTC,2022-09-13 07:39:14 +0000 UTC,Java,12,13,179,190,2016-09-11T15:52:06Z,5529,https://github.com/knightliao/disconf
+robolectric,2010-08-28 00:28:25 +0000 UTC,2022-09-12 11:15:51 +0000 UTC,Java,85,3462,498,2085,2022-08-22T22:32:52Z,5525,https://github.com/robolectric/robolectric
+StickyListHeaders,2012-03-11 18:29:18 +0000 UTC,2022-09-06 03:10:48 +0000 UTC,Java,16,83,147,230,2015-05-20T18:31:51Z,5523,https://github.com/emilsjolander/StickyListHeaders
+mosby,2015-03-25 00:59:19 +0000 UTC,2022-09-13 07:46:22 +0000 UTC,Java,15,69,24,239,2018-12-17T15:34:24Z,5497,https://github.com/sockeqwe/mosby
+freeline,2016-08-03 17:22:52 +0000 UTC,2022-09-09 11:57:22 +0000 UTC,Java,22,36,181,800,2017-11-08T04:09:50Z,5489,https://github.com/alibaba/freeline
+tcc-transaction,2015-12-05 04:27:53 +0000 UTC,2022-09-13 04:03:15 +0000 UTC,Java,5,51,5,287,2022-08-02T08:20:54Z,5489,https://github.com/changmingxie/tcc-transaction
+micronaut-core,2018-03-07 12:05:08 +0000 UTC,2022-09-13 15:43:21 +0000 UTC,Java,132,3560,446,2635,2022-09-09T13:17:20Z,5467,https://github.com/micronaut-projects/micronaut-core
+rebound,2013-10-11 01:12:37 +0000 UTC,2022-09-09 14:07:08 +0000 UTC,Java,10,25,23,27,2015-06-04T00:41:21Z,5467,https://github.com/facebookarchive/rebound
+Fast-Android-Networking,2016-03-21 18:35:44 +0000 UTC,2022-09-11 15:07:00 +0000 UTC,Java,8,23,225,317,2018-07-10T08:10:11Z,5449,https://github.com/amitshekhariitbhu/Fast-Android-Networking
+barcodescanner,2014-02-24 21:14:09 +0000 UTC,2022-09-13 12:37:06 +0000 UTC,Java,6,30,0,462,2017-08-19T07:22:50Z,5447,https://github.com/dm77/barcodescanner
+HTextView,2015-12-19 16:34:59 +0000 UTC,2022-09-06 08:08:56 +0000 UTC,Java,0,14,41,58,No Releases,5406,https://github.com/hanks-zyh/HTextView
+SystemBarTint,2013-11-17 12:35:05 +0000 UTC,2022-09-08 12:21:07 +0000 UTC,Java,3,3,0,0,2014-04-03T15:07:46Z,5389,https://github.com/jgilfelt/SystemBarTint
+android-job,2015-08-20 19:36:54 +0000 UTC,2022-09-13 13:02:55 +0000 UTC,Java,31,43,3,535,2019-10-09T23:42:35Z,5383,https://github.com/evernote/android-job
+junit5,2015-01-11 19:06:10 +0000 UTC,2022-09-13 14:40:16 +0000 UTC,Java,57,680,125,1828,2022-07-26T19:20:21Z,5378,https://github.com/junit-team/junit5
+SwipeRecyclerView,2016-08-03 15:43:34 +0000 UTC,2022-09-13 06:57:19 +0000 UTC,Java,0,4,106,205,No Releases,5346,https://github.com/yanzhenjie/SwipeRecyclerView
+gradle-retrolambda,2013-08-05 02:09:58 +0000 UTC,2022-09-11 11:41:50 +0000 UTC,Java,37,32,74,155,2017-07-23T20:21:10Z,5340,https://github.com/evant/gradle-retrolambda
+springcloud-learning,2019-09-07 02:36:16 +0000 UTC,2022-09-13 13:20:26 +0000 UTC,Java,0,0,14,9,No Releases,5336,https://github.com/macrozheng/springcloud-learning
+dubbo-spring-boot-project,2018-01-18 12:10:50 +0000 UTC,2022-09-13 09:26:23 +0000 UTC,Java,13,174,42,537,2021-03-12T13:38:40Z,5335,https://github.com/apache/dubbo-spring-boot-project
+useful-java-links,2016-02-13 13:14:52 +0000 UTC,2022-09-13 15:44:05 +0000 UTC,Java,0,91,0,18,No Releases,5318,https://github.com/Vedenin/useful-java-links
+XRecyclerView,2015-11-18 08:14:22 +0000 UTC,2022-09-13 16:22:43 +0000 UTC,Java,0,8,237,146,No Releases,5310,https://github.com/XRecyclerView/XRecyclerView
+cw-omnibus,2012-03-12 14:12:06 +0000 UTC,2022-09-12 19:25:56 +0000 UTC,Java,36,3,0,0,2019-02-09T23:04:10Z,5286,https://github.com/commonsguy/cw-omnibus
+react-native-splash-screen,2016-09-14 10:43:55 +0000 UTC,2022-09-13 12:45:49 +0000 UTC,Java,12,48,309,141,2021-12-05T14:33:15Z,5283,https://github.com/crazycodeboy/react-native-splash-screen
+scribejava,2010-09-05 19:11:40 +0000 UTC,2022-09-13 05:56:30 +0000 UTC,Java,7,138,28,583,2021-05-11T13:25:53Z,5279,https://github.com/scribejava/scribejava
+VitamioBundle,2012-10-19 08:40:49 +0000 UTC,2022-09-09 03:28:43 +0000 UTC,Java,0,7,292,187,No Releases,5271,https://github.com/yixia/VitamioBundle
+Blurry,2015-07-23 14:12:08 +0000 UTC,2022-09-13 08:05:56 +0000 UTC,Java,0,16,82,21,No Releases,5269,https://github.com/wasabeef/Blurry
+twoway-view,2013-01-18 20:55:23 +0000 UTC,2022-08-25 17:31:50 +0000 UTC,Java,0,11,149,92,No Releases,5261,https://github.com/lucasr/twoway-view
+MagicCamera,2016-01-08 11:36:56 +0000 UTC,2022-09-13 03:48:47 +0000 UTC,Java,0,0,96,16,No Releases,5254,https://github.com/wuhaoyu1990/MagicCamera
+android-advancedrecyclerview,2015-01-24 16:14:39 +0000 UTC,2022-09-08 11:00:53 +0000 UTC,Java,1,37,191,254,2018-12-16T10:53:05Z,5227,https://github.com/h6ah4i/android-advancedrecyclerview
+FloatingActionButton,2015-03-21 12:36:16 +0000 UTC,2022-09-13 13:16:19 +0000 UTC,Java,14,28,204,199,2016-05-28T08:31:25Z,5224,https://github.com/Clans/FloatingActionButton
+wechat,2015-05-25 02:33:37 +0000 UTC,2022-09-10 06:42:19 +0000 UTC,Java,0,1,42,11,No Releases,5207,https://github.com/motianhuo/wechat
+TapTargetView,2016-09-11 09:07:36 +0000 UTC,2022-09-12 15:39:53 +0000 UTC,Java,23,81,49,244,2021-07-09T17:58:52Z,5207,https://github.com/KeepSafe/TapTargetView
+zxing-android-embedded,2012-11-28 16:36:39 +0000 UTC,2022-09-13 10:11:30 +0000 UTC,Java,9,70,88,493,2021-10-25T14:08:53Z,5206,https://github.com/journeyapps/zxing-android-embedded
+Side-Menu.Android,2015-01-13 11:11:27 +0000 UTC,2022-09-06 05:24:42 +0000 UTC,Java,2,6,17,57,2019-01-31T14:02:59Z,5205,https://github.com/Yalantis/Side-Menu.Android
+android-lifecycle,2014-04-18 14:26:22 +0000 UTC,2022-09-08 10:59:30 +0000 UTC,Java,0,0,25,5,No Releases,5202,https://github.com/xxv/android-lifecycle
+titan,2012-02-25 22:53:53 +0000 UTC,2022-09-11 09:15:03 +0000 UTC,Java,0,131,157,968,No Releases,5199,https://github.com/thinkaurelius/titan
+quartz,2016-03-07 14:05:37 +0000 UTC,2022-09-13 11:33:13 +0000 UTC,Java,2,166,29,501,2019-10-23T16:28:13Z,5199,https://github.com/quartz-scheduler/quartz
+otto,2012-06-27 19:06:49 +0000 UTC,2022-09-10 09:53:39 +0000 UTC,Java,0,58,13,102,No Releases,5197,https://github.com/square/otto
+ksql,2016-09-27 21:30:15 +0000 UTC,2022-09-13 16:41:45 +0000 UTC,Java,8,5798,1092,1966,2020-01-14T19:55:10Z,5190,https://github.com/confluentinc/ksql
+btrace,2014-08-28 18:58:24 +0000 UTC,2022-09-13 06:19:09 +0000 UTC,Java,29,119,11,403,2022-03-25T21:14:12Z,5183,https://github.com/btraceio/btrace
+Dexter,2015-11-17 13:14:43 +0000 UTC,2022-09-07 10:18:28 +0000 UTC,Java,33,73,34,151,2021-07-02T10:43:51Z,5175,https://github.com/Karumi/Dexter
+byte-buddy,2013-11-25 19:38:03 +0000 UTC,2022-09-13 09:17:11 +0000 UTC,Java,254,143,94,1039,2022-09-08T14:38:17Z,5156,https://github.com/raphw/byte-buddy
+wiremock,2011-10-09 20:27:24 +0000 UTC,2022-09-13 18:06:04 +0000 UTC,Java,4,457,221,954,2022-04-29T13:43:52Z,5143,https://github.com/wiremock/wiremock
+Android-ZBLibrary,2015-08-20 16:03:53 +0000 UTC,2022-09-13 02:23:47 +0000 UTC,Java,25,13,9,26,2019-08-17T09:18:50Z,5121,https://github.com/TommyLemon/Android-ZBLibrary
+AndroidProject,2018-10-23 10:30:55 +0000 UTC,2022-09-13 07:26:11 +0000 UTC,Java,17,0,1,91,2021-12-18T03:56:40Z,5117,https://github.com/getActivity/AndroidProject
+hibernate-orm,2010-10-04 16:15:52 +0000 UTC,2022-09-13 10:15:56 +0000 UTC,Java,16,1860,0,0,2016-06-02T04:21:15Z,5096,https://github.com/hibernate/hibernate-orm
+jOOQ,2011-04-17 10:43:33 +0000 UTC,2022-09-13 13:30:34 +0000 UTC,Java,0,156,1881,11801,No Releases,5091,https://github.com/jOOQ/jOOQ
+itstack-demo-design,2020-05-20 13:45:30 +0000 UTC,2022-09-13 05:14:01 +0000 UTC,Java,0,5,14,13,No Releases,5086,https://github.com/fuzhengwei/itstack-demo-design
+jvm-sandbox,2017-08-03 02:55:31 +0000 UTC,2022-09-13 02:37:34 +0000 UTC,Java,12,69,31,243,2020-07-07T06:12:53Z,5063,https://github.com/alibaba/jvm-sandbox
+lanproxy,2016-11-20 08:12:10 +0000 UTC,2022-09-13 17:55:21 +0000 UTC,Java,1,2,124,37,2017-11-28T08:21:09Z,5062,https://github.com/ffay/lanproxy
+ctci,2013-03-21 23:01:01 +0000 UTC,2022-09-11 14:26:42 +0000 UTC,Java,0,80,33,5,No Releases,5058,https://github.com/careercup/ctci
+AndroidVideoCache,2015-04-01 11:25:52 +0000 UTC,2022-09-08 03:11:57 +0000 UTC,Java,20,2,142,137,2018-07-24T17:37:29Z,5039,https://github.com/danikula/AndroidVideoCache
+shimmer-android,2015-02-27 22:25:22 +0000 UTC,2022-09-11 15:36:20 +0000 UTC,Java,5,14,21,79,2019-07-16T23:11:38Z,5038,https://github.com/facebook/shimmer-android
+InstaMaterial,2014-11-10 18:56:49 +0000 UTC,2022-09-13 04:38:11 +0000 UTC,Java,1,2,27,15,2015-07-23T06:40:47Z,5022,https://github.com/frogermcs/InstaMaterial
+UltraViewPager,2017-03-29 13:31:53 +0000 UTC,2022-09-09 06:18:28 +0000 UTC,Java,10,4,55,84,2018-05-02T03:27:39Z,5021,https://github.com/alibaba/UltraViewPager
+Small,2015-11-27 11:37:20 +0000 UTC,2022-09-02 02:24:44 +0000 UTC,Java,25,36,259,300,2018-07-06T00:29:57Z,5014,https://github.com/wequick/Small
+Aria,2016-02-19 02:16:07 +0000 UTC,2022-09-13 07:41:08 +0000 UTC,Java,26,18,143,805,2020-11-09T12:34:27Z,5007,https://github.com/AriaLyy/Aria
+android-common,2012-06-19 07:49:46 +0000 UTC,2022-09-13 02:33:28 +0000 UTC,Java,1,7,18,14,2014-03-24T12:06:40Z,5007,https://github.com/Trinea/android-common
+hazelcast,2012-03-21 12:25:18 +0000 UTC,2022-09-13 06:39:59 +0000 UTC,Java,173,12096,1073,6569,2022-08-22T17:30:53Z,4998,https://github.com/hazelcast/hazelcast
+KnowStreaming,2020-03-19 05:13:51 +0000 UTC,2022-09-13 11:33:54 +0000 UTC,Java,15,242,40,247,2022-09-05T09:08:51Z,4995,https://github.com/didi/KnowStreaming
+vavr,2014-01-30 14:07:25 +0000 UTC,2022-09-11 19:49:41 +0000 UTC,Java,17,1426,68,1107,2021-07-14T13:29:37Z,4991,https://github.com/vavr-io/vavr
+socket.io-client-java,2013-04-28 17:04:05 +0000 UTC,2022-09-12 02:24:18 +0000 UTC,Java,5,27,77,591,2022-07-10T22:23:40Z,4988,https://github.com/socketio/socket.io-client-java
+spring-mvc-showcase,2011-06-03 15:36:55 +0000 UTC,2022-09-11 17:46:40 +0000 UTC,Java,0,8,5,38,No Releases,4988,https://github.com/spring-attic/spring-mvc-showcase
+generator,2013-02-10 11:14:50 +0000 UTC,2022-09-13 09:07:11 +0000 UTC,Java,10,456,7,362,2022-03-08T21:51:22Z,4981,https://github.com/mybatis/generator
+Discovery,2018-06-21 16:16:49 +0000 UTC,2022-09-13 05:01:40 +0000 UTC,Java,116,62,6,98,2022-09-05T04:15:33Z,4976,https://github.com/Nepxion/Discovery
+RxJava2-Android-Samples,2016-08-27 08:21:37 +0000 UTC,2022-09-10 05:36:55 +0000 UTC,Java,0,25,12,9,No Releases,4973,https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
+GmsCore,2014-04-23 19:28:47 +0000 UTC,2022-09-13 17:36:16 +0000 UTC,Java,26,146,727,791,2022-02-01T19:23:12Z,4970,https://github.com/microg/GmsCore
+dialogplus,2014-12-12 09:24:44 +0000 UTC,2022-09-12 09:48:26 +0000 UTC,Java,9,36,53,101,2015-11-09T12:52:15Z,4967,https://github.com/orhanobut/dialogplus
+gephi,2011-10-22 03:14:46 +0000 UTC,2022-09-13 06:20:46 +0000 UTC,Java,17,118,453,1899,2022-08-03T18:23:29Z,4958,https://github.com/gephi/gephi
+RippleEffect,2014-10-14 13:32:51 +0000 UTC,2022-09-06 02:51:46 +0000 UTC,Java,0,17,50,65,No Releases,4953,https://github.com/traex/RippleEffect
+android-zxingLibrary,2016-07-26 08:00:18 +0000 UTC,2022-09-12 07:59:18 +0000 UTC,Java,0,5,202,60,No Releases,4944,https://github.com/yipianfengye/android-zxingLibrary
+GravitySnapHelper,2016-08-31 07:25:23 +0000 UTC,2022-09-13 02:33:05 +0000 UTC,Java,14,11,6,58,2021-09-01T21:41:10Z,4937,https://github.com/rubensousa/GravitySnapHelper
+NavigationTabBar,2016-03-29 08:59:27 +0000 UTC,2022-09-11 08:41:59 +0000 UTC,Java,13,10,61,82,2016-08-13T18:39:58Z,4927,https://github.com/Devlight/NavigationTabBar
+java-jwt,2014-03-07 15:06:11 +0000 UTC,2022-09-13 11:54:44 +0000 UTC,Java,36,246,1,274,2022-06-24T09:59:21Z,4907,https://github.com/auth0/java-jwt
+SoloPi,2019-03-14 15:32:49 +0000 UTC,2022-09-13 12:21:13 +0000 UTC,Java,8,12,118,71,2022-05-09T15:14:56Z,4896,https://github.com/alipay/SoloPi
+baritone,2018-08-01 15:34:21 +0000 UTC,2022-09-13 14:23:17 +0000 UTC,Java,61,209,639,2565,2022-03-08T22:50:04Z,4893,https://github.com/cabaletta/baritone
+folding-cell-android,2016-04-01 11:38:47 +0000 UTC,2022-09-12 01:40:36 +0000 UTC,Java,0,17,7,65,No Releases,4887,https://github.com/Ramotion/folding-cell-android
+google-authenticator,2014-10-08 17:54:27 +0000 UTC,2022-09-10 03:30:12 +0000 UTC,Java,0,33,164,505,No Releases,4885,https://github.com/google/google-authenticator
+LayoutManagerGroup,2018-04-28 11:47:38 +0000 UTC,2022-09-10 01:55:54 +0000 UTC,Java,0,4,41,18,No Releases,4861,https://github.com/DingMouRen/LayoutManagerGroup
+Transitions-Everywhere,2014-10-15 03:37:03 +0000 UTC,2022-09-05 06:17:26 +0000 UTC,Java,23,13,6,85,2018-06-16T22:25:14Z,4860,https://github.com/andkulikov/Transitions-Everywhere
+smartTable,2017-11-08 01:11:14 +0000 UTC,2022-09-13 08:40:01 +0000 UTC,Java,44,0,188,105,2018-04-10T10:55:52Z,4839,https://github.com/huangyanbin/smartTable
+joda-time,2011-05-16 16:49:57 +0000 UTC,2022-09-07 13:11:12 +0000 UTC,Java,38,104,23,390,2022-08-25T11:22:27Z,4819,https://github.com/JodaOrg/joda-time
+lucida,2014-05-13 17:12:49 +0000 UTC,2022-09-07 22:35:45 +0000 UTC,Java,0,35,53,110,No Releases,4816,https://github.com/claritylab/lucida
+EdXposed,2019-01-18 16:18:19 +0000 UTC,2022-09-13 06:22:11 +0000 UTC,Java,27,75,42,735,2021-02-08T00:23:10Z,4813,https://github.com/ElderDrivers/EdXposed
+BasePopup,2016-01-15 03:31:07 +0000 UTC,2022-09-09 06:43:43 +0000 UTC,Java,15,8,15,450,2021-05-28T08:39:51Z,4813,https://github.com/razerdp/BasePopup
+packer-ng-plugin,2015-11-24 04:08:08 +0000 UTC,2022-09-01 11:21:12 +0000 UTC,Java,1,6,20,132,2017-03-02T10:33:51Z,4809,https://github.com/mcxiaoke/packer-ng-plugin
+uid-generator,2017-03-27 04:03:43 +0000 UTC,2022-09-13 05:02:18 +0000 UTC,Java,0,2,19,40,No Releases,4782,https://github.com/baidu/uid-generator
+AndroidStaggeredGrid,2013-12-09 19:43:45 +0000 UTC,2022-09-13 06:38:02 +0000 UTC,Java,7,24,99,66,2014-07-01T04:11:24Z,4776,https://github.com/etsy/AndroidStaggeredGrid
+JS-Sorting-Algorithm,2017-01-19 11:36:21 +0000 UTC,2022-09-13 15:26:00 +0000 UTC,Java,0,18,4,19,No Releases,4770,https://github.com/hustcc/JS-Sorting-Algorithm
+conductor,2016-12-07 22:48:42 +0000 UTC,2022-09-13 16:27:17 +0000 UTC,Java,308,1079,66,1320,2022-09-10T07:44:28Z,4766,https://github.com/Netflix/conductor
+cameraview,2016-08-04 05:22:14 +0000 UTC,2022-09-13 09:19:59 +0000 UTC,Java,0,15,148,57,No Releases,4747,https://github.com/google/cameraview
+Android-ConvenientBanner,2014-12-23 06:12:33 +0000 UTC,2022-09-13 01:36:25 +0000 UTC,Java,0,7,89,269,No Releases,4745,https://github.com/saiwu-bigkoo/Android-ConvenientBanner
+opentsdb,2010-08-27 02:05:20 +0000 UTC,2022-09-12 08:04:31 +0000 UTC,Java,26,584,508,576,2021-09-02T22:27:11Z,4726,https://github.com/OpenTSDB/opentsdb
+CloudReader,2016-11-20 11:59:25 +0000 UTC,2022-09-13 07:13:26 +0000 UTC,Java,25,1,6,116,2021-11-09T15:07:42Z,4721,https://github.com/youlookwhat/CloudReader
+ActiveAndroid,2012-11-15 18:10:45 +0000 UTC,2022-09-09 06:39:58 +0000 UTC,Java,0,59,285,144,No Releases,4716,https://github.com/pardom-zz/ActiveAndroid
+cardslib,2013-09-20 21:57:19 +0000 UTC,2022-09-06 07:17:59 +0000 UTC,Java,27,12,168,345,2014-11-12T08:12:13Z,4714,https://github.com/gabrielemariotti/cardslib
+lettuce-core,2014-05-10 13:08:46 +0000 UTC,2022-09-13 16:21:36 +0000 UTC,Java,101,72,75,1723,2022-07-12T12:25:56Z,4705,https://github.com/lettuce-io/lettuce-core
+FastBle,2016-08-23 02:06:33 +0000 UTC,2022-09-13 07:41:24 +0000 UTC,Java,9,4,216,325,2021-09-13T07:40:46Z,4705,https://github.com/Jasonchenlijian/FastBle
+okdownload,2017-12-17 08:21:22 +0000 UTC,2022-09-13 03:32:06 +0000 UTC,Java,8,28,232,212,2019-12-24T06:17:48Z,4703,https://github.com/lingochamp/okdownload
+baseAdapter,2015-08-03 02:55:51 +0000 UTC,2022-09-13 03:50:40 +0000 UTC,Java,0,0,108,17,No Releases,4690,https://github.com/hongyangAndroid/baseAdapter
+drools,2011-02-18 08:37:05 +0000 UTC,2022-09-13 08:05:10 +0000 UTC,Java,0,3557,0,0,No Releases,4652,https://github.com/kiegroup/drools
+google-java-format,2015-05-11 20:38:28 +0000 UTC,2022-09-12 08:16:59 +0000 UTC,Java,17,176,89,342,2022-03-07T16:52:10Z,4650,https://github.com/google/google-java-format
+MaterialDateTimePicker,2015-01-03 19:41:03 +0000 UTC,2022-09-13 06:20:58 +0000 UTC,Java,54,45,81,506,2019-08-30T10:38:02Z,4646,https://github.com/wdullaer/MaterialDateTimePicker
+hbase,2014-05-23 07:00:07 +0000 UTC,2022-09-12 02:05:01 +0000 UTC,Java,26,3572,0,0,2022-08-31T12:38:09Z,4632,https://github.com/apache/hbase
+groovy,2015-04-16 07:00:05 +0000 UTC,2022-09-12 22:58:33 +0000 UTC,Java,0,695,0,0,No Releases,4630,https://github.com/apache/groovy
+spring-cloud-netflix,2014-07-11 15:46:12 +0000 UTC,2022-09-12 10:32:12 +0000 UTC,Java,2,504,75,3070,2018-10-15T20:44:32Z,4628,https://github.com/spring-cloud/spring-cloud-netflix
+android-tips-tricks,2016-08-25 20:27:33 +0000 UTC,2022-09-10 04:20:52 +0000 UTC,Java,0,14,2,10,No Releases,4620,https://github.com/nisrulz/android-tips-tricks
+sqlbrite,2015-02-19 04:38:37 +0000 UTC,2022-09-06 03:12:01 +0000 UTC,Java,9,111,5,121,2016-03-01T18:23:03Z,4620,https://github.com/square/sqlbrite
+chuck,2017-02-07 23:51:39 +0000 UTC,2022-09-12 17:41:15 +0000 UTC,Java,5,8,44,31,2017-02-22T18:13:21Z,4612,https://github.com/jgilfelt/chuck
+spring-security-oauth,2011-07-26 18:08:49 +0000 UTC,2022-09-08 03:45:40 +0000 UTC,Java,0,37,546,933,No Releases,4607,https://github.com/spring-attic/spring-security-oauth
+sofa-boot,2018-04-02 08:28:14 +0000 UTC,2022-09-12 23:58:27 +0000 UTC,Java,55,516,33,356,2022-07-29T03:44:54Z,4603,https://github.com/sofastack/sofa-boot
+v9porn,2018-04-12 14:32:04 +0000 UTC,2022-09-11 14:10:57 +0000 UTC,Java,9,7,69,165,2021-04-22T16:06:39Z,4597,https://github.com/techGay/v9porn
+go-lang-idea-plugin,2010-08-29 08:20:01 +0000 UTC,2022-09-12 07:53:49 +0000 UTC,Java,21,473,408,1857,2016-04-11T18:21:51Z,4597,https://github.com/go-lang-plugin-org/go-lang-idea-plugin
+SwitchButton,2014-09-09 07:20:43 +0000 UTC,2022-09-08 11:08:27 +0000 UTC,Java,0,6,19,100,No Releases,4588,https://github.com/kyleduo/SwitchButton
+janusgraph,2016-12-26 13:26:29 +0000 UTC,2022-09-13 15:29:09 +0000 UTC,Java,21,1226,435,992,2022-05-31T08:57:33Z,4585,https://github.com/JanusGraph/janusgraph
+spring-data-examples,2014-01-30 15:42:43 +0000 UTC,2022-09-13 06:58:59 +0000 UTC,Java,0,50,20,436,No Releases,4583,https://github.com/spring-projects/spring-data-examples
+SimplifyReader,2015-08-17 08:22:53 +0000 UTC,2022-09-06 03:12:07 +0000 UTC,Java,0,11,40,46,No Releases,4578,https://github.com/chentao0707/SimplifyReader
+Depth-LIB-Android-,2016-04-27 09:37:28 +0000 UTC,2022-09-10 19:02:21 +0000 UTC,Java,0,7,11,5,No Releases,4576,https://github.com/danielzeller/Depth-LIB-Android-
+JAViewer,2016-05-21 08:47:10 +0000 UTC,2022-09-09 04:52:46 +0000 UTC,Java,10,5,42,280,2018-12-04T15:58:14Z,4569,https://github.com/SplashCodes/JAViewer
+mapdb,2012-08-17 15:28:54 +0000 UTC,2022-09-13 13:21:07 +0000 UTC,Java,0,69,157,731,No Releases,4560,https://github.com/jankotek/mapdb
+springboot-guide,2018-11-28 01:05:07 +0000 UTC,2022-09-12 09:37:31 +0000 UTC,Java,0,10,11,15,No Releases,4554,https://github.com/CodingDocs/springboot-guide
+PLDroidPlayer,2015-06-02 04:41:29 +0000 UTC,2022-09-13 10:31:09 +0000 UTC,Java,42,63,364,859,2022-06-23T08:07:20Z,4553,https://github.com/pili-engineering/PLDroidPlayer
+PageIndicatorView,2016-08-20 19:25:32 +0000 UTC,2022-09-12 18:51:59 +0000 UTC,Java,14,14,40,70,2018-11-06T19:38:57Z,4547,https://github.com/romandanylyk/PageIndicatorView
+bottomsheet,2015-04-23 17:37:32 +0000 UTC,2022-09-06 03:12:10 +0000 UTC,Java,10,44,50,93,2016-11-29T19:37:39Z,4542,https://github.com/Flipboard/bottomsheet
+gnirehtet,2017-02-09 16:01:13 +0000 UTC,2022-09-13 09:57:57 +0000 UTC,Java,11,2,207,224,2020-08-16T19:05:02Z,4541,https://github.com/Genymobile/gnirehtet
+android-crop,2014-03-13 10:24:43 +0000 UTC,2022-09-02 16:15:16 +0000 UTC,Java,6,25,106,125,2015-09-09T09:58:34Z,4537,https://github.com/jdamcd/android-crop
+api-samples,2013-12-09 18:41:41 +0000 UTC,2022-09-13 12:31:47 +0000 UTC,Java,0,15,252,34,No Releases,4526,https://github.com/youtube/api-samples
+Douya,2016-02-01 13:44:19 +0000 UTC,2022-09-07 11:01:28 +0000 UTC,Java,11,0,17,94,2018-05-18T21:37:16Z,4520,https://github.com/zhanghai/Douya
+Luyten,2013-07-11 10:57:28 +0000 UTC,2022-09-13 10:38:19 +0000 UTC,Java,17,25,160,105,2019-06-06T20:02:49Z,4518,https://github.com/deathmarine/Luyten
+camel,2009-05-21 00:25:36 +0000 UTC,2022-09-13 13:55:05 +0000 UTC,Java,0,5465,0,0,No Releases,4515,https://github.com/apache/camel
+NineOldAndroids,2011-12-08 19:46:37 +0000 UTC,2022-09-08 12:55:31 +0000 UTC,Java,0,5,30,36,No Releases,4512,https://github.com/JakeWharton/NineOldAndroids
+orientdb,2012-12-09 20:33:47 +0000 UTC,2022-09-13 02:08:17 +0000 UTC,Java,190,650,228,8639,2022-08-30T10:57:26Z,4503,https://github.com/orientechnologies/orientdb
+lamp-cloud,2018-01-17 02:51:04 +0000 UTC,2022-09-13 14:43:51 +0000 UTC,Java,0,1,5,95,No Releases,4480,https://github.com/zuihou/lamp-cloud
+gpmall,2019-07-18 14:09:22 +0000 UTC,2022-09-13 09:39:12 +0000 UTC,Java,0,125,38,11,No Releases,4466,https://github.com/2227324689/gpmall
+bilibili-android-client,2016-06-01 04:36:01 +0000 UTC,2022-09-12 13:04:28 +0000 UTC,Java,1,1,8,59,2017-07-04T06:50:36Z,4462,https://github.com/HotBitmapGG/bilibili-android-client
+cglib,2014-03-29 13:48:30 +0000 UTC,2022-09-13 03:09:07 +0000 UTC,Java,15,51,65,48,2019-08-12T14:28:11Z,4457,https://github.com/cglib/cglib
+reactive-streams-jvm,2014-02-28 13:16:15 +0000 UTC,2022-09-13 05:16:59 +0000 UTC,Java,0,232,12,246,No Releases,4449,https://github.com/reactive-streams/reactive-streams-jvm
+hive,2009-05-21 02:31:01 +0000 UTC,2022-09-13 04:24:27 +0000 UTC,Java,0,1512,0,0,No Releases,4447,https://github.com/apache/hive
+quasar,2013-03-27 14:51:24 +0000 UTC,2022-09-12 19:08:56 +0000 UTC,Java,18,35,86,196,2018-11-02T17:50:28Z,4445,https://github.com/puniverse/quasar
+dexposed,2015-06-30 02:59:16 +0000 UTC,2022-09-09 14:06:55 +0000 UTC,Java,0,3,21,53,No Releases,4445,https://github.com/alibaba/dexposed
+android-times-square,2013-01-30 20:28:27 +0000 UTC,2022-09-07 06:43:59 +0000 UTC,Java,0,111,35,310,No Releases,4435,https://github.com/square/android-times-square
+SmoothProgressBar,2013-11-27 20:32:16 +0000 UTC,2022-09-06 03:12:19 +0000 UTC,Java,9,16,11,74,2017-08-27T15:13:41Z,4433,https://github.com/castorflex/SmoothProgressBar
+FirebaseUI-Android,2015-07-09 17:31:09 +0000 UTC,2022-09-11 06:24:23 +0000 UTC,Java,64,677,94,1127,2022-03-29T22:37:37Z,4432,https://github.com/firebase/FirebaseUI-Android
+JavaBooks,2020-10-10 00:48:06 +0000 UTC,2022-09-13 07:33:02 +0000 UTC,Java,0,0,0,11,No Releases,4422,https://github.com/itwanger/JavaBooks
+AntennaPod,2012-07-31 10:25:08 +0000 UTC,2022-09-13 18:33:17 +0000 UTC,Java,47,2273,205,3202,2022-07-30T15:05:46Z,4420,https://github.com/AntennaPod/AntennaPod
+CameraView,2017-07-18 09:30:33 +0000 UTC,2022-09-13 02:42:14 +0000 UTC,Java,42,184,42,915,2021-10-27T18:35:55Z,4419,https://github.com/natario1/CameraView
+views-widgets-samples,2019-09-06 21:39:12 +0000 UTC,2022-09-13 14:29:13 +0000 UTC,Java,0,47,156,19,No Releases,4411,https://github.com/android/views-widgets-samples
+bitcoinj,2013-11-19 04:33:23 +0000 UTC,2022-09-13 05:24:16 +0000 UTC,Java,1,307,297,837,2014-02-04T10:43:32Z,4407,https://github.com/bitcoinj/bitcoinj
+Spring-Boot-In-Action,2019-01-28 12:56:51 +0000 UTC,2022-09-13 05:15:05 +0000 UTC,Java,0,1,5,10,No Releases,4399,https://github.com/hansonwang99/Spring-Boot-In-Action
+SpringBootVulExploit,2020-05-20 09:18:44 +0000 UTC,2022-09-13 15:48:41 +0000 UTC,Java,0,0,2,4,No Releases,4398,https://github.com/LandGrey/SpringBootVulExploit
+DependencyCheck,2012-09-03 20:43:30 +0000 UTC,2022-09-13 13:13:34 +0000 UTC,Java,34,1377,361,2839,2022-08-20T10:54:58Z,4398,https://github.com/jeremylong/DependencyCheck
+android-mvp-architecture,2017-01-27 08:39:06 +0000 UTC,2022-09-13 05:18:44 +0000 UTC,Java,0,12,33,41,No Releases,4385,https://github.com/MindorksOpenSource/android-mvp-architecture
+roncoo-pay,2016-07-21 02:46:06 +0000 UTC,2022-09-13 05:04:25 +0000 UTC,Java,0,5,22,7,No Releases,4369,https://github.com/roncoo/roncoo-pay
+javaparser,2011-10-30 14:03:44 +0000 UTC,2022-09-12 16:36:08 +0000 UTC,Java,34,1358,458,1535,2022-07-11T18:08:28Z,4357,https://github.com/javaparser/javaparser
+shopping-management-system,2015-11-16 12:53:21 +0000 UTC,2022-09-13 08:37:45 +0000 UTC,Java,0,0,16,9,No Releases,4357,https://github.com/zhanglei-workspace/shopping-management-system
+spring-boot-projects,2017-04-01 01:50:14 +0000 UTC,2022-09-13 15:28:35 +0000 UTC,Java,0,8,1,9,No Releases,4350,https://github.com/ZHENFENG13/spring-boot-projects
+JGrowing,2019-02-26 01:55:08 +0000 UTC,2022-09-13 15:58:48 +0000 UTC,Java,0,14,15,8,No Releases,4349,https://github.com/javagrowing/JGrowing
+android-volley,2013-05-21 05:35:26 +0000 UTC,2022-09-08 12:50:19 +0000 UTC,Java,0,8,61,78,No Releases,4330,https://github.com/mcxiaoke/android-volley
+BottomNavigation,2016-03-19 19:19:30 +0000 UTC,2022-09-11 13:25:17 +0000 UTC,Java,16,18,25,175,2018-07-10T04:25:48Z,4327,https://github.com/Ashok-Varma/BottomNavigation
+ribbon,2013-01-15 01:08:04 +0000 UTC,2022-09-13 14:54:15 +0000 UTC,Java,41,186,175,77,2021-08-05T18:04:35Z,4318,https://github.com/Netflix/ribbon
+crawler4j,2011-12-31 22:49:18 +0000 UTC,2022-09-12 06:39:16 +0000 UTC,Java,3,90,142,142,2018-03-26T18:39:01Z,4312,https://github.com/yasserg/crawler4j
+thumbnailator,2015-07-25 05:38:33 +0000 UTC,2022-09-12 11:38:49 +0000 UTC,Java,0,0,49,141,No Releases,4312,https://github.com/coobird/thumbnailator
+GT,2016-01-13 10:29:55 +0000 UTC,2022-09-13 06:22:35 +0000 UTC,Java,3,3,67,22,2018-01-24T03:14:13Z,4306,https://github.com/Tencent/GT
+leet-code,2015-04-25 19:14:09 +0000 UTC,2022-09-13 05:15:17 +0000 UTC,Java,0,1,0,9,No Releases,4298,https://github.com/awangdev/leet-code
+BGARefreshLayout-Android,2015-05-28 16:17:00 +0000 UTC,2022-09-13 10:57:24 +0000 UTC,Java,4,22,95,63,2015-06-14T13:29:30Z,4296,https://github.com/bingoogolapple/BGARefreshLayout-Android
+HMCL,2015-06-22 08:06:03 +0000 UTC,2022-09-13 17:46:08 +0000 UTC,Java,181,309,123,1188,2022-08-21T13:29:09Z,4290,https://github.com/huanghongxun/HMCL
+coursera-android,2014-01-05 09:55:31 +0000 UTC,2022-09-13 09:45:30 +0000 UTC,Java,0,5,46,19,No Releases,4281,https://github.com/aporter/coursera-android
+ticker,2016-07-15 21:37:52 +0000 UTC,2022-09-13 11:26:01 +0000 UTC,Java,9,49,13,64,2019-08-01T16:46:47Z,4274,https://github.com/robinhood/ticker
+reactor-core,2015-11-10 10:06:40 +0000 UTC,2022-09-13 10:31:29 +0000 UTC,Java,124,1304,55,1509,2022-09-13T11:13:57Z,4272,https://github.com/reactor/reactor-core
+rocketmq-externals,2017-03-14 07:00:06 +0000 UTC,2022-09-11 16:20:25 +0000 UTC,Java,0,276,68,407,No Releases,4271,https://github.com/apache/rocketmq-externals
+ignite,2015-02-19 08:00:05 +0000 UTC,2022-09-13 09:13:02 +0000 UTC,Java,0,1454,0,0,No Releases,4263,https://github.com/apache/ignite
+web3j,2016-09-04 05:48:49 +0000 UTC,2022-09-13 09:36:14 +0000 UTC,Java,98,483,195,863,2022-07-21T14:28:14Z,4256,https://github.com/web3j/web3j
+reflections,2013-04-16 16:19:26 +0000 UTC,2022-09-13 17:37:19 +0000 UTC,Java,3,70,104,159,2021-10-25T14:18:04Z,4251,https://github.com/ronmamo/reflections
+ImagePicker,2016-01-27 17:05:03 +0000 UTC,2022-09-04 01:46:34 +0000 UTC,Java,5,9,160,120,2017-04-05T06:37:37Z,4251,https://github.com/jeasonlzy/ImagePicker
+Android-IMSI-Catcher-Detector,2013-11-23 10:04:14 +0000 UTC,2022-09-12 19:10:21 +0000 UTC,Java,48,291,160,471,2016-05-01T21:59:40Z,4237,https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
+Robust,2017-03-14 10:14:50 +0000 UTC,2022-09-13 11:54:50 +0000 UTC,Java,13,79,147,230,2019-03-23T07:51:08Z,4231,https://github.com/Meituan-Dianping/Robust
+YCSB,2010-04-19 20:52:11 +0000 UTC,2022-09-13 09:12:51 +0000 UTC,Java,55,446,218,690,2019-10-10T02:53:03Z,4225,https://github.com/brianfrankcooper/YCSB
+Recaf,2017-07-27 06:01:10 +0000 UTC,2022-09-13 16:37:53 +0000 UTC,Java,168,173,68,325,2022-03-29T08:07:12Z,4224,https://github.com/Col-E/Recaf
+linuxdeploy,2012-08-21 04:49:14 +0000 UTC,2022-09-13 09:52:20 +0000 UTC,Java,37,67,686,543,2020-01-19T22:26:39Z,4219,https://github.com/meefik/linuxdeploy
+DeepLinkDispatch,2015-06-11 21:16:48 +0000 UTC,2022-09-11 20:48:36 +0000 UTC,Java,22,159,52,121,2022-03-09T01:23:32Z,4211,https://github.com/airbnb/DeepLinkDispatch
+xpay,2017-12-12 16:11:19 +0000 UTC,2022-09-11 16:01:28 +0000 UTC,Java,0,0,17,43,No Releases,4210,https://github.com/Exrick/xpay
+libsvm,2013-09-10 14:32:07 +0000 UTC,2022-09-11 08:39:57 +0000 UTC,Java,0,0,77,48,No Releases,4200,https://github.com/cjlin1/libsvm
+android-autofittextview,2011-02-14 06:00:52 +0000 UTC,2022-09-12 18:04:22 +0000 UTC,Java,1,6,46,35,2015-03-10T05:04:05Z,4199,https://github.com/grantland/android-autofittextview
+pinot,2014-05-19 23:27:48 +0000 UTC,2022-09-13 18:31:29 +0000 UTC,Java,16,6882,864,746,2022-09-08T00:26:57Z,4184,https://github.com/apache/pinot
+DKVideoPlayer,2017-04-11 01:33:38 +0000 UTC,2022-09-12 10:16:05 +0000 UTC,Java,32,14,56,718,2022-07-24T10:46:10Z,4170,https://github.com/Doikki/DKVideoPlayer
+tx-lcn,2017-11-11 03:34:34 +0000 UTC,2022-09-13 05:05:17 +0000 UTC,Java,14,69,190,282,2020-07-02T12:20:04Z,4168,https://github.com/codingapi/tx-lcn
+ShineButton,2016-07-05 06:32:26 +0000 UTC,2022-09-13 08:21:37 +0000 UTC,Java,2,5,25,26,2017-11-13T08:50:39Z,4157,https://github.com/ChadCSong/ShineButton
+JKeyboardPanelSwitch,2015-07-01 17:42:01 +0000 UTC,2022-09-07 03:21:47 +0000 UTC,Java,14,3,60,47,2018-10-09T09:32:34Z,4156,https://github.com/Jacksgong/JKeyboardPanelSwitch
+CoordinatorTabLayout,2017-01-27 13:40:28 +0000 UTC,2022-09-09 16:31:58 +0000 UTC,Java,0,0,16,21,No Releases,4141,https://github.com/hugeterry/CoordinatorTabLayout
+SpringBoot-Shiro-Vue,2017-11-17 18:49:06 +0000 UTC,2022-09-13 14:40:20 +0000 UTC,Java,0,5,0,110,No Releases,4132,https://github.com/Heeexy/SpringBoot-Shiro-Vue
+datax-web,2019-11-19 01:09:05 +0000 UTC,2022-09-13 10:00:10 +0000 UTC,Java,5,87,211,226,2020-07-09T14:12:30Z,4131,https://github.com/WeiYe-Jing/datax-web
+Conversations,2014-01-24 01:07:34 +0000 UTC,2022-09-13 13:22:21 +0000 UTC,Java,109,539,141,3251,2022-08-22T09:36:29Z,4125,https://github.com/iNPUTmice/Conversations
+AndroidWiFiADB,2015-10-18 21:58:45 +0000 UTC,2022-09-08 18:06:41 +0000 UTC,Java,8,10,23,39,2016-08-30T14:48:52Z,4123,https://github.com/pedrovgs/AndroidWiFiADB
+JSON-java,2010-12-21 17:46:09 +0000 UTC,2022-09-13 14:35:41 +0000 UTC,Java,15,130,19,364,2022-03-20T14:28:19Z,4122,https://github.com/stleary/JSON-java
+BGABanner-Android,2014-10-25 17:15:18 +0000 UTC,2022-09-13 01:10:43 +0000 UTC,Java,0,37,50,165,No Releases,4120,https://github.com/bingoogolapple/BGABanner-Android
+azkaban,2012-10-18 01:34:53 +0000 UTC,2022-09-13 09:30:50 +0000 UTC,Java,48,1636,679,401,2021-03-17T19:01:52Z,4120,https://github.com/azkaban/azkaban
+java-algorithms-implementation,2013-11-20 03:30:19 +0000 UTC,2022-09-12 08:00:45 +0000 UTC,Java,0,51,11,29,No Releases,4108,https://github.com/phishman3579/java-algorithms-implementation
+StepView,2016-06-22 03:52:08 +0000 UTC,2022-09-09 01:02:27 +0000 UTC,Java,13,2,42,24,2016-09-08T09:37:26Z,4104,https://github.com/baoyachi/StepView
+dddsample-core,2015-01-31 23:21:37 +0000 UTC,2022-09-13 16:31:48 +0000 UTC,Java,0,19,10,8,No Releases,4101,https://github.com/citerus/dddsample-core
+mybatis,2014-11-03 04:51:06 +0000 UTC,2022-09-09 07:50:47 +0000 UTC,Java,0,5,7,4,No Releases,4099,https://github.com/tuguangquan/mybatis
+objectbox-java,2017-01-24 10:29:48 +0000 UTC,2022-09-13 06:29:20 +0000 UTC,Java,33,7,141,932,2022-09-05T14:53:32Z,4088,https://github.com/objectbox/objectbox-java
+CircleIndicator,2014-07-30 14:02:56 +0000 UTC,2022-09-12 08:47:42 +0000 UTC,Java,7,7,20,119,2021-01-21T12:19:54Z,4085,https://github.com/ongakuer/CircleIndicator
+bisq,2014-03-12 09:42:29 +0000 UTC,2022-09-12 01:40:42 +0000 UTC,Java,126,2599,224,2682,2022-08-23T08:46:15Z,4084,https://github.com/bisq-network/bisq
+Tangram-Android,2017-03-29 13:29:57 +0000 UTC,2022-09-09 08:51:15 +0000 UTC,Java,38,8,72,126,2019-03-12T11:33:53Z,4084,https://github.com/alibaba/Tangram-Android
+OpenHub,2017-07-11 13:29:51 +0000 UTC,2022-09-12 15:53:15 +0000 UTC,Java,31,30,231,119,2021-03-21T10:35:22Z,4080,https://github.com/ThirtyDegreesRay/OpenHub
+GCViewer,2011-10-23 09:01:04 +0000 UTC,2022-09-13 11:22:04 +0000 UTC,Java,5,60,57,110,2019-11-30T21:36:15Z,4062,https://github.com/chewiebug/GCViewer
+easy-rules,2013-03-10 14:38:26 +0000 UTC,2022-09-13 09:25:39 +0000 UTC,Java,10,37,49,272,2020-12-06T20:48:28Z,4059,https://github.com/j-easy/easy-rules
+vespa,2016-06-03 20:54:20 +0000 UTC,2022-09-13 16:20:05 +0000 UTC,Java,29,22490,112,472,2022-09-06T16:09:57Z,4058,https://github.com/vespa-engine/vespa
+rstudio,2010-12-07 19:10:25 +0000 UTC,2022-09-13 15:57:42 +0000 UTC,Java,0,4632,1284,5720,No Releases,4058,https://github.com/rstudio/rstudio
+ViewPagerCards,2016-08-20 15:24:12 +0000 UTC,2022-09-07 17:45:37 +0000 UTC,Java,0,0,15,14,No Releases,4057,https://github.com/rubensousa/ViewPagerCards
+InternetArchitect,2019-10-19 16:32:01 +0000 UTC,2022-09-13 07:51:41 +0000 UTC,Java,0,0,0,1,No Releases,4056,https://github.com/bjmashibing/InternetArchitect
+LoadingDrawable,2016-04-16 07:33:57 +0000 UTC,2022-09-13 08:59:07 +0000 UTC,Java,0,1,10,11,No Releases,4053,https://github.com/dinuscxj/LoadingDrawable
+moco,2012-10-18 09:09:51 +0000 UTC,2022-09-09 14:06:14 +0000 UTC,Java,0,26,132,118,No Releases,4037,https://github.com/dreamhead/moco
+Phoenix,2015-01-12 14:11:20 +0000 UTC,2022-09-09 11:58:15 +0000 UTC,Java,1,1,11,30,2015-01-13T12:25:05Z,4037,https://github.com/Yalantis/Phoenix
+AndroidHttpCapture,2016-10-15 19:48:00 +0000 UTC,2022-09-13 09:38:56 +0000 UTC,Java,1,0,37,51,2017-06-02T07:03:28Z,4034,https://github.com/JZ-Darkal/AndroidHttpCapture
+FloatingActionButton,2014-07-22 13:29:55 +0000 UTC,2022-08-29 06:37:58 +0000 UTC,Java,0,21,73,105,No Releases,4029,https://github.com/makovkastar/FloatingActionButton
+simplify,2014-01-16 05:14:02 +0000 UTC,2022-09-13 06:24:22 +0000 UTC,Java,9,15,29,115,2020-03-29T16:31:58Z,4029,https://github.com/CalebFenton/simplify
+AmazeFileManager,2014-07-14 19:47:53 +0000 UTC,2022-09-13 10:00:27 +0000 UTC,Java,61,1204,461,1468,2022-06-15T14:43:23Z,4025,https://github.com/TeamAmaze/AmazeFileManager
+java-learning,2016-02-09 05:20:58 +0000 UTC,2022-09-13 01:32:57 +0000 UTC,Java,0,4,2,6,No Releases,4020,https://github.com/brianway/java-learning
+react-native-webrtc,2015-09-27 10:57:30 +0000 UTC,2022-09-13 13:01:36 +0000 UTC,Java,44,205,57,826,2022-05-13T09:59:59Z,4019,https://github.com/react-native-webrtc/react-native-webrtc
+IJPay,2017-05-02 03:15:32 +0000 UTC,2022-09-13 06:27:51 +0000 UTC,Java,23,3,11,34,2020-06-01T08:09:26Z,4017,https://github.com/Javen205/IJPay
+Bolts-Android,2014-01-30 04:58:14 +0000 UTC,2022-09-13 10:19:59 +0000 UTC,Java,11,73,21,37,2019-02-22T11:43:40Z,4010,https://github.com/BoltsFramework/Bolts-Android
+FloatWindow,2017-11-14 14:33:55 +0000 UTC,2022-09-13 16:08:16 +0000 UTC,Java,9,3,94,43,2018-05-05T06:23:10Z,4000,https://github.com/yhaolpz/FloatWindow
+kafdrop,2019-05-27 08:46:56 +0000 UTC,2022-09-13 18:57:40 +0000 UTC,Java,44,93,6,258,2022-04-09T18:39:14Z,3981,https://github.com/obsidiandynamics/kafdrop
+pmd,2012-07-11 18:03:00 +0000 UTC,2022-09-12 21:46:35 +0000 UTC,Java,79,1834,638,1325,2022-08-31T17:19:24Z,3977,https://github.com/pmd/pmd
+BadgeView,2017-02-08 02:01:39 +0000 UTC,2022-08-29 07:36:15 +0000 UTC,Java,5,1,49,52,2017-09-23T15:45:58Z,3975,https://github.com/qstumn/BadgeView
+XUI,2019-01-07 07:59:02 +0000 UTC,2022-09-13 17:13:07 +0000 UTC,Java,21,18,7,95,2022-02-28T17:27:54Z,3971,https://github.com/xuexiangjys/XUI
+ExpandableTextView,2014-05-17 19:40:15 +0000 UTC,2022-09-10 14:15:01 +0000 UTC,Java,4,6,39,21,2014-12-13T15:16:57Z,3967,https://github.com/Manabu-GT/ExpandableTextView
+RxJavaSamples,2016-03-24 13:08:10 +0000 UTC,2022-08-31 04:03:11 +0000 UTC,Java,3,5,22,2,2017-10-11T09:21:50Z,3966,https://github.com/rengwuxian/RxJavaSamples
+TwinklingRefreshLayout,2016-03-02 12:11:56 +0000 UTC,2022-09-08 02:44:22 +0000 UTC,Java,0,0,105,85,No Releases,3955,https://github.com/lcodecorex/TwinklingRefreshLayout
+CC,2017-11-23 16:26:33 +0000 UTC,2022-09-13 07:05:01 +0000 UTC,Java,0,24,22,139,No Releases,3949,https://github.com/luckybilly/CC
+Gadgetbridge,2015-01-05 23:19:03 +0000 UTC,2022-09-12 08:37:34 +0000 UTC,Java,0,236,0,0,No Releases,3944,https://github.com/Freeyourgadget/Gadgetbridge
+querydsl,2011-08-05 06:46:32 +0000 UTC,2022-09-13 15:27:42 +0000 UTC,Java,34,1045,62,1832,2021-07-19T22:25:53Z,3940,https://github.com/querydsl/querydsl
+jstorm,2013-09-03 03:53:16 +0000 UTC,2022-09-09 14:06:41 +0000 UTC,Java,22,30,203,386,2017-05-15T08:35:50Z,3939,https://github.com/alibaba/jstorm
+AndroidTutorialForBeginners,2016-09-26 16:36:28 +0000 UTC,2022-09-13 17:22:55 +0000 UTC,Java,0,0,21,2,No Releases,3938,https://github.com/hussien89aa/AndroidTutorialForBeginners
+XCL-Charts,2014-06-09 15:44:50 +0000 UTC,2022-09-09 11:58:11 +0000 UTC,Java,0,1,8,7,No Releases,3937,https://github.com/xcltapestry/XCL-Charts
+javacpp,2014-04-21 12:47:21 +0000 UTC,2022-09-13 17:40:23 +0000 UTC,Java,8,105,54,367,2022-02-09T06:08:48Z,3932,https://github.com/bytedeco/javacpp
+JSqlParser,2011-06-23 22:51:52 +0000 UTC,2022-09-13 12:08:23 +0000 UTC,Java,29,276,174,996,2022-07-22T22:51:05Z,3924,https://github.com/JSQLParser/JSqlParser
+epic,2017-05-22 02:52:44 +0000 UTC,2022-09-13 12:48:25 +0000 UTC,Java,5,11,0,0,2021-07-31T06:41:41Z,3916,https://github.com/tiann/epic
+android-iconify,2013-06-12 11:42:01 +0000 UTC,2022-09-02 07:54:09 +0000 UTC,Java,0,14,54,127,No Releases,3915,https://github.com/JoanZapata/android-iconify
+lwjgl3,2012-12-23 15:40:04 +0000 UTC,2022-09-13 16:39:03 +0000 UTC,Java,16,101,55,587,2022-02-21T18:42:04Z,3915,https://github.com/LWJGL/lwjgl3
+jodd,2012-09-07 20:26:48 +0000 UTC,2022-09-12 03:52:07 +0000 UTC,Java,37,224,2,512,2020-10-13T20:48:37Z,3915,https://github.com/oblac/jodd
+armeria,2015-11-16 04:04:01 +0000 UTC,2022-09-13 01:38:15 +0000 UTC,Java,205,2689,407,1119,2022-09-13T05:13:30Z,3909,https://github.com/line/armeria
+pig,2019-08-26 03:24:53 +0000 UTC,2022-09-13 15:51:15 +0000 UTC,Java,21,8,147,566,2022-08-18T03:02:45Z,3901,https://github.com/pig-mesh/pig
+shiro,2009-08-29 08:00:17 +0000 UTC,2022-09-13 06:30:56 +0000 UTC,Java,0,260,0,0,No Releases,3900,https://github.com/apache/shiro
+runelite,2016-04-30 20:48:02 +0000 UTC,2022-09-13 10:47:36 +0000 UTC,Java,0,4068,1341,7027,No Releases,3896,https://github.com/runelite/runelite
+hmily,2017-09-28 06:29:01 +0000 UTC,2022-09-09 11:44:13 +0000 UTC,Java,0,138,33,133,No Releases,3895,https://github.com/dromara/hmily
+BigImageViewer,2016-11-06 09:55:02 +0000 UTC,2022-09-13 08:15:26 +0000 UTC,Java,0,31,28,168,No Releases,3891,https://github.com/Piasy/BigImageViewer
+Aegis,2016-08-15 19:10:31 +0000 UTC,2022-09-13 16:54:32 +0000 UTC,Java,45,272,63,599,2022-03-27T19:37:32Z,3889,https://github.com/beemdevelopment/Aegis
+powermock,2014-05-28 07:53:53 +0000 UTC,2022-09-13 03:03:44 +0000 UTC,Java,16,130,421,537,2020-11-01T20:34:31Z,3887,https://github.com/powermock/powermock
+greys-anatomy,2012-11-21 19:39:35 +0000 UTC,2022-09-13 05:05:29 +0000 UTC,Java,0,54,66,165,No Releases,3882,https://github.com/oldmanpushcart/greys-anatomy
+frontend-maven-plugin,2013-08-30 14:44:38 +0000 UTC,2022-09-13 18:52:58 +0000 UTC,Java,0,174,251,477,No Releases,3879,https://github.com/eirslett/frontend-maven-plugin
+hawk,2015-02-19 22:25:23 +0000 UTC,2022-09-13 13:42:46 +0000 UTC,Java,22,50,44,131,2018-04-02T11:34:41Z,3879,https://github.com/orhanobut/hawk
+ahbottomnavigation,2016-03-17 12:17:56 +0000 UTC,2022-09-07 06:32:40 +0000 UTC,Java,14,28,132,250,2019-01-02T16:55:21Z,3865,https://github.com/aurelhubert/ahbottomnavigation
+incubator-seatunnel,2017-08-05 09:14:47 +0000 UTC,2022-09-13 14:54:28 +0000 UTC,Java,37,1287,365,757,2022-07-27T10:52:17Z,3859,https://github.com/apache/incubator-seatunnel
+Conductor,2016-03-16 18:42:41 +0000 UTC,2022-08-29 08:08:20 +0000 UTC,Java,19,84,101,449,2018-08-01T21:19:39Z,3855,https://github.com/bluelinelabs/Conductor
+picocli,2017-02-01 16:38:41 +0000 UTC,2022-09-13 06:47:13 +0000 UTC,Java,78,398,105,1242,2022-02-09T09:26:10Z,3836,https://github.com/remkop/picocli
+JustTrustMe,2014-07-24 23:45:05 +0000 UTC,2022-09-13 12:49:37 +0000 UTC,Java,1,15,16,28,2016-01-26T15:22:26Z,3826,https://github.com/Fuzion24/JustTrustMe
+mockserver,2013-02-26 06:09:52 +0000 UTC,2022-09-13 07:27:51 +0000 UTC,Java,0,378,20,934,No Releases,3823,https://github.com/mock-server/mockserver
+spring-authorization-server,2020-03-17 17:28:57 +0000 UTC,2022-09-13 19:15:44 +0000 UTC,Java,14,27,57,667,2022-08-16T20:15:34Z,3822,https://github.com/spring-projects/spring-authorization-server
+failsafe,2015-06-30 00:56:39 +0000 UTC,2022-09-11 08:13:23 +0000 UTC,Java,0,48,42,229,No Releases,3806,https://github.com/failsafe-lib/failsafe
+roboguice,2012-08-12 20:37:19 +0000 UTC,2022-09-11 11:43:10 +0000 UTC,Java,0,40,136,143,No Releases,3806,https://github.com/roboguice/roboguice
+graphhopper,2012-02-18 19:57:38 +0000 UTC,2022-09-13 15:40:34 +0000 UTC,Java,38,879,240,1214,2022-09-13T08:30:05Z,3806,https://github.com/graphhopper/graphhopper
+malmo,2016-05-17 14:58:40 +0000 UTC,2022-09-13 13:42:14 +0000 UTC,Java,21,186,152,542,2018-11-05T09:39:03Z,3803,https://github.com/microsoft/malmo
+MaterialSearchView,2015-09-14 17:13:46 +0000 UTC,2022-08-30 05:40:21 +0000 UTC,Java,6,8,146,65,2016-01-07T23:10:44Z,3799,https://github.com/MiguelCatalan/MaterialSearchView
+concurrent,2018-11-03 13:49:36 +0000 UTC,2022-09-13 13:34:45 +0000 UTC,Java,0,50,0,73,No Releases,3798,https://github.com/RedSpider1/concurrent
+learning-spark,2014-06-16 04:47:54 +0000 UTC,2022-09-13 15:27:34 +0000 UTC,Java,0,5,19,8,No Releases,3789,https://github.com/databricks/learning-spark
+SmartCropper,2017-08-03 11:08:41 +0000 UTC,2022-09-13 10:08:01 +0000 UTC,Java,13,5,22,102,2020-06-17T09:28:11Z,3782,https://github.com/pqpo/SmartCropper
+ForestBlog,2017-10-08 15:27:47 +0000 UTC,2022-09-12 23:57:54 +0000 UTC,Java,0,0,2,41,No Releases,3781,https://github.com/saysky/ForestBlog
+RichText,2015-07-21 09:36:01 +0000 UTC,2022-09-09 14:06:23 +0000 UTC,Java,0,2,131,251,No Releases,3774,https://github.com/zzhoujay/RichText
+sticky-headers-recyclerview,2014-10-03 01:57:46 +0000 UTC,2022-09-06 05:47:36 +0000 UTC,Java,0,25,72,57,No Releases,3740,https://github.com/timehop/sticky-headers-recyclerview
+traccar,2012-04-16 08:33:49 +0000 UTC,2022-09-12 07:31:30 +0000 UTC,Java,39,562,335,3766,2022-08-07T17:08:19Z,3734,https://github.com/traccar/traccar
+microservices-platform,2019-03-07 07:13:37 +0000 UTC,2022-09-13 07:59:19 +0000 UTC,Java,27,15,1,14,2022-07-10T23:04:37Z,3733,https://github.com/zlt2000/microservices-platform
+CircleProgress,2014-10-30 16:14:42 +0000 UTC,2022-09-10 12:26:44 +0000 UTC,Java,0,21,85,34,No Releases,3731,https://github.com/lzyzsd/CircleProgress
+java-faker,2011-06-06 01:01:21 +0000 UTC,2022-09-13 17:14:27 +0000 UTC,Java,0,272,86,147,No Releases,3728,https://github.com/DiUS/java-faker
+jitsi,2013-04-24 17:37:20 +0000 UTC,2022-09-13 05:12:36 +0000 UTC,Java,7,174,201,284,2020-03-26T21:09:28Z,3720,https://github.com/jitsi/jitsi
+spruce-android,2017-02-23 20:34:18 +0000 UTC,2022-09-13 02:28:55 +0000 UTC,Java,3,92,1,26,2021-02-09T00:50:37Z,3716,https://github.com/willowtreeapps/spruce-android
+NoHttp,2015-07-29 06:11:12 +0000 UTC,2022-09-12 08:28:32 +0000 UTC,Java,0,0,75,153,No Releases,3715,https://github.com/yanzhenjie/NoHttp
+GuideView,2016-06-19 08:52:25 +0000 UTC,2022-09-13 10:13:30 +0000 UTC,Java,0,0,24,55,No Releases,3714,https://github.com/binIoter/GuideView
+sodium-fabric,2020-02-01 03:04:09 +0000 UTC,2022-09-13 18:04:04 +0000 UTC,Java,14,84,269,909,2022-08-28T15:37:39Z,3705,https://github.com/CaffeineMC/sodium-fabric
+Launcher3,2017-05-30 12:53:32 +0000 UTC,2022-09-13 03:50:45 +0000 UTC,Java,22,4,128,510,2019-05-19T16:42:58Z,3705,https://github.com/amirzaidi/Launcher3
+open-location-code,2014-09-30 18:26:35 +0000 UTC,2022-09-05 00:00:21 +0000 UTC,Java,5,239,55,135,2019-07-23T03:43:00Z,3704,https://github.com/google/open-location-code
+tiny-spring,2014-01-10 16:37:57 +0000 UTC,2022-09-13 01:46:46 +0000 UTC,Java,0,4,22,2,No Releases,3703,https://github.com/code4craft/tiny-spring
+usb-serial-for-android,2013-06-30 23:17:45 +0000 UTC,2022-09-13 06:43:36 +0000 UTC,Java,23,34,21,364,2022-07-22T06:03:51Z,3699,https://github.com/mik3y/usb-serial-for-android
+opengrok,2013-01-07 11:49:18 +0000 UTC,2022-09-13 15:26:56 +0000 UTC,Java,202,1538,549,1783,2022-07-29T08:16:40Z,3696,https://github.com/oracle/opengrok
+spring-cloud-gateway,2016-11-16 21:42:51 +0000 UTC,2022-09-13 12:29:45 +0000 UTC,Java,0,257,343,1782,No Releases,3695,https://github.com/spring-cloud/spring-cloud-gateway
+PowerJob,2020-03-16 09:19:55 +0000 UTC,2022-09-13 10:37:40 +0000 UTC,Java,34,30,38,339,2022-09-12T17:36:37Z,3694,https://github.com/PowerJob/PowerJob
+dragonwell8,2019-03-07 02:57:45 +0000 UTC,2022-09-13 09:43:29 +0000 UTC,Java,19,74,56,246,2022-08-08T07:33:49Z,3687,https://github.com/alibaba/dragonwell8
+XXPermissions,2018-06-15 14:31:29 +0000 UTC,2022-09-13 14:04:54 +0000 UTC,Java,50,1,2,147,2022-09-10T10:08:41Z,3685,https://github.com/getActivity/XXPermissions
+--,2020-06-18 22:47:21 +0000 UTC,2022-09-13 17:52:04 +0000 UTC,Java,0,0,19,4,No Releases,3675,https://github.com/981011512/--
+SuperTextView,2016-10-19 04:06:54 +0000 UTC,2022-09-13 08:29:47 +0000 UTC,Java,39,3,24,172,2021-05-13T09:14:52Z,3674,https://github.com/lygttpod/SuperTextView
+ASimpleCache,2013-07-28 13:50:59 +0000 UTC,2022-09-09 11:54:00 +0000 UTC,Java,0,4,30,4,No Releases,3672,https://github.com/yangfuhai/ASimpleCache
+spring-boot-starter,2015-09-25 13:05:15 +0000 UTC,2022-09-13 12:59:11 +0000 UTC,Java,23,321,10,333,2022-01-29T17:15:12Z,3670,https://github.com/mybatis/spring-boot-starter
+MarqueeView,2016-06-01 06:50:46 +0000 UTC,2022-09-13 13:47:26 +0000 UTC,Java,0,8,42,48,No Releases,3664,https://github.com/sunfusheng/MarqueeView
+dubbo-admin,2018-01-11 05:30:17 +0000 UTC,2022-09-09 07:30:58 +0000 UTC,Java,4,234,161,445,2021-11-22T07:41:56Z,3651,https://github.com/apache/dubbo-admin
+QLExpress,2017-03-15 08:39:54 +0000 UTC,2022-09-13 14:10:20 +0000 UTC,Java,1,9,40,129,2022-04-09T06:03:54Z,3648,https://github.com/alibaba/QLExpress
+interviewGuide,2016-04-20 07:17:09 +0000 UTC,2022-09-13 14:38:26 +0000 UTC,Java,0,3,12,3,No Releases,3648,https://github.com/NotFound9/interviewGuide
+tech-weekly,2018-12-03 03:10:52 +0000 UTC,2022-09-13 13:29:46 +0000 UTC,Java,0,0,4,5,No Releases,3640,https://github.com/mercyblitz/tech-weekly
+andOTP,2017-07-05 11:39:52 +0000 UTC,2022-09-13 14:32:30 +0000 UTC,Java,38,150,182,599,2021-06-15T04:03:43Z,3638,https://github.com/andOTP/andOTP
+javassist,2013-05-24 08:31:32 +0000 UTC,2022-09-13 12:08:13 +0000 UTC,Java,20,60,195,144,2022-08-11T15:18:17Z,3636,https://github.com/jboss-javassist/javassist
+StylishMusicPlayer,2016-09-13 14:38:32 +0000 UTC,2022-09-06 11:23:49 +0000 UTC,Java,0,2,22,14,No Releases,3634,https://github.com/ryanhoo/StylishMusicPlayer
+dynamic-datasource-spring-boot-starter,2018-04-28 02:32:16 +0000 UTC,2022-09-13 15:02:41 +0000 UTC,Java,9,38,1,378,2022-08-29T15:32:18Z,3626,https://github.com/baomidou/dynamic-datasource-spring-boot-starter
+android-common,2014-05-29 08:08:00 +0000 UTC,2022-09-09 03:24:31 +0000 UTC,Java,0,3,12,3,No Releases,3626,https://github.com/litesuits/android-common
+XposedInstaller,2012-04-02 20:33:05 +0000 UTC,2022-09-13 11:08:38 +0000 UTC,Java,0,39,94,105,No Releases,3622,https://github.com/rovo89/XposedInstaller
+sofa-rpc,2018-04-09 03:32:04 +0000 UTC,2022-09-12 14:24:18 +0000 UTC,Java,48,531,25,564,2022-08-24T14:21:46Z,3612,https://github.com/sofastack/sofa-rpc
+emojicon,2014-01-18 12:32:38 +0000 UTC,2022-08-29 17:10:19 +0000 UTC,Java,2,22,77,74,2016-08-01T05:26:00Z,3609,https://github.com/rockerhieu/emojicon
+incubator-heron,2015-09-25 16:09:24 +0000 UTC,2022-09-13 03:55:25 +0000 UTC,Java,56,2424,376,673,2022-07-09T17:52:08Z,3596,https://github.com/apache/incubator-heron
+ExplosionField,2015-09-23 11:34:50 +0000 UTC,2022-09-10 12:44:20 +0000 UTC,Java,0,2,20,2,No Releases,3586,https://github.com/tyrantgit/ExplosionField
+atmosphere,2010-06-30 14:26:23 +0000 UTC,2022-09-13 07:41:41 +0000 UTC,Java,0,289,39,2068,No Releases,3583,https://github.com/Atmosphere/atmosphere
+jetcache,2017-04-12 07:48:23 +0000 UTC,2022-09-13 08:36:23 +0000 UTC,Java,59,27,271,399,2022-08-24T15:03:15Z,3580,https://github.com/alibaba/jetcache
+DataMiningAlgorithm,2015-01-11 02:50:28 +0000 UTC,2022-09-13 12:17:22 +0000 UTC,Java,0,0,1,1,No Releases,3579,https://github.com/linyiqun/DataMiningAlgorithm
+parceler,2013-07-03 02:53:01 +0000 UTC,2022-09-04 00:17:42 +0000 UTC,Java,0,73,29,287,No Releases,3577,https://github.com/johncarl81/parceler
+blurkit-android,2016-11-06 03:14:58 +0000 UTC,2022-09-10 16:02:16 +0000 UTC,Java,3,10,31,35,2019-01-21T20:39:03Z,3577,https://github.com/CameraKit/blurkit-android
+DropDownMenu,2015-06-23 07:43:56 +0000 UTC,2022-09-07 10:04:02 +0000 UTC,Java,2,0,52,17,2017-04-11T08:46:49Z,3574,https://github.com/dongjunkun/DropDownMenu
+ChatKit,2017-02-02 09:37:15 +0000 UTC,2022-09-09 15:29:35 +0000 UTC,Java,1,27,106,197,2021-02-12T08:34:40Z,3573,https://github.com/stfalcon-studio/ChatKit
+Store,2016-11-29 20:17:11 +0000 UTC,2022-09-08 12:19:55 +0000 UTC,Java,0,190,29,132,No Releases,3569,https://github.com/nytimes/Store
+CustomActivityOnCrash,2014-07-04 19:46:21 +0000 UTC,2022-09-12 11:10:51 +0000 UTC,Java,12,9,0,71,2022-05-29T16:24:07Z,3569,https://github.com/Ereza/CustomActivityOnCrash
+android-stackblur,2013-08-15 14:44:32 +0000 UTC,2022-09-05 15:05:05 +0000 UTC,Java,0,13,12,25,No Releases,3567,https://github.com/kikoso/android-stackblur
+xboot,2018-04-23 14:44:18 +0000 UTC,2022-09-13 08:22:33 +0000 UTC,Java,6,1,3,47,2021-07-02T04:11:38Z,3564,https://github.com/Exrick/xboot
+rejoiner,2017-12-06 19:09:53 +0000 UTC,2022-09-13 17:00:41 +0000 UTC,Java,3,48,36,22,2018-11-29T22:50:46Z,3553,https://github.com/google/rejoiner
+XChange,2012-02-02 10:48:28 +0000 UTC,2022-09-13 12:15:27 +0000 UTC,Java,0,2446,291,1372,No Releases,3553,https://github.com/knowm/XChange
+mpush,2016-04-28 01:43:19 +0000 UTC,2022-09-13 15:02:41 +0000 UTC,Java,9,1,23,15,2017-08-23T03:46:46Z,3550,https://github.com/mpusher/mpush
+micrometer,2017-04-10 21:36:51 +0000 UTC,2022-09-13 09:35:47 +0000 UTC,Java,160,1299,294,1469,2022-09-12T13:18:03Z,3544,https://github.com/micrometer-metrics/micrometer
+RecyclerViewPager,2015-01-17 18:30:34 +0000 UTC,2022-09-13 08:31:46 +0000 UTC,Java,10,36,121,68,2018-05-04T14:43:19Z,3543,https://github.com/lsjwzh/RecyclerViewPager
+retrolambda,2013-07-20 07:25:22 +0000 UTC,2022-09-11 11:41:48 +0000 UTC,Java,0,22,18,106,No Releases,3542,https://github.com/luontola/retrolambda
+flink-recommandSystem-demo,2019-05-15 07:55:35 +0000 UTC,2022-09-13 15:31:28 +0000 UTC,Java,0,9,12,28,No Releases,3534,https://github.com/will-che/flink-recommandSystem-demo
+floatingsearchview,2015-11-22 02:38:32 +0000 UTC,2022-09-12 06:31:54 +0000 UTC,Java,0,16,62,219,No Releases,3528,https://github.com/arimorty/floatingsearchview
+SwipeMenuListView,2014-08-24 15:40:45 +0000 UTC,2022-08-17 08:06:55 +0000 UTC,Java,2,10,127,29,2015-03-14T08:15:24Z,3512,https://github.com/baoyongzhang/SwipeMenuListView
+hudi,2016-12-14 15:53:41 +0000 UTC,2022-09-13 17:03:33 +0000 UTC,Java,18,3624,202,1612,2022-08-16T04:32:35Z,3506,https://github.com/apache/hudi
+ThreeTenABP,2015-07-03 17:35:09 +0000 UTC,2022-09-10 01:41:14 +0000 UTC,Java,0,29,5,83,No Releases,3502,https://github.com/JakeWharton/ThreeTenABP
+Geyser,2019-07-08 17:23:17 +0000 UTC,2022-09-13 17:10:08 +0000 UTC,Java,0,825,218,1985,No Releases,3502,https://github.com/GeyserMC/Geyser
+JimuReport,2019-12-05 12:25:59 +0000 UTC,2022-09-13 08:01:50 +0000 UTC,Java,4,0,61,1147,2022-07-12T03:28:04Z,3501,https://github.com/jeecgboot/JimuReport
+MagicaSakura,2016-06-23 07:54:59 +0000 UTC,2022-09-09 11:56:56 +0000 UTC,Java,3,4,23,43,2018-04-23T11:00:55Z,3501,https://github.com/bilibili/MagicaSakura
+bistoury,2019-08-01 07:54:25 +0000 UTC,2022-09-13 09:51:12 +0000 UTC,Java,8,28,52,47,2020-05-30T07:05:47Z,3496,https://github.com/qunarcorp/bistoury
+FlexibleAdapter,2015-05-02 22:00:43 +0000 UTC,2022-09-10 02:04:04 +0000 UTC,Java,30,27,62,669,2018-09-16T13:44:16Z,3494,https://github.com/davideas/FlexibleAdapter
+SwipeDelMenuLayout,2016-08-25 08:10:45 +0000 UTC,2022-09-06 11:00:03 +0000 UTC,Java,2,0,49,40,2016-11-09T04:14:30Z,3491,https://github.com/mcxtzhang/SwipeDelMenuLayout
+hackpad,2015-08-14 02:32:17 +0000 UTC,2022-09-12 11:35:53 +0000 UTC,Java,0,15,42,11,No Releases,3491,https://github.com/dropbox/hackpad
+Skeleton,2017-07-30 06:42:39 +0000 UTC,2022-09-13 00:22:03 +0000 UTC,Java,0,2,24,30,No Releases,3490,https://github.com/ethanhua/Skeleton
+GeekNews,2016-08-07 14:56:56 +0000 UTC,2022-08-31 13:30:01 +0000 UTC,Java,0,4,48,88,No Releases,3490,https://github.com/codeestX/GeekNews
+crate,2013-04-10 09:17:16 +0000 UTC,2022-09-13 04:01:47 +0000 UTC,Java,47,10520,192,1301,2022-09-06T08:13:10Z,3487,https://github.com/crate/crate
+Music-Player,2016-05-06 21:55:37 +0000 UTC,2022-09-10 01:36:39 +0000 UTC,Java,2,3,1,17,2018-02-14T14:33:53Z,3486,https://github.com/andremion/Music-Player
+Guns,2017-07-06 05:19:54 +0000 UTC,2022-09-12 17:00:18 +0000 UTC,Java,0,2,41,31,No Releases,3484,https://github.com/stylefeng/Guns
+TinyPinyin,2015-09-30 03:24:50 +0000 UTC,2022-09-10 03:57:01 +0000 UTC,Java,2,1,32,24,2017-03-11T16:14:49Z,3479,https://github.com/promeG/TinyPinyin
+SeeWeather,2016-02-20 13:10:14 +0000 UTC,2022-09-07 06:59:21 +0000 UTC,Java,2,3,0,0,2016-02-28T03:47:55Z,3468,https://github.com/xcc3641/SeeWeather
+groupie,2016-09-01 20:59:35 +0000 UTC,2022-09-13 17:36:46 +0000 UTC,Java,28,114,56,233,2022-05-03T10:37:47Z,3461,https://github.com/lisawray/groupie
+LiveEventBus,2018-07-11 07:36:59 +0000 UTC,2022-09-13 06:44:27 +0000 UTC,Java,0,3,105,49,No Releases,3460,https://github.com/JeremyLiao/LiveEventBus
+openhab1-addons,2013-09-20 20:28:43 +0000 UTC,2022-09-02 05:56:18 +0000 UTC,Java,14,2652,237,2555,2017-01-20T16:28:55Z,3458,https://github.com/openhab/openhab1-addons
+Play-with-Algorithms,2016-07-05 18:16:22 +0000 UTC,2022-09-11 06:22:57 +0000 UTC,Java,0,2,0,27,No Releases,3458,https://github.com/liuyubobobo/Play-with-Algorithms
+DSBridge-Android,2017-01-02 11:58:53 +0000 UTC,2022-09-13 14:28:26 +0000 UTC,Java,2,6,89,89,2018-02-05T10:39:28Z,3447,https://github.com/wendux/DSBridge-Android
+h2database,2015-04-10 19:09:09 +0000 UTC,2022-09-12 14:01:23 +0000 UTC,Java,18,1506,307,1651,2022-06-14T01:32:55Z,3444,https://github.com/h2database/h2database
+databus,2012-12-17 17:49:17 +0000 UTC,2022-09-09 09:58:03 +0000 UTC,Java,0,32,31,55,No Releases,3444,https://github.com/linkedin/databus
+AppUpdate,2017-06-19 09:38:42 +0000 UTC,2022-09-12 06:53:57 +0000 UTC,Java,3,10,86,48,2017-07-13T09:18:23Z,3437,https://github.com/WVector/AppUpdate
+giffun,2019-01-28 05:11:00 +0000 UTC,2022-09-13 16:23:33 +0000 UTC,Java,0,0,27,42,No Releases,3435,https://github.com/guolindev/giffun
+toBeBetterJavaer,2018-11-08 00:35:56 +0000 UTC,2022-09-13 11:48:15 +0000 UTC,Java,0,7,4,8,No Releases,3434,https://github.com/itwanger/toBeBetterJavaer
+light-4j,2016-09-09 22:28:14 +0000 UTC,2022-09-12 09:49:14 +0000 UTC,Java,150,539,30,761,2022-08-24T02:17:39Z,3434,https://github.com/networknt/light-4j
+strimzi-kafka-operator,2016-05-06 08:52:33 +0000 UTC,2022-09-13 12:49:19 +0000 UTC,Java,104,3924,97,1824,2022-09-06T12:17:12Z,3430,https://github.com/strimzi/strimzi-kafka-operator
+jetty.project,2011-07-14 01:11:57 +0000 UTC,2022-09-10 11:22:32 +0000 UTC,Java,48,3122,362,4106,2022-08-22T04:59:54Z,3429,https://github.com/eclipse/jetty.project
+Ehviewer_CN_SXJ,2020-11-09 06:14:31 +0000 UTC,2022-09-13 12:49:19 +0000 UTC,Java,41,2,92,253,2022-08-22T11:51:19Z,3426,https://github.com/xiaojieonly/Ehviewer_CN_SXJ
+BackgroundLibrary,2018-09-09 08:52:45 +0000 UTC,2022-09-13 06:38:02 +0000 UTC,Java,12,3,5,134,2022-08-17T08:09:57Z,3426,https://github.com/JavaNoober/BackgroundLibrary
+liquibase,2011-07-08 20:08:20 +0000 UTC,2022-09-11 17:49:33 +0000 UTC,Java,75,1505,458,581,2022-09-09T15:40:19Z,3420,https://github.com/liquibase/liquibase
+netty-learning,2013-09-19 02:24:25 +0000 UTC,2022-09-09 02:35:10 +0000 UTC,Java,0,2,3,3,No Releases,3418,https://github.com/code4craft/netty-learning
+android-butterknife-zelezny,2013-12-23 14:24:08 +0000 UTC,2022-09-13 04:28:13 +0000 UTC,Java,8,12,48,93,2017-03-22T12:19:29Z,3417,https://github.com/avast/android-butterknife-zelezny
+SSM,2016-06-21 10:09:02 +0000 UTC,2022-09-13 12:52:24 +0000 UTC,Java,10,9,5,28,2017-11-01T18:18:47Z,3413,https://github.com/crossoverJie/SSM
+android-priority-jobqueue,2014-06-20 00:12:45 +0000 UTC,2022-09-07 08:45:33 +0000 UTC,Java,0,62,138,255,No Releases,3411,https://github.com/yigit/android-priority-jobqueue
+maxwell,2015-02-09 22:06:13 +0000 UTC,2022-09-12 09:44:24 +0000 UTC,Java,192,730,162,814,2022-07-29T04:46:06Z,3398,https://github.com/zendesk/maxwell
+Terasology,2011-03-04 03:49:19 +0000 UTC,2022-09-13 11:24:28 +0000 UTC,Java,69,2512,477,1541,2022-09-03T10:00:21Z,3397,https://github.com/MovingBlocks/Terasology
+Leetcode,2016-07-31 05:28:15 +0000 UTC,2022-09-13 19:03:10 +0000 UTC,Java,0,95,1,16,No Releases,3393,https://github.com/fishercoder1534/Leetcode
+android-maps-utils,2013-05-17 00:08:48 +0000 UTC,2022-09-13 12:51:37 +0000 UTC,Java,25,427,53,507,2022-06-28T19:22:15Z,3391,https://github.com/googlemaps/android-maps-utils
+data-transfer-project,2018-01-04 21:27:57 +0000 UTC,2022-09-13 10:14:28 +0000 UTC,Java,49,800,125,129,2022-09-08T15:46:08Z,3385,https://github.com/google/data-transfer-project
+kylin,2015-01-03 08:00:05 +0000 UTC,2022-09-13 13:45:44 +0000 UTC,Java,0,1471,0,0,No Releases,3380,https://github.com/apache/kylin
+effective-java-3e-source-code,2018-08-03 20:48:35 +0000 UTC,2022-09-13 02:08:36 +0000 UTC,Java,0,0,10,2,No Releases,3373,https://github.com/jbloch/effective-java-3e-source-code
+MusicBot,2016-08-14 18:46:29 +0000 UTC,2022-09-13 14:45:19 +0000 UTC,Java,33,29,119,654,2022-04-06T22:28:07Z,3371,https://github.com/jagrosh/MusicBot
+jacoco,2012-07-08 21:45:13 +0000 UTC,2022-09-13 02:12:06 +0000 UTC,Java,44,422,84,674,2022-04-04T22:10:34Z,3368,https://github.com/jacoco/jacoco
+Android-Week-View,2014-09-17 10:07:12 +0000 UTC,2022-09-12 09:36:47 +0000 UTC,Java,4,36,178,306,2016-01-04T10:51:29Z,3367,https://github.com/alamkanak/Android-Week-View
+archi,2015-09-11 16:13:34 +0000 UTC,2022-09-06 03:13:10 +0000 UTC,Java,0,6,9,13,No Releases,3357,https://github.com/ivacf/archi
+oshi,2012-02-10 12:46:48 +0000 UTC,2022-09-12 15:39:57 +0000 UTC,Java,134,1287,7,798,2022-07-21T02:03:28Z,3357,https://github.com/oshi/oshi
+AlgoDS,2016-12-16 17:01:22 +0000 UTC,2022-09-12 16:18:49 +0000 UTC,Java,0,27,4,8,No Releases,3348,https://github.com/sherxon/AlgoDS
+MyBatis-Spring-Boot,2015-12-19 09:57:22 +0000 UTC,2022-09-13 09:05:37 +0000 UTC,Java,0,0,95,77,No Releases,3341,https://github.com/abel533/MyBatis-Spring-Boot
+keepass2android,2017-09-20 18:42:02 +0000 UTC,2022-09-13 18:28:32 +0000 UTC,Java,19,69,790,1187,2022-02-05T15:13:53Z,3340,https://github.com/PhilippC/keepass2android
+BottomNavigationViewEx,2016-11-12 08:39:38 +0000 UTC,2022-09-08 07:45:48 +0000 UTC,Java,19,8,53,144,2019-04-05T18:31:11Z,3329,https://github.com/ittianyu/BottomNavigationViewEx
+vertx-examples,2015-02-24 17:42:44 +0000 UTC,2022-09-09 02:27:35 +0000 UTC,Java,0,178,32,183,No Releases,3328,https://github.com/vert-x3/vertx-examples
+calcite,2014-06-25 07:00:07 +0000 UTC,2022-09-13 14:47:28 +0000 UTC,Java,0,790,0,0,No Releases,3327,https://github.com/apache/calcite
+jpexs-decompiler,2014-05-10 17:20:56 +0000 UTC,2022-09-13 16:38:30 +0000 UTC,Java,121,104,0,0,2022-08-28T14:56:10Z,3323,https://github.com/jindrapetrik/jpexs-decompiler
+LQRWeChat,2017-02-07 06:32:40 +0000 UTC,2022-09-13 08:02:50 +0000 UTC,Java,0,0,0,0,No Releases,3322,https://github.com/GitLqr/LQRWeChat
+Android,2013-09-02 16:12:28 +0000 UTC,2022-09-11 05:12:00 +0000 UTC,Java,0,0,28,1,No Releases,3322,https://github.com/hmkcode/Android
+OsmAnd,2011-01-15 19:59:44 +0000 UTC,2022-09-13 15:19:51 +0000 UTC,Java,1,4663,2366,6959,2019-10-15T09:35:43Z,3320,https://github.com/osmandapp/OsmAnd
+PreviewSeekBar,2017-01-24 23:52:44 +0000 UTC,2022-09-02 03:39:51 +0000 UTC,Java,7,6,3,34,2020-05-27T22:33:23Z,3318,https://github.com/rubensousa/PreviewSeekBar
+DDComponentForAndroid,2017-09-07 05:48:44 +0000 UTC,2022-09-09 04:03:30 +0000 UTC,Java,4,8,22,93,2018-02-09T02:21:45Z,3317,https://github.com/luojilab/DDComponentForAndroid
+ScalingLayout,2017-10-01 12:28:34 +0000 UTC,2022-09-10 08:44:27 +0000 UTC,Java,4,6,6,10,2018-05-24T06:57:54Z,3311,https://github.com/iammert/ScalingLayout
+DesignPattern,2016-10-21 10:59:32 +0000 UTC,2022-09-13 06:41:45 +0000 UTC,Java,0,2,5,20,No Releases,3309,https://github.com/youlookwhat/DesignPattern
+actor-platform,2015-06-21 00:29:57 +0000 UTC,2022-09-12 06:35:45 +0000 UTC,Java,97,160,0,0,2016-08-03T18:57:08Z,3308,https://github.com/actorapp/actor-platform
+nifi,2014-12-12 08:00:05 +0000 UTC,2022-09-13 03:03:57 +0000 UTC,Java,0,454,0,0,No Releases,3308,https://github.com/apache/nifi
+99-problems,2015-11-22 05:56:33 +0000 UTC,2022-09-12 14:13:41 +0000 UTC,Java,0,11,5,1,No Releases,3307,https://github.com/shekhargulati/99-problems
+Linkage-RecyclerView,2019-04-22 04:39:46 +0000 UTC,2022-09-11 10:27:32 +0000 UTC,Java,0,1,2,54,No Releases,3305,https://github.com/KunMinX/Linkage-RecyclerView
+library,2019-01-11 09:14:03 +0000 UTC,2022-09-13 03:33:30 +0000 UTC,Java,0,31,12,22,No Releases,3285,https://github.com/ddd-by-examples/library
+http-request,2011-10-21 19:54:58 +0000 UTC,2022-09-04 09:04:55 +0000 UTC,Java,0,12,68,58,No Releases,3283,https://github.com/kevinsawicki/http-request
+aviatorscript,2011-03-29 12:48:47 +0000 UTC,2022-09-13 04:01:36 +0000 UTC,Java,48,63,34,380,2022-08-31T14:10:55Z,3280,https://github.com/killme2008/aviatorscript
+small-spring,2021-05-15 06:07:28 +0000 UTC,2022-09-13 09:55:22 +0000 UTC,Java,0,7,20,17,No Releases,3279,https://github.com/fuzhengwei/small-spring
+novel,2019-11-11 01:13:52 +0000 UTC,2022-09-12 08:58:57 +0000 UTC,Java,9,0,14,3,2022-08-04T15:58:33Z,3276,https://github.com/201206030/novel
+LoadSir,2017-09-02 08:32:15 +0000 UTC,2022-09-09 16:40:08 +0000 UTC,Java,6,15,17,133,2020-03-08T15:55:35Z,3275,https://github.com/KingJA/LoadSir
+AutoDispose,2016-12-22 18:46:11 +0000 UTC,2022-09-07 06:44:06 +0000 UTC,Java,2,264,3,172,2021-09-07T04:45:41Z,3275,https://github.com/uber/AutoDispose
+maven,2009-05-21 03:22:03 +0000 UTC,2022-09-13 16:18:14 +0000 UTC,Java,3,207,0,0,2022-06-06T16:22:13Z,3272,https://github.com/apache/maven
+iceberg,2018-11-19 16:26:46 +0000 UTC,2022-09-13 17:05:40 +0000 UTC,Java,7,2969,780,983,2022-09-11T22:58:52Z,3259,https://github.com/apache/iceberg
+libstreaming,2013-01-30 21:24:47 +0000 UTC,2022-09-09 07:10:59 +0000 UTC,Java,0,14,229,45,No Releases,3257,https://github.com/fyhertz/libstreaming
+JDA,2015-12-12 13:57:32 +0000 UTC,2022-09-12 19:45:35 +0000 UTC,Java,61,1033,17,789,2022-09-13T16:05:47Z,3253,https://github.com/DV8FromTheWorld/JDA
+volley,2017-01-24 17:39:33 +0000 UTC,2022-09-13 02:29:26 +0000 UTC,Java,9,104,26,258,2021-08-10T19:01:27Z,3243,https://github.com/google/volley
+hope-boot,2018-10-17 07:50:48 +0000 UTC,2022-09-11 13:47:45 +0000 UTC,Java,2,42,0,29,2019-11-13T13:31:37Z,3239,https://github.com/java-aodeng/hope-boot
+LoganSquare,2015-02-17 03:24:12 +0000 UTC,2022-09-09 13:41:18 +0000 UTC,Java,0,13,66,123,No Releases,3239,https://github.com/bluelinelabs/LoganSquare
+NewbieGuide,2017-07-28 06:54:05 +0000 UTC,2022-09-13 06:59:08 +0000 UTC,Java,20,3,90,104,2019-06-27T09:11:01Z,3239,https://github.com/huburt-Hu/NewbieGuide
+LeafPic,2016-01-07 17:24:12 +0000 UTC,2022-09-13 07:28:22 +0000 UTC,Java,7,195,64,299,2016-10-09T18:20:37Z,3238,https://github.com/UnevenSoftware/LeafPic
+Android-Tips,2015-09-10 09:01:47 +0000 UTC,2022-09-09 09:34:25 +0000 UTC,Java,0,23,2,7,No Releases,3236,https://github.com/tangqi92/Android-Tips
+SuperTextView,2017-04-17 11:32:41 +0000 UTC,2022-09-13 03:11:38 +0000 UTC,Java,33,1,35,80,2022-01-17T15:38:07Z,3236,https://github.com/chenBingX/SuperTextView
+chunjun,2018-04-03 12:44:58 +0000 UTC,2022-09-13 09:47:31 +0000 UTC,Java,27,238,205,643,2022-06-25T22:53:55Z,3235,https://github.com/DTStack/chunjun
+spock,2010-12-12 19:02:34 +0000 UTC,2022-09-13 03:47:14 +0000 UTC,Java,19,464,202,697,2022-08-31T14:49:18Z,3234,https://github.com/spockframework/spock
+android-saripaar,2012-09-08 11:52:30 +0000 UTC,2022-09-09 08:19:12 +0000 UTC,Java,3,13,63,156,2015-09-18T04:12:38Z,3231,https://github.com/ragunathjawahar/android-saripaar
+flutter-webrtc,2018-03-07 02:26:03 +0000 UTC,2022-09-13 14:22:57 +0000 UTC,Java,48,208,269,530,2022-09-13T05:32:27Z,3226,https://github.com/flutter-webrtc/flutter-webrtc
+undertow,2012-07-19 00:52:44 +0000 UTC,2022-09-13 18:37:55 +0000 UTC,Java,0,895,0,0,No Releases,3226,https://github.com/undertow-io/undertow
+TelegramBots,2016-01-14 00:13:07 +0000 UTC,2022-09-13 16:37:38 +0000 UTC,Java,74,285,129,535,2022-06-21T19:41:35Z,3223,https://github.com/rubenlagus/TelegramBots
+drag-sort-listview,2012-06-01 06:32:13 +0000 UTC,2022-09-13 10:07:59 +0000 UTC,Java,0,14,58,71,No Releases,3214,https://github.com/bauerca/drag-sort-listview
+android-hidden-api,2015-09-16 11:58:33 +0000 UTC,2022-09-10 22:57:10 +0000 UTC,Java,1,2,38,48,2020-11-19T10:42:39Z,3207,https://github.com/anggrayudi/android-hidden-api
+jvm-serializers,2010-04-25 03:12:00 +0000 UTC,2022-09-10 17:24:47 +0000 UTC,Java,0,43,4,17,No Releases,3205,https://github.com/eishay/jvm-serializers
+Alink,2018-09-30 06:36:11 +0000 UTC,2022-09-13 02:38:31 +0000 UTC,Java,19,3,30,159,2022-09-08T06:37:25Z,3205,https://github.com/alibaba/Alink
+boxing,2017-01-22 07:04:34 +0000 UTC,2022-09-06 11:55:56 +0000 UTC,Java,1,4,30,123,2017-03-16T06:36:39Z,3201,https://github.com/bilibili/boxing
+AndroidViewHover,2014-08-08 12:04:43 +0000 UTC,2022-09-04 13:27:38 +0000 UTC,Java,4,3,17,9,2014-08-27T07:15:34Z,3197,https://github.com/daimajia/AndroidViewHover
+UETool,2018-05-16 08:13:17 +0000 UTC,2022-09-05 03:47:37 +0000 UTC,Java,10,52,2,38,2022-06-10T08:41:54Z,3195,https://github.com/eleme/UETool
+GalleryFinal,2015-09-21 07:01:17 +0000 UTC,2022-09-06 12:26:24 +0000 UTC,Java,4,2,118,32,2016-01-14T03:07:48Z,3192,https://github.com/pengjianbo/GalleryFinal
+typedb,2016-07-11 23:59:57 +0000 UTC,2022-09-13 12:10:50 +0000 UTC,Java,86,3708,230,2043,2022-06-28T17:30:23Z,3191,https://github.com/vaticle/typedb
+ChipsLayoutManager,2016-08-03 19:23:43 +0000 UTC,2022-09-09 09:46:04 +0000 UTC,Java,11,3,35,29,2017-01-12T11:32:08Z,3191,https://github.com/BelooS/ChipsLayoutManager
+IDDD_Samples,2013-04-08 22:12:57 +0000 UTC,2022-09-12 15:56:34 +0000 UTC,Java,0,6,23,6,No Releases,3188,https://github.com/VaughnVernon/IDDD_Samples
+ffmpeg-android-java,2014-09-11 10:12:09 +0000 UTC,2022-09-11 17:03:49 +0000 UTC,Java,8,7,265,91,2016-04-21T07:06:11Z,3187,https://github.com/WritingMinds/ffmpeg-android-java
+ActionBar-PullToRefresh,2013-06-04 14:44:53 +0000 UTC,2022-09-09 14:06:48 +0000 UTC,Java,0,12,0,0,No Releases,3182,https://github.com/chrisbanes/ActionBar-PullToRefresh
+afinal,2012-10-17 08:10:00 +0000 UTC,2022-09-09 11:58:11 +0000 UTC,Java,0,10,51,30,No Releases,3179,https://github.com/yangfuhai/afinal
+AndServer,2016-06-14 00:52:52 +0000 UTC,2022-09-13 10:05:52 +0000 UTC,Java,0,11,101,340,No Releases,3174,https://github.com/yanzhenjie/AndServer
+jfinal,2012-04-25 08:48:48 +0000 UTC,2022-09-12 08:42:01 +0000 UTC,Java,0,22,8,117,No Releases,3169,https://github.com/jfinal/jfinal
+network-connection-class,2015-03-18 02:16:43 +0000 UTC,2022-09-07 05:07:37 +0000 UTC,Java,2,5,20,13,2015-04-03T02:00:04Z,3169,https://github.com/facebookarchive/network-connection-class
+GsonFormat,2014-10-31 14:16:39 +0000 UTC,2022-09-09 05:49:20 +0000 UTC,Java,4,10,62,75,2017-01-22T10:46:18Z,3167,https://github.com/zzz40500/GsonFormat
+TextDrawable,2014-10-19 09:56:45 +0000 UTC,2022-09-10 08:18:58 +0000 UTC,Java,0,0,42,17,No Releases,3167,https://github.com/amulyakhare/TextDrawable
+NullAway,2017-09-01 17:35:57 +0000 UTC,2022-09-07 06:41:39 +0000 UTC,Java,0,385,71,167,No Releases,3163,https://github.com/uber/NullAway
+cobar,2014-01-15 11:20:09 +0000 UTC,2022-09-13 06:21:03 +0000 UTC,Java,1,12,49,32,2014-04-28T07:36:25Z,3158,https://github.com/alibaba/cobar
+JavaEETest,2016-12-13 02:13:58 +0000 UTC,2022-09-11 14:43:58 +0000 UTC,Java,0,0,6,9,No Releases,3153,https://github.com/lenve/JavaEETest
+RxAndroidBle,2016-02-04 13:42:02 +0000 UTC,2022-09-13 05:28:34 +0000 UTC,Java,53,213,47,509,2022-07-19T19:47:22Z,3151,https://github.com/dariuszseweryn/RxAndroidBle
+immutables,2013-07-07 13:48:23 +0000 UTC,2022-09-13 16:13:42 +0000 UTC,Java,8,283,371,717,2022-09-08T02:56:26Z,3150,https://github.com/immutables/immutables
+jmonkeyengine,2014-03-20 22:29:28 +0000 UTC,2022-09-13 14:50:16 +0000 UTC,Java,48,803,168,658,2022-04-18T08:47:06Z,3148,https://github.com/jMonkeyEngine/jmonkeyengine
+BubbleSeekBar,2016-11-03 14:31:05 +0000 UTC,2022-09-13 14:30:47 +0000 UTC,Java,12,4,52,145,2017-03-12T12:53:35Z,3146,https://github.com/woxingxiao/BubbleSeekBar
+react-native-share,2015-09-30 02:27:34 +0000 UTC,2022-09-13 10:11:50 +0000 UTC,Java,91,360,33,820,2022-08-21T21:14:33Z,3145,https://github.com/react-native-share/react-native-share
+StickerCamera,2015-07-05 14:12:43 +0000 UTC,2022-09-13 02:57:16 +0000 UTC,Java,0,0,45,6,No Releases,3143,https://github.com/Skykai521/StickerCamera
+igniter,2018-11-08 22:19:03 +0000 UTC,2022-09-13 11:40:15 +0000 UTC,Java,33,77,23,278,2021-12-19T08:55:24Z,3143,https://github.com/trojan-gfw/igniter
+Android-BluetoothKit,2015-10-08 09:07:33 +0000 UTC,2022-09-13 02:35:24 +0000 UTC,Java,0,2,102,66,No Releases,3142,https://github.com/dingjikerbo/Android-BluetoothKit
+wgcloud,2019-01-15 02:02:21 +0000 UTC,2022-09-13 14:10:38 +0000 UTC,Java,12,0,10,26,2022-07-28T08:02:22Z,3141,https://github.com/tianshiyeben/wgcloud
+AndEngine,2011-11-22 14:20:11 +0000 UTC,2022-09-04 10:02:38 +0000 UTC,Java,0,44,79,84,No Releases,3140,https://github.com/nicolasgramlich/AndEngine
+animate,2015-11-16 15:06:22 +0000 UTC,2022-09-03 10:01:32 +0000 UTC,Java,0,0,5,0,No Releases,3138,https://github.com/hitherejoe/animate
+spring-cloud-kubernetes,2016-12-13 21:36:25 +0000 UTC,2022-09-13 09:04:25 +0000 UTC,Java,0,373,43,512,No Releases,3135,https://github.com/spring-cloud/spring-cloud-kubernetes
+native-navigation,2016-09-16 17:16:56 +0000 UTC,2022-09-09 11:56:30 +0000 UTC,Java,0,64,52,20,No Releases,3133,https://github.com/airbnb/native-navigation
+MifareClassicTool,2013-02-12 15:39:03 +0000 UTC,2022-09-13 08:12:30 +0000 UTC,Java,2,76,35,248,2021-11-22T18:37:17Z,3133,https://github.com/ikarus23/MifareClassicTool
+java-tron,2017-12-26 10:20:38 +0000 UTC,2022-09-13 18:37:03 +0000 UTC,Java,68,2791,7,1031,2022-08-18T08:14:26Z,3133,https://github.com/tronprotocol/java-tron
+jetlinks-community,2020-01-02 07:27:34 +0000 UTC,2022-09-13 13:03:58 +0000 UTC,Java,15,18,7,141,2022-06-20T10:12:58Z,3130,https://github.com/jetlinks/jetlinks-community
+VideoPlayerManager,2015-07-09 21:32:15 +0000 UTC,2022-09-09 11:59:11 +0000 UTC,Java,0,1,90,24,No Releases,3125,https://github.com/danylovolokh/VideoPlayerManager
+jvm-tools,2012-04-28 09:28:32 +0000 UTC,2022-09-13 12:08:53 +0000 UTC,Java,0,26,7,32,No Releases,3123,https://github.com/aragozin/jvm-tools
+awaitility,2010-01-22 15:12:52 +0000 UTC,2022-09-13 07:51:55 +0000 UTC,Java,0,70,50,81,No Releases,3121,https://github.com/awaitility/awaitility
+android-adDialog,2016-08-02 08:00:57 +0000 UTC,2022-09-13 05:57:31 +0000 UTC,Java,0,0,20,7,No Releases,3116,https://github.com/yipianfengye/android-adDialog
+citypicker,2016-05-12 01:21:33 +0000 UTC,2022-09-13 09:06:30 +0000 UTC,Java,4,14,28,182,2021-07-12T02:03:32Z,3115,https://github.com/crazyandcoder/citypicker
+jackson-databind,2011-12-23 07:17:41 +0000 UTC,2022-09-12 07:29:30 +0000 UTC,Java,0,405,446,2467,No Releases,3115,https://github.com/FasterXML/jackson-databind
+red5-server,2013-11-19 05:04:10 +0000 UTC,2022-09-13 11:16:39 +0000 UTC,Java,65,54,33,207,2022-09-09T13:54:46Z,3115,https://github.com/Red5/red5-server
+librec,2014-01-09 16:06:11 +0000 UTC,2022-09-08 10:35:20 +0000 UTC,Java,3,62,67,188,2017-04-22T12:12:02Z,3114,https://github.com/guoguibing/librec
+pixel-dungeon,2014-07-26 17:34:32 +0000 UTC,2022-09-13 18:38:25 +0000 UTC,Java,0,3,41,27,No Releases,3114,https://github.com/watabou/pixel-dungeon
+Highlight,2015-10-08 15:03:40 +0000 UTC,2022-09-08 01:17:59 +0000 UTC,Java,0,8,61,10,No Releases,3112,https://github.com/hongyangAndroid/Highlight
+Cockroach,2017-02-14 03:43:51 +0000 UTC,2022-09-04 02:36:23 +0000 UTC,Java,1,0,24,42,2017-02-17T01:54:59Z,3108,https://github.com/android-notes/Cockroach
+PojavLauncher,2020-03-11 03:22:54 +0000 UTC,2022-09-13 13:36:28 +0000 UTC,Java,123,149,67,3123,2022-05-28T20:25:17Z,3108,https://github.com/PojavLauncherTeam/PojavLauncher
+requery,2015-11-14 00:45:31 +0000 UTC,2022-09-12 11:32:06 +0000 UTC,Java,43,54,172,686,2019-05-06T05:58:40Z,3103,https://github.com/requery/requery
+ripme,2017-01-06 17:12:09 +0000 UTC,2022-09-12 18:21:22 +0000 UTC,Java,126,602,602,653,2021-05-04T18:08:52Z,3092,https://github.com/RipMeApp/ripme
+Java8InAction,2013-10-28 23:59:40 +0000 UTC,2022-09-11 19:52:48 +0000 UTC,Java,0,4,18,6,No Releases,3079,https://github.com/java8/Java8InAction
+RecyclerViewItemAnimators,2014-08-22 00:24:43 +0000 UTC,2022-08-17 04:43:23 +0000 UTC,Java,0,0,11,6,No Releases,3063,https://github.com/gabrielemariotti/RecyclerViewItemAnimators
+CityPicker,2016-02-27 09:11:27 +0000 UTC,2022-09-12 16:43:24 +0000 UTC,Java,2,1,40,59,2021-07-07T06:53:37Z,3054,https://github.com/zaaach/CityPicker
+RxEasyHttp,2017-06-07 09:33:47 +0000 UTC,2022-09-03 15:15:23 +0000 UTC,Java,0,0,29,215,No Releases,3052,https://github.com/zhou-you/RxEasyHttp
+sofa-jarslink,2018-02-02 06:02:09 +0000 UTC,2022-09-09 17:29:18 +0000 UTC,Java,2,34,14,70,2018-04-14T03:35:28Z,3047,https://github.com/sofastack/sofa-jarslink
+JCTools,2013-11-10 18:04:40 +0000 UTC,2022-09-13 16:42:47 +0000 UTC,Java,16,115,40,178,2022-08-31T15:38:12Z,3045,https://github.com/JCTools/JCTools
+PRDownloader,2017-11-11 19:29:38 +0000 UTC,2022-09-13 04:02:01 +0000 UTC,Java,5,27,109,55,2019-06-13T06:09:15Z,3043,https://github.com/MindorksOpenSource/PRDownloader
+yanxuan-weex-demo,2017-09-05 11:48:42 +0000 UTC,2022-09-06 10:55:53 +0000 UTC,Java,0,3,0,0,No Releases,3043,https://github.com/zwwill/yanxuan-weex-demo
+android,2016-06-06 21:23:36 +0000 UTC,2022-09-13 11:41:44 +0000 UTC,Java,193,3932,1017,5063,2022-09-01T14:32:50Z,3041,https://github.com/nextcloud/android
+Crouton,2012-08-03 11:04:36 +0000 UTC,2022-09-02 12:14:54 +0000 UTC,Java,8,40,5,161,2014-07-17T14:50:11Z,3039,https://github.com/keyboardsurfer/Crouton
+ShapeOfView,2018-02-18 12:14:06 +0000 UTC,2022-09-11 10:19:19 +0000 UTC,Java,0,9,47,22,No Releases,3039,https://github.com/florent37/ShapeOfView
+leetcode,2017-03-09 10:30:30 +0000 UTC,2022-09-12 22:30:48 +0000 UTC,Java,0,2,1,2,No Releases,3034,https://github.com/gouthampradhan/leetcode
+ViewpagerTransition,2016-09-19 05:38:45 +0000 UTC,2022-09-05 08:48:43 +0000 UTC,Java,1,0,3,10,2016-09-22T06:09:48Z,3034,https://github.com/xmuSistone/ViewpagerTransition
+MarsDaemon,2015-12-25 03:21:41 +0000 UTC,2022-09-11 18:12:29 +0000 UTC,Java,0,0,42,5,No Releases,3032,https://github.com/Marswin/MarsDaemon
+android-viewbadger,2011-09-27 22:50:57 +0000 UTC,2022-08-31 15:22:37 +0000 UTC,Java,0,0,0,0,No Releases,3030,https://github.com/jgilfelt/android-viewbadger
+migration,2020-01-08 02:11:38 +0000 UTC,2022-09-13 11:58:30 +0000 UTC,Java,0,7,0,2,No Releases,3030,https://github.com/phodal/migration
+QR-Code-generator,2016-04-15 02:19:41 +0000 UTC,2022-09-13 13:35:55 +0000 UTC,Java,3,4,5,94,2022-04-17T04:15:56Z,3026,https://github.com/nayuki/QR-Code-generator
+flink-cdc-connectors,2020-07-27 19:23:33 +0000 UTC,2022-09-13 07:09:06 +0000 UTC,Java,10,294,439,470,2022-04-26T12:16:30Z,3024,https://github.com/ververica/flink-cdc-connectors
+lombok-intellij-plugin,2013-10-09 21:49:01 +0000 UTC,2022-09-13 08:33:21 +0000 UTC,Java,116,161,156,707,2021-01-19T19:24:45Z,3023,https://github.com/mplushnikov/lombok-intellij-plugin
+android-process-button,2014-05-02 20:39:23 +0000 UTC,2022-09-11 01:01:00 +0000 UTC,Java,1,2,19,32,2014-05-25T18:48:34Z,3013,https://github.com/dmytrodanylyk/android-process-button
+TableView,2017-06-13 04:29:44 +0000 UTC,2022-09-10 10:14:51 +0000 UTC,Java,12,62,190,137,2021-03-18T22:56:57Z,3011,https://github.com/evrencoskun/TableView
+DraggablePanel,2014-04-13 11:40:54 +0000 UTC,2022-09-08 12:47:03 +0000 UTC,Java,10,13,51,58,2015-11-29T22:04:38Z,3003,https://github.com/pedrovgs/DraggablePanel
+tablesaw,2016-01-01 14:58:28 +0000 UTC,2022-09-13 17:46:44 +0000 UTC,Java,79,379,82,579,2022-04-02T22:54:33Z,2997,https://github.com/jtablesaw/tablesaw
+Carbon,2015-02-04 23:11:18 +0000 UTC,2022-09-12 11:26:06 +0000 UTC,Java,2,3,11,416,2015-11-30T23:07:11Z,2997,https://github.com/ZieIony/Carbon
+react-native-fbsdk,2015-08-03 17:10:14 +0000 UTC,2022-08-14 09:40:22 +0000 UTC,Java,22,121,224,406,2020-11-23T21:13:50Z,2996,https://github.com/facebookarchive/react-native-fbsdk
+LikeButton,2015-12-23 17:49:46 +0000 UTC,2022-09-13 09:23:25 +0000 UTC,Java,14,11,0,0,2017-09-08T05:57:55Z,2995,https://github.com/jd-alexander/LikeButton
+yuicompressor,2008-12-05 19:13:24 +0000 UTC,2022-09-09 02:00:52 +0000 UTC,Java,1,65,140,85,2013-05-15T07:23:58Z,2987,https://github.com/yui/yuicompressor
+MultiImageSelector,2015-04-08 10:12:50 +0000 UTC,2022-08-31 03:14:48 +0000 UTC,Java,2,1,86,53,2016-06-12T10:13:14Z,2986,https://github.com/lovetuzitong/MultiImageSelector
+android-mvp-mvvm-flytour,2018-12-25 10:42:31 +0000 UTC,2022-09-13 15:16:02 +0000 UTC,Java,11,1,6,3,2020-03-23T04:32:33Z,2982,https://github.com/mxdldev/android-mvp-mvvm-flytour
+booksource,2016-10-04 02:55:57 +0000 UTC,2022-09-12 11:47:47 +0000 UTC,Java,0,0,9,32,No Releases,2982,https://github.com/guolindev/booksource
+robospice,2012-09-19 14:09:37 +0000 UTC,2022-09-13 04:38:31 +0000 UTC,Java,1,38,76,301,2013-06-24T07:15:31Z,2979,https://github.com/stephanenicolas/robospice
+SlidingRootNav,2017-03-26 22:58:48 +0000 UTC,2022-09-13 09:31:52 +0000 UTC,Java,1,3,49,43,2020-08-01T15:35:23Z,2978,https://github.com/yarolegovich/SlidingRootNav
+dexcount-gradle-plugin,2015-06-04 03:33:17 +0000 UTC,2022-09-12 14:07:35 +0000 UTC,Java,20,285,2,177,2022-01-25T22:53:56Z,2978,https://github.com/KeepSafe/dexcount-gradle-plugin
+bitcoin-wallet,2012-03-31 17:06:47 +0000 UTC,2022-09-13 04:50:45 +0000 UTC,Java,18,6,57,500,2017-03-06T09:32:04Z,2970,https://github.com/bitcoin-wallet/bitcoin-wallet
+brigadier,2014-09-15 08:48:24 +0000 UTC,2022-09-13 07:15:40 +0000 UTC,Java,3,23,32,21,2021-07-16T13:20:33Z,2967,https://github.com/Mojang/brigadier
+Nuwa,2015-11-11 14:48:23 +0000 UTC,2022-09-09 06:53:29 +0000 UTC,Java,0,0,65,32,No Releases,2967,https://github.com/jasonross/Nuwa
+sofa-jraft,2019-03-04 10:13:43 +0000 UTC,2022-09-13 02:44:51 +0000 UTC,Java,24,336,43,432,2022-06-20T10:33:29Z,2965,https://github.com/sofastack/sofa-jraft
+allure2,2016-05-27 14:06:05 +0000 UTC,2022-09-13 16:05:31 +0000 UTC,Java,53,541,300,583,2022-08-10T15:52:08Z,2964,https://github.com/allure-framework/allure2
+DeepLearning,2013-01-01 16:23:53 +0000 UTC,2022-09-13 04:46:15 +0000 UTC,Java,0,0,22,2,No Releases,2957,https://github.com/yusugomori/DeepLearning
+initializr,2013-06-07 16:02:22 +0000 UTC,2022-09-12 17:39:44 +0000 UTC,Java,12,23,46,834,2022-01-24T13:40:57Z,2956,https://github.com/spring-io/initializr
+light-task-scheduler,2014-10-24 12:53:14 +0000 UTC,2022-09-09 17:30:49 +0000 UTC,Java,29,287,98,26,2017-03-06T13:54:02Z,2954,https://github.com/ltsopensource/light-task-scheduler
+AndroidChromium,2016-07-04 07:28:36 +0000 UTC,2022-09-10 15:24:38 +0000 UTC,Java,2,4,18,58,2017-06-01T05:10:34Z,2953,https://github.com/JackyAndroid/AndroidChromium
+openj9,2017-08-25 13:46:07 +0000 UTC,2022-09-13 13:53:18 +0000 UTC,Java,33,8692,1848,4430,2022-08-17T20:46:40Z,2946,https://github.com/eclipse-openj9/openj9
+jwt-spring-security-demo,2016-03-20 19:16:17 +0000 UTC,2022-09-12 21:55:04 +0000 UTC,Java,3,12,6,92,2018-01-24T12:46:51Z,2932,https://github.com/szerhusenBC/jwt-spring-security-demo
+cropper,2013-07-24 21:59:06 +0000 UTC,2022-09-09 14:54:57 +0000 UTC,Java,0,21,89,22,No Releases,2930,https://github.com/edmodo/cropper
+IoT-Technical-Guide,2019-04-02 01:52:44 +0000 UTC,2022-09-13 17:52:02 +0000 UTC,Java,0,6,0,7,No Releases,2928,https://github.com/IoT-Technology/IoT-Technical-Guide
+WebCollector,2014-07-12 03:16:12 +0000 UTC,2022-09-12 02:23:17 +0000 UTC,Java,0,2,48,57,No Releases,2926,https://github.com/CrawlScript/WebCollector
+logging-log4j2,2013-06-12 07:00:19 +0000 UTC,2022-09-13 10:44:23 +0000 UTC,Java,0,447,0,0,No Releases,2920,https://github.com/apache/logging-log4j2
+android-vision,2015-07-01 21:40:31 +0000 UTC,2022-09-11 10:44:49 +0000 UTC,Java,0,14,307,120,No Releases,2911,https://github.com/googlesamples/android-vision
+ipscan,2011-06-28 20:58:48 +0000 UTC,2022-09-13 01:39:58 +0000 UTC,Java,28,37,118,196,2022-01-22T15:37:07Z,2911,https://github.com/angryip/ipscan
+BannerViewPager,2017-03-28 09:11:11 +0000 UTC,2022-09-13 07:53:38 +0000 UTC,Java,51,50,4,213,2022-09-10T07:22:03Z,2911,https://github.com/zhpanvip/BannerViewPager
+blog_demos,2017-04-09 04:51:56 +0000 UTC,2022-09-13 16:17:27 +0000 UTC,Java,0,11,10,6,No Releases,2910,https://github.com/zq2599/blog_demos
+AndroidTreeView,2015-02-11 02:48:05 +0000 UTC,2022-09-08 00:40:40 +0000 UTC,Java,0,5,108,62,No Releases,2905,https://github.com/bmelnychuk/AndroidTreeView
+android,2014-10-04 05:53:29 +0000 UTC,2022-09-13 01:43:41 +0000 UTC,Java,33,77,339,603,2016-06-18T00:20:56Z,2905,https://github.com/cSploit/android
+GDA-android-reversing-Tool,2017-10-31 08:18:29 +0000 UTC,2022-09-13 17:28:18 +0000 UTC,Java,32,0,26,83,2022-06-15T23:47:34Z,2905,https://github.com/charles2gan/GDA-android-reversing-Tool
+jersey,2012-05-18 11:38:25 +0000 UTC,2022-08-18 02:57:21 +0000 UTC,Java,30,107,459,3010,2018-04-10T07:29:46Z,2902,https://github.com/javaee/jersey
+Sunshine-Version-2,2015-03-05 01:48:44 +0000 UTC,2022-08-25 09:43:57 +0000 UTC,Java,0,0,70,19,No Releases,2897,https://github.com/udacity/Sunshine-Version-2
+android-pathview,2015-01-20 15:21:06 +0000 UTC,2022-09-01 07:13:01 +0000 UTC,Java,2,12,8,21,2015-12-12T20:58:16Z,2894,https://github.com/geftimov/android-pathview
+java-developer-roadmap,2019-04-23 06:42:13 +0000 UTC,2022-09-13 18:41:31 +0000 UTC,Java,0,4,1,8,No Releases,2893,https://github.com/s4kibs4mi/java-developer-roadmap
+Ant-Media-Server,2017-03-01 08:21:13 +0000 UTC,2022-09-12 16:13:08 +0000 UTC,Java,40,707,799,2788,2022-04-18T20:31:25Z,2891,https://github.com/ant-media/Ant-Media-Server
+CountdownView,2015-10-12 07:46:28 +0000 UTC,2022-09-08 08:13:12 +0000 UTC,Java,3,4,23,115,2016-06-30T10:32:50Z,2891,https://github.com/iwgang/CountdownView
+RealtimeBlurView,2016-09-21 15:59:51 +0000 UTC,2022-09-10 16:54:00 +0000 UTC,Java,0,0,31,24,No Releases,2888,https://github.com/mmin18/RealtimeBlurView
+FadingActionBar,2013-05-25 11:50:00 +0000 UTC,2022-08-17 11:43:50 +0000 UTC,Java,0,2,73,34,No Releases,2887,https://github.com/ManuelPeinado/FadingActionBar
+BlurView,2016-04-21 16:00:07 +0000 UTC,2022-09-13 11:00:27 +0000 UTC,Java,25,9,17,146,2022-07-19T13:54:01Z,2876,https://github.com/Dimezis/BlurView
+camunda-bpm-platform,2013-01-03 10:10:31 +0000 UTC,2022-09-13 02:12:12 +0000 UTC,Java,0,1189,1,0,No Releases,2875,https://github.com/camunda/camunda-bpm-platform
+Packages,2015-06-13 04:17:44 +0000 UTC,2022-09-10 05:58:57 +0000 UTC,Java,0,1747,200,1206,No Releases,2866,https://github.com/sublimehq/Packages
+WePush,2017-06-23 09:03:36 +0000 UTC,2022-09-13 06:23:42 +0000 UTC,Java,50,221,21,24,2022-01-09T07:31:42Z,2865,https://github.com/rememberber/WePush
+FlyRefresh,2015-05-28 10:19:34 +0000 UTC,2022-09-09 14:07:24 +0000 UTC,Java,2,2,5,8,2015-08-21T02:17:02Z,2864,https://github.com/race604/FlyRefresh
+AndroidTVLauncher,2016-03-27 08:59:19 +0000 UTC,2022-09-05 06:07:45 +0000 UTC,Java,3,15,3,29,2020-03-16T11:49:32Z,2858,https://github.com/JackyAndroid/AndroidTVLauncher
+IntelliJ-Key-Promoter-X,2017-07-28 22:09:25 +0000 UTC,2022-09-13 12:52:12 +0000 UTC,Java,21,6,8,80,2022-06-04T10:47:59Z,2857,https://github.com/halirutan/IntelliJ-Key-Promoter-X
+PlayerBase,2017-03-28 10:19:51 +0000 UTC,2022-09-08 10:28:31 +0000 UTC,Java,18,5,13,123,2021-01-20T14:55:23Z,2856,https://github.com/jiajunhui/PlayerBase
+anthelion,2015-10-27 00:42:01 +0000 UTC,2022-08-31 11:01:45 +0000 UTC,Java,0,1,4,2,No Releases,2854,https://github.com/YahooArchive/anthelion
+RxJava2Examples,2017-06-19 05:38:45 +0000 UTC,2022-08-28 05:07:21 +0000 UTC,Java,0,0,5,4,No Releases,2854,https://github.com/nanchen2251/RxJava2Examples
+AndroidResideMenu,2013-12-14 15:25:49 +0000 UTC,2022-08-17 07:33:04 +0000 UTC,Java,7,8,95,49,2015-01-07T09:39:51Z,2852,https://github.com/SpecialCyCi/AndroidResideMenu
+QNotified,2019-03-24 05:12:41 +0000 UTC,2022-09-13 05:35:19 +0000 UTC,Java,28,680,87,487,2021-12-31T13:06:17Z,2852,https://github.com/ferredoxin/QNotified
+Android-Material-Examples,2014-10-13 16:13:02 +0000 UTC,2022-09-06 01:43:07 +0000 UTC,Java,0,1,5,5,No Releases,2852,https://github.com/saulmm/Android-Material-Examples
+Bastillion,2013-02-07 23:11:49 +0000 UTC,2022-09-11 03:00:31 +0000 UTC,Java,17,79,120,222,2022-02-13T16:18:27Z,2851,https://github.com/bastillion-io/Bastillion
+geoserver,2011-11-10 19:56:06 +0000 UTC,2022-09-13 08:41:50 +0000 UTC,Java,15,5331,0,0,2022-08-21T20:24:37Z,2850,https://github.com/geoserver/geoserver
+poi-tl,2015-03-20 06:47:52 +0000 UTC,2022-09-13 05:51:34 +0000 UTC,Java,12,17,52,765,2022-04-14T14:51:11Z,2849,https://github.com/Sayi/poi-tl
+AarogyaSetu_Android,2020-05-26 17:36:26 +0000 UTC,2022-09-08 05:01:48 +0000 UTC,Java,0,0,297,91,No Releases,2848,https://github.com/nic-delhi/AarogyaSetu_Android
+android-flip,2012-05-22 07:48:41 +0000 UTC,2022-08-30 16:46:27 +0000 UTC,Java,0,3,81,54,No Releases,2847,https://github.com/openaphid/android-flip
+AdapterDelegates,2015-07-29 11:19:56 +0000 UTC,2022-09-12 07:06:34 +0000 UTC,Java,18,34,14,46,2022-03-16T14:43:01Z,2847,https://github.com/sockeqwe/AdapterDelegates
+google-services,2015-05-20 22:45:11 +0000 UTC,2022-09-13 02:21:39 +0000 UTC,Java,0,85,121,296,No Releases,2846,https://github.com/googlesamples/google-services
+FastDev4Android,2015-10-22 05:22:53 +0000 UTC,2022-09-12 03:19:12 +0000 UTC,Java,4,0,8,2,2015-11-21T02:27:27Z,2844,https://github.com/jiangqqlmj/FastDev4Android
+AxonFramework,2011-12-02 16:04:42 +0000 UTC,2022-09-12 03:07:59 +0000 UTC,Java,97,1154,78,949,2022-08-03T12:27:46Z,2844,https://github.com/AxonFramework/AxonFramework
+blueocean-plugin,2016-01-23 18:02:45 +0000 UTC,2022-09-08 14:38:45 +0000 UTC,Java,37,1777,0,0,2022-09-07T00:38:23Z,2844,https://github.com/jenkinsci/blueocean-plugin
+spotless,2015-04-27 19:10:58 +0000 UTC,2022-09-13 09:06:31 +0000 UTC,Java,0,533,114,556,No Releases,2841,https://github.com/diffplug/spotless
+XhsEmoticonsKeyboard,2015-03-06 02:39:34 +0000 UTC,2022-09-13 03:50:40 +0000 UTC,Java,7,0,36,41,2016-06-15T06:46:49Z,2839,https://github.com/w446108264/XhsEmoticonsKeyboard
+PhotoPicker,2015-06-25 16:53:50 +0000 UTC,2022-08-17 04:43:34 +0000 UTC,Java,13,56,114,106,2017-12-22T06:52:55Z,2836,https://github.com/donglua/PhotoPicker
+CommonDevKnowledge,2017-12-15 03:00:08 +0000 UTC,2022-09-07 02:21:22 +0000 UTC,Java,0,0,3,2,No Releases,2835,https://github.com/AweiLoveAndroid/CommonDevKnowledge
+curator,2014-03-03 08:00:07 +0000 UTC,2022-09-09 09:09:04 +0000 UTC,Java,0,268,0,0,No Releases,2835,https://github.com/apache/curator
+elasticsearch-jdbc,2012-06-02 23:17:56 +0000 UTC,2022-09-06 08:39:55 +0000 UTC,Java,19,65,402,479,2015-10-28T17:42:06Z,2834,https://github.com/jprante/elasticsearch-jdbc
+Android-Skin-Loader,2015-07-01 07:36:33 +0000 UTC,2022-09-09 07:26:24 +0000 UTC,Java,0,1,30,9,No Releases,2831,https://github.com/fengjundev/Android-Skin-Loader
+serve,2019-10-03 03:17:43 +0000 UTC,2022-09-13 17:11:42 +0000 UTC,Java,13,601,153,843,2022-05-13T16:08:57Z,2829,https://github.com/pytorch/serve
+ByteTCC,2016-02-12 11:51:14 +0000 UTC,2022-09-09 02:44:33 +0000 UTC,Java,17,2,100,45,2019-05-09T06:54:11Z,2829,https://github.com/liuyangming/ByteTCC
+ReLinker,2015-10-15 18:23:00 +0000 UTC,2022-09-13 05:47:18 +0000 UTC,Java,12,26,20,46,2021-07-09T16:32:28Z,2826,https://github.com/KeepSafe/ReLinker
+spotbugs,2016-11-04 22:18:08 +0000 UTC,2022-09-13 11:54:56 +0000 UTC,Java,56,947,452,511,2022-09-05T03:47:42Z,2825,https://github.com/spotbugs/spotbugs
+RxGalleryFinal,2016-04-22 01:41:15 +0000 UTC,2022-08-13 10:30:15 +0000 UTC,Java,1,12,141,148,2017-05-31T10:24:41Z,2825,https://github.com/FinalTeam/RxGalleryFinal
+ActivityRouter,2016-04-08 02:27:14 +0000 UTC,2022-08-29 08:10:16 +0000 UTC,Java,3,6,30,51,2016-08-10T02:44:23Z,2820,https://github.com/mzule/ActivityRouter
+StickyHeaderListView,2016-04-22 11:39:25 +0000 UTC,2022-08-03 07:30:27 +0000 UTC,Java,0,0,8,16,No Releases,2818,https://github.com/sunfusheng/StickyHeaderListView
+android-percent-support-lib-sample,2015-06-26 12:44:38 +0000 UTC,2022-08-01 08:26:09 +0000 UTC,Java,2,1,1,13,2015-06-28T20:51:25Z,2817,https://github.com/JulienGenoud/android-percent-support-lib-sample
+android-mvvm-architecture,2017-07-07 08:34:07 +0000 UTC,2022-09-13 06:31:46 +0000 UTC,Java,0,23,35,12,No Releases,2813,https://github.com/MindorksOpenSource/android-mvvm-architecture
+android-Camera2Basic,2014-06-26 15:53:00 +0000 UTC,2022-09-13 09:20:10 +0000 UTC,Java,0,1,0,132,No Releases,2813,https://github.com/googlearchive/android-Camera2Basic
+android-pdfview,2012-11-21 16:19:38 +0000 UTC,2022-09-08 02:41:59 +0000 UTC,Java,0,10,130,82,No Releases,2809,https://github.com/JoanZapata/android-pdfview
+shopizer,2012-11-21 03:42:39 +0000 UTC,2022-09-12 19:36:36 +0000 UTC,Java,17,116,170,211,2022-09-06T20:41:59Z,2807,https://github.com/shopizer-ecommerce/shopizer
+My-Blog,2019-03-04 09:17:00 +0000 UTC,2022-09-13 05:12:44 +0000 UTC,Java,0,2,7,109,No Releases,2806,https://github.com/ZHENFENG13/My-Blog
+NekoX,2020-04-02 14:13:25 +0000 UTC,2022-09-13 17:21:10 +0000 UTC,Java,185,155,138,273,2022-08-30T16:03:41Z,2804,https://github.com/NekoX-Dev/NekoX
+JavaGuide,2018-05-07 13:27:00 +0000 UTC,2022-09-13 18:57:19 +0000 UTC,Java,0,715,66,756,No Releases,127237,https://github.com/Snailclimb/JavaGuide
+java-design-patterns,2014-08-09 16:45:18 +0000 UTC,2022-09-13 18:59:56 +0000 UTC,Java,0,853,218,481,No Releases,76718,https://github.com/iluwatar/java-design-patterns
+LeetCodeAnimation,2018-12-06 08:01:22 +0000 UTC,2022-09-13 18:43:27 +0000 UTC,Java,0,63,15,42,No Releases,71417,https://github.com/MisterBooo/LeetCodeAnimation
+advanced-java,2018-10-06 11:38:30 +0000 UTC,2022-09-13 15:57:25 +0000 UTC,Java,1,74,1,133,2021-10-21T09:28:54Z,65389,https://github.com/doocs/advanced-java
+spring-boot,2012-10-19 15:02:57 +0000 UTC,2022-09-13 17:51:57 +0000 UTC,Java,145,41,540,26116,2022-08-18T05:22:18Z,63149,https://github.com/spring-projects/spring-boot
+elasticsearch,2010-02-08 13:20:56 +0000 UTC,2022-09-13 19:10:40 +0000 UTC,Java,96,50956,3430,27246,2022-08-30T15:30:35Z,61103,https://github.com/elastic/elasticsearch
+mall,2018-04-04 01:11:44 +0000 UTC,2022-09-13 18:57:21 +0000 UTC,Java,2,0,25,414,2022-06-07T09:28:50Z,60980,https://github.com/macrozheng/mall
+interviews,2017-02-14 18:19:25 +0000 UTC,2022-09-13 18:55:51 +0000 UTC,Java,0,42,30,19,No Releases,58176,https://github.com/kdn251/interviews
+spring-framework,2010-12-08 04:04:45 +0000 UTC,2022-09-13 18:41:14 +0000 UTC,Java,234,720,1229,21239,2022-07-14T08:39:33Z,49104,https://github.com/spring-projects/spring-framework
+GitHub-Chinese-Top-Charts,2019-09-05 03:01:56 +0000 UTC,2022-09-13 17:36:48 +0000 UTC,Java,0,0,88,147,No Releases,48051,https://github.com/GrowingGit/GitHub-Chinese-Top-Charts
+Java,2016-07-16 10:21:02 +0000 UTC,2022-09-13 18:55:35 +0000 UTC,Java,0,836,9,675,No Releases,47692,https://github.com/TheAlgorithms/Java
+RxJava,2013-01-08 20:11:48 +0000 UTC,2022-09-13 17:51:57 +0000 UTC,Java,229,3103,12,3085,2022-05-30T06:49:23Z,46429,https://github.com/ReactiveX/RxJava
+guava,2014-05-29 16:23:17 +0000 UTC,2022-09-13 17:39:01 +0000 UTC,Java,35,363,656,2726,2022-02-28T21:06:35Z,45680,https://github.com/google/guava
+retrofit,2010-09-06 21:39:43 +0000 UTC,2022-09-13 16:22:29 +0000 UTC,Java,0,764,140,2457,No Releases,40520,https://github.com/square/retrofit
+dubbo,2012-06-19 07:56:02 +0000 UTC,2022-09-13 15:03:59 +0000 UTC,Java,54,3433,432,5012,2022-08-17T13:51:59Z,37841,https://github.com/apache/dubbo
+MPAndroidChart,2014-04-25 14:29:47 +0000 UTC,2022-09-13 16:23:50 +0000 UTC,Java,44,190,1969,2861,2019-03-16T10:53:42Z,35556,https://github.com/PhilJay/MPAndroidChart
+ghidra,2019-03-01 03:27:48 +0000 UTC,2022-09-13 14:05:19 +0000 UTC,Java,22,305,1190,2149,2022-07-26T19:12:21Z,34190,https://github.com/NationalSecurityAgency/ghidra
+lottie-android,2016-10-06 22:42:42 +0000 UTC,2022-09-13 17:30:37 +0000 UTC,Java,43,552,33,1437,2022-05-31T00:33:21Z,33184,https://github.com/airbnb/lottie-android
+glide,2013-07-08 22:52:33 +0000 UTC,2022-09-13 16:22:26 +0000 UTC,Java,39,407,365,3786,2022-05-04T20:39:28Z,32964,https://github.com/bumptech/glide
+tutorials,2013-04-29 18:26:36 +0000 UTC,2022-09-13 17:53:52 +0000 UTC,Java,0,8733,25,594,No Releases,31919,https://github.com/eugenp/tutorials
